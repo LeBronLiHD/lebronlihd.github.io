@@ -21,7 +21,7 @@ category: sfc
   - 需要购置：Arduino开发板、蓝牙模块（或者wifi模块）、电源模块、杜邦线、面包板、开关灯舵机等
   - 硬件：该项目的硬件设计较多，不仅仅是整体外壳设计与零件固定设计，还有最重要的开关灯设计，需要使用SolidWorks进行设计与材质选择，最后通过联系厂家或者3D打印制造
   - 软件：设计简易UI界面，可以是APP或者微信小程序，通过点击手机实现远程开关灯
-    ![image-20211013201406787]({{ site.url }}/images/20211015-freshman-4.png)
+    ![image-20211013201406787](../images/20211015-freshman-4.png)
 
 ##### 中级项目
 
@@ -49,7 +49,7 @@ category: sfc
       - （巫师象棋平台上存在很多开源算法，可参照）
 	  - 机械臂模块：一旦AI确定了机械臂的走法，通过TCP将控制指令传给机械臂，然后机械臂执行走棋动作
 
-  ![image-20211013200016101]({{ site.url }}/images/20211015-freshman-3.png)
+  ![image-20211013200016101](../images/20211015-freshman-3.png)
 
 - 可视化陀螺仪姿态敏感器
 
@@ -63,12 +63,13 @@ category: sfc
     - MPU6050的持续数据读取
     - python的实时gif动画制作
 
-  ![image-20211013194344402]({{ site.url }}/images/20211015-freshman-2.png)
+  ![image-20211013194344402](../images/20211015-freshman-2.png)
 
 ##### 进阶项目
 
 - 基于机器视觉的机械臂模拟人手动作
 - 基于深度学习的小型自动驾驶系统
 - 机械臂远程操控 [`Bilibili`视频](https://www.bilibili.com/video/BV12341117rG?from=search&seid=10089651913039189339&spm_id_from=333.337.0.0)
+- <iframe width="420" height="315" src="//player.bilibili.com/player.html?aid=420981979&bvid=BV12341117rG&cid=421416333&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
