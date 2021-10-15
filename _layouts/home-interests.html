@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Swift/iOS
+category: Interests
 ---
 
 <div class="home">
@@ -14,7 +14,7 @@ category: Swift/iOS
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
     <ul class="post-list">
       {%- for post in site.posts -%}
-      {%- if post.category=="Swift/iOSPosts" -%}
+      {%- if post.category=="InterestsPosts" -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
