@@ -12,3 +12,5 @@ This is my first blog, so excited! This is my plan tonight:
 3. MO homework of machine learning and artificial intelligence
 4. homework4 of sensing and detection
 5. robotic arm debugging of CIMC
+
+团团记得吃饭还有注意安全啦！
