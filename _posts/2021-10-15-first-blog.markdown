@@ -13,4 +13,4 @@ This is my first blog, so excited! This is my plan tonight:
 4. homework4 of sensing and detection
 5. robotic arm debugging of CIMC
 
-团团记得吃饭还有注意安全啦！
+团团记得吃饭还有注意安全啦！！
