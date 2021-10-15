@@ -1,6 +1,7 @@
 ---
 layout: home-about
 title: About
+category: About
 permalink: /about/
 ---
 
