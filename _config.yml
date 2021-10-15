@@ -22,7 +22,7 @@ title: LeBronLiHD | Blog
 email: lebronlihd@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal static website of LeBronLiHD | TuanTuan
-baseurl: "/lebronlihd.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lebronlihd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BronHD
 github_username:  LeBronLiHD
