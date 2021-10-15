@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: LeBronLiHD | Blog
+author: LeBronLiHD
 email: lebronlihd@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal static website of LeBronLiHD | TuanTuan
@@ -26,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lebronlihd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BronHD
 github_username:  LeBronLiHD
+youtube_username: LeBronHD Li
 
 # Build settings
 theme: minima
