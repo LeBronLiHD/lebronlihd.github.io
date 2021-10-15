@@ -16,12 +16,12 @@ category: sfc
     - 空间利用率：在整体上尽量不浪费空间，因为是“小型”，所以尽量紧凑一些
     - 美观度：不要太简陋，但也不要太花哨
   - 软件：使用VSCode+Arduino插件进行开发板程序编写，要注意应该使用哪一些库获得温度+湿度数据，具体参考温度+湿度传感器文档
-    ![image-20211013193250333](https://github.com/LeBronLiHD/lebronlihd.github.io/blob/main/images/20211015-freshman-1.png)
+    ![image-20211013193250333]({{ site.url }}/images/20211015-freshman-1.png)
 - 宿舍自动开关灯器件
   - 需要购置：Arduino开发板、蓝牙模块（或者wifi模块）、电源模块、杜邦线、面包板、开关灯舵机等
   - 硬件：该项目的硬件设计较多，不仅仅是整体外壳设计与零件固定设计，还有最重要的开关灯设计，需要使用SolidWorks进行设计与材质选择，最后通过联系厂家或者3D打印制造
   - 软件：设计简易UI界面，可以是APP或者微信小程序，通过点击手机实现远程开关灯
-    ![image-20211013201406787](https://github.com/LeBronLiHD/lebronlihd.github.io/blob/main/images/20211015-freshman-4.png)
+    ![image-20211013201406787]({{ site.url }}/images/20211015-freshman-4.png)
 
 ##### 中级项目
 
@@ -49,7 +49,7 @@ category: sfc
       - （巫师象棋平台上存在很多开源算法，可参照）
 	  - 机械臂模块：一旦AI确定了机械臂的走法，通过TCP将控制指令传给机械臂，然后机械臂执行走棋动作
 
-  ![image-20211013200016101](https://github.com/LeBronLiHD/lebronlihd.github.io/blob/main/images/20211015-freshman-3.png)
+  ![image-20211013200016101]({{ site.url }}/images/20211015-freshman-3.png)
 
 - 可视化陀螺仪姿态敏感器
 
@@ -63,7 +63,7 @@ category: sfc
     - MPU6050的持续数据读取
     - python的实时gif动画制作
 
-  ![image-20211013194344402](https://github.com/LeBronLiHD/lebronlihd.github.io/blob/main/images/20211015-freshman-2.png)
+  ![image-20211013194344402]({{ site.url }}/images/20211015-freshman-2.png)
 
 ##### 进阶项目
 
