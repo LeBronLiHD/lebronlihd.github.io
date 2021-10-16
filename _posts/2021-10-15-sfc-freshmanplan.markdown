@@ -9,7 +9,9 @@ category: sfc
 
 &copy; 李浩东 3190104890@zju.edu.cn
 
-##### 初级入门项目
+# 请填写[《智能工厂创新俱乐部新人计划意向调查表》](https://jinshuju.net/f/wU2dQW)谢谢合作！
+
+## 初级入门项目
 
 - 小型可视化温度湿度计（建议组队2人）
   - 需要购置：Arduino开发板，温度+湿度传感器，杜邦线，面包板，液晶模块，电源模块等
@@ -25,7 +27,7 @@ category: sfc
   - 软件：设计简易UI界面，可以是APP或者微信小程序，通过点击手机实现远程开关灯
     ![image-20211013201406787]({{ site.url }}/images/20211015-freshman-4.png)
 
-##### 中级项目
+## 中级项目
 
 - 基于OpenCV的转送带智能物料分拣（建议组队3人）
 
@@ -67,10 +69,16 @@ category: sfc
 
   ![image-20211013194344402]({{ site.url }}/images/20211015-freshman-2.png)
 
-##### 进阶项目（请先完成中阶 \^_\^）
+## 进阶项目（请先完成中阶 \^_\^）
 
 - 基于机器视觉的机械臂模拟人手动作
 - 基于深度学习的小型自动驾驶系统
 - 机械臂远程操控 [`Bilibili`视频](https://www.bilibili.com/video/BV12341117rG?from=search&seid=10089651913039189339&spm_id_from=333.337.0.0)
-- <iframe width="500" height="380" src="//player.bilibili.com/player.html?aid=420981979&bvid=BV12341117rG&cid=421416333&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" high_quality=1 danmaku=0> </iframe>
+- <iframe width="400" height="300" src="//player.bilibili.com/player.html?aid=420981979&bvid=BV12341117rG&cid=421416333&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" high_quality=1 danmaku=0> </iframe>
+
+---
+
+扫码填写问卷：[《智能工厂创新俱乐部新人计划意向调查表》](https://jinshuju.net/f/wU2dQW)
+
+ ![image-20211013194344402]({{ site.url }}/images/20211015-freshman-9.png)
 
