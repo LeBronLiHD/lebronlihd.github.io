@@ -9,7 +9,7 @@ category: sfc
 
 &copy; 李浩东 3190104890@zju.edu.cn
 
-请填写[《智能工厂创新俱乐部新人计划意向调查表》](https://jinshuju.net/f/wU2dQW)谢谢合作！
+看完后请填写[《智能工厂创新俱乐部新人计划意向调查表》](https://jinshuju.net/f/wU2dQW)，谢谢合作！
 
 ## 初级入门项目
 
@@ -75,7 +75,7 @@ category: sfc
 - 基于深度学习的小型自动驾驶系统
 - 机械臂远程操控 [`Bilibili`视频](https://www.bilibili.com/video/BV12341117rG?from=search&seid=10089651913039189339&spm_id_from=333.337.0.0)
 
-<iframe height="auto" width="100%" src="//player.bilibili.com/player.html?aid=420981979&bvid=BV12341117rG&cid=421416333&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" high_quality="1" danmaku="0" align="center"> </iframe>
+<iframe height="240" width="320" src="//player.bilibili.com/player.html?aid=420981979&bvid=BV12341117rG&cid=421416333&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" high_quality="1" danmaku="0" align="center"> </iframe>
 
 ---
 
