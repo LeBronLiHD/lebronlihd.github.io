@@ -7,9 +7,11 @@ category: sfc
 
 ### 智能工厂创新俱乐部新人计划
 
+&copy; 李浩东 3190104890@zju.edu.cn
+
 ##### 初级入门项目
 
-- 小型可视化温度湿度计
+- 小型可视化温度湿度计（建议组队2人）
   - 需要购置：Arduino开发板，温度+湿度传感器，杜邦线，面包板，液晶模块，电源模块等
   - 硬件：使用SolidWorks自行设计制造小型温度计外壳并使用3D打印制造，在设计时需要考虑完备性、空间利用性、美观度
     - 完备性：所有模块均有考虑，不要出现一个元器件单独挂在外面的情况
@@ -17,7 +19,7 @@ category: sfc
     - 美观度：不要太简陋，但也不要太花哨
   - 软件：使用VSCode+Arduino插件进行开发板程序编写，要注意应该使用哪一些库获得温度+湿度数据，具体参考温度+湿度传感器文档
     ![image-20211013193250333]({{ site.url }}/images/20211015-freshman-1.png)
-- 宿舍自动开关灯器件
+- 宿舍自动开关灯器件（建议组队2人）
   - 需要购置：Arduino开发板、蓝牙模块（或者wifi模块）、电源模块、杜邦线、面包板、开关灯舵机等
   - 硬件：该项目的硬件设计较多，不仅仅是整体外壳设计与零件固定设计，还有最重要的开关灯设计，需要使用SolidWorks进行设计与材质选择，最后通过联系厂家或者3D打印制造
   - 软件：设计简易UI界面，可以是APP或者微信小程序，通过点击手机实现远程开关灯
@@ -25,7 +27,7 @@ category: sfc
 
 ##### 中级项目
 
-- 基于OpenCV的转送带智能物料分拣
+- 基于OpenCV的转送带智能物料分拣（建议组队3人）
 
   - 需要购置：传送带、传送带驱动板、工业相机、机械臂（那个蓝色的之前买的）、RaspberryPi 3B+、电源模块等
   - 硬件：如上，部分零件可以使用SolidWorks设计
@@ -35,7 +37,7 @@ category: sfc
     
     ![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20190705%2Feb89cd5ab248433c9a45ce948d2923a9.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636719526&t=de386297472bccd2f835673f9f360a73)
 
-- 智能象棋机器人
+- 智能象棋机器人（建议组队3人）
 
   - 需要购置：USB免驱相机、M1机械臂（或者使用二轴十字丝杆滑轨）、气泵、光源、硬件平台等，也可以直接使用我们的项目
   - 硬件：如上，也可以自己使用SolidWorks设计
@@ -51,7 +53,7 @@ category: sfc
 
   ![image-20211013200016101]({{ site.url }}/images/20211015-freshman-3.png)
 
-- 可视化陀螺仪姿态敏感器
+- 可视化陀螺仪姿态敏感器（建议组队2人）
 
   - 需要购置：RaspberryPi 3B+开发板，MPU6050，杜邦线，面包板，液晶模块，电源模块等
   - 硬件：使用SolidWorks自行设计制造小型温度计外壳，在设计时需要考虑完备性、空间利用性、美观度
@@ -65,11 +67,10 @@ category: sfc
 
   ![image-20211013194344402]({{ site.url }}/images/20211015-freshman-2.png)
 
-##### 进阶项目
+##### 进阶项目（请先完成中阶 \^_\^）
 
 - 基于机器视觉的机械臂模拟人手动作
 - 基于深度学习的小型自动驾驶系统
 - 机械臂远程操控 [`Bilibili`视频](https://www.bilibili.com/video/BV12341117rG?from=search&seid=10089651913039189339&spm_id_from=333.337.0.0)
 - <iframe width="500" height="380" src="//player.bilibili.com/player.html?aid=420981979&bvid=BV12341117rG&cid=421416333&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" high_quality=1 danmaku=0> </iframe>
-
 
