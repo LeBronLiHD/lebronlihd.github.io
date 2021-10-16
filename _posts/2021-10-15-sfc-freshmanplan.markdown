@@ -9,7 +9,7 @@ category: sfc
 
 &copy; 李浩东 3190104890@zju.edu.cn
 
-# 请填写[《智能工厂创新俱乐部新人计划意向调查表》](https://jinshuju.net/f/wU2dQW)谢谢合作！
+请填写[《智能工厂创新俱乐部新人计划意向调查表》](https://jinshuju.net/f/wU2dQW)谢谢合作！
 
 ## 初级入门项目
 
