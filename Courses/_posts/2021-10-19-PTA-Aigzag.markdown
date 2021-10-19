@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "PTA ZigZagging on a Tree"
-date:   2021-10-19 21:27:21 +0800
-category: CoursesPost
+date:   2021-10-19 22:58:29 +0800
+category: CoursesPosts
 ---
 
 
@@ -39,9 +39,9 @@ For each test case, print the zigzagging sequence of the tree in a line. All the
 
 思路：不构建树结构，构建一个记录层数的结构`Levels`，通过递归实现
 
-中序：Left Child  |  Root  |  Right Child
+中序：Left Child  <>  Root  <>  Right Child
 
-后续：Left Child  |  Right Child  |  Root
+后续：Left Child  <>  Right Child  <>  Root
 
 AC Code:
 
