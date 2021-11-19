@@ -28,6 +28,7 @@ category: IELTSPosts
 |English|Chinese|
 |:-----:|:-----:|
 | dump, moist, humid | 潮湿 |
+| desert |  |
 
 
 ### Simple Verb
@@ -37,6 +38,7 @@ category: IELTSPosts
 | prevalent | 流行 |
 | upbringing | 教养 |
 | intervene | 干扰 |
+|integrate| |
 
 
 ### Simple Norm
@@ -48,6 +50,9 @@ category: IELTSPosts
 |pea, pod|豆子, 豆荚|
 |facility|设施|
 |librarian|图书管理员|
+|sledge | |
+|gear| |
+|residence| |
 
 
 ### Simple Adj
@@ -61,6 +66,7 @@ category: IELTSPosts
 |two-faced|双标的|
 |pretentious|做作的|
 |self-centered, self-involved|selfish|
+| incineration | |
 
 
 ### Excellent Phrase
@@ -94,4 +100,5 @@ category: IELTSPosts
 |toned and fit|chubby, workout|
 |as fresh as daisy|energetic|
 |as fit as fiddle|healthy|
+|be integrated with| |
 
