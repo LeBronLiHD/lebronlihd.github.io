@@ -28,7 +28,8 @@ category: IELTSPosts
 |English|Chinese|
 |:-----:|:-----:|
 | dump, moist, humid | 潮湿 |
-| desert |  |
+| desert | 沙漠 |
+|incineration|焚化|
 
 
 ### Simple Verb
@@ -38,7 +39,7 @@ category: IELTSPosts
 | prevalent | 流行 |
 | upbringing | 教养 |
 | intervene | 干扰 |
-|integrate| |
+|integrate| 整合 |
 
 
 ### Simple Norm
@@ -50,9 +51,13 @@ category: IELTSPosts
 |pea, pod|豆子, 豆荚|
 |facility|设施|
 |librarian|图书管理员|
-|sledge | |
-|gear| |
-|residence| |
+|sledge | 雪橇 |
+|gear| 齿轮，档 |
+|residence| 住宅 |
+|vegetarian| 素食主义者 |
+|nine and half past| 9:30 |
+|verdict|判决|
+|heyday|鼎盛时期|
 
 
 ### Simple Adj
@@ -66,7 +71,7 @@ category: IELTSPosts
 |two-faced|双标的|
 |pretentious|做作的|
 |self-centered, self-involved|selfish|
-| incineration | |
+|immense|巨大的|
 
 
 ### Excellent Phrase
@@ -100,5 +105,6 @@ category: IELTSPosts
 |toned and fit|chubby, workout|
 |as fresh as daisy|energetic|
 |as fit as fiddle|healthy|
-|be integrated with| |
+|be integrated with| 整合在一起 |
+|incineration plants| 焚化厂 |
 
