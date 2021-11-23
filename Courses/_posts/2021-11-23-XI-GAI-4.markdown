@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Third(3rd) Seminar of Introduction to Xi Jinping's Thought"
+title:  "The Forth(4th) Seminar of Introduction to Xi Jinping's Thought"
 date:   2021-11-23 18:29:29 +0800
 category: CoursesPosts
 ---
