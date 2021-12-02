@@ -21,14 +21,6 @@ category: IELTSPosts
 | asthma | 哮喘 |
 | polio | 脊髓灰质炎, 小儿麻痹症 |
 | Alzheimer's | 阿兹海默症 |
-
-
-### Living & Natural Environment
-
-|English|Chinese|
-|:-----:|:-----:|
-| dump, moist, humid | 潮湿 |
-| desert | 沙漠 |
 |incineration|焚化|
 
 
@@ -40,9 +32,38 @@ category: IELTSPosts
 | upbringing | 教养 |
 | intervene | 干扰 |
 |integrate| 整合 |
+|alter|change|
+|constitute|组成；构成|
+|criterion|标准|
+|govern|治理；约束|
+|handout|讲义；传单|
+|harden|使变硬；使坚强|
+|impair|受损害|
+|trek|跋涉|
+|blast|爆破|
+|kit|使某人装备好|
+|reproduce|繁殖；复制|
+|shatter|使粉碎|
+|relief|减轻；救济|
+|inhibit|抑制|
+|opt for|选则|
+|originate|来自；起源|
+|overlap|部分一致或重叠|
+|silt|用淤泥充塞|
+|soar|激增|
+|squash|压扁；压碎；镇压|
+|squeeze|压榨|
+|stomach|容忍；忍受；胃|
+|undergo|遭受；经历|
+|accumulate|堆积；积聚|
+|attain|获得；达到|
+|blend|使混合|
+|cement|粘合；使团结；水泥|
+|compile|编译；编纂|
+|tweak|拧；调整|
 
 
-### Simple Norm
+### Simple Noun
 
 |English|Chinese|
 |:-----:|:-----:|
@@ -58,6 +79,43 @@ category: IELTSPosts
 |nine and half past| 9:30 |
 |verdict|判决|
 |heyday|鼎盛时期|
+|committee|委员会|
+|catalogue|目录|
+|clarity|明晰|
+|discrepancy|差异|
+|fluid|液体|
+|fragment|分段；碎片|
+|galaxy|星系；一群人|
+|genre|类型|
+|glow|辉光|
+|hemisphere|半球|
+|identification|鉴别；认证|
+|imagery|意象|
+|ailment|病痛；症状|
+|inspection|检查；观察|
+|instinct|直觉|
+|intention|目的|
+|venue|场景；地点|
+|bolt|固定们的杆；锁的一部分；螺栓固定|
+|intersection|十字路口|
+|licence|证件；执照|
+|limitation|局限|
+|lobby|大厅；游说团|
+|loose|不严谨的；松的|
+|norm|常态|
+|obligation|义务、责任|
+|pat|小团；小块；轻拍|
+|photography|摄影|
+|preservation|保留|
+|refund|归还；退款|
+|inhabit|居住；栖息|
+|split|裂缝；分歧|
+| desert | 沙漠 |
+|vigilance|警惕；警戒|
+|violence|暴力|
+|behalf|代表；利益|
+|bullet|子弹|
+|commentary|评论；论述|
 
 
 ### Simple Adj
@@ -72,6 +130,28 @@ category: IELTSPosts
 |pretentious|做作的|
 |self-centered, self-involved|selfish|
 |immense|巨大的|
+|royal|皇家的|
+|colossal|huge|
+|immense|huge|
+|favourable|有利的|
+|bolder|大胆的|
+|inevitable|不可避免的|
+|concrete|具体的|
+|confidential|机密的|
+|delicate|精美的|
+|informative|提供情报的；涨知识的|
+|subsequent|随后的|
+|pitched|倾斜的|
+|reluctant|勉强的|
+|overhead|头上；空中|
+|straightforward|简单明了的|
+|transparent|易懂的；明晰的；透明的|
+|triple|三重的|
+|unbiased|公正的|
+| dump, moist, humid | 潮湿的 |
+|viable|可行的|
+|abundant|大量充裕的|
+|advisable|明智可取的|
 
 
 ### Excellent Phrase
@@ -107,4 +187,21 @@ category: IELTSPosts
 |as fit as fiddle|healthy|
 |be integrated with| 整合在一起 |
 |incineration plants| 焚化厂 |
-
+|get to grips with|开始理解并着手处理难题|
+|be stalled by a strike|因罢工而停滞|
+|hit on the right thing|切中要害|
+|the signs are good|迹象很好|
+|be set back by sth.|受阻|
+|interest rate|利率|
+|shoe shine kit|擦鞋工具|
+|be credited to|归功于|
+|market shares|市场份额|
+|bolder move|大胆的举动|
+|go under|下去；屈服|
+|intrinsic|固有的|
+|drag in|拖进来|
+|foregone conclusion|定局|
+|come to one's attention|引起注意|
+|identification card|身份证|
+|identification number|身份证号|
+|fossil animal|化石动物|
