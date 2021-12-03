@@ -22,6 +22,7 @@ category: IELTSPosts
 | polio | 脊髓灰质炎, 小儿麻痹症 |
 | Alzheimer's | 阿兹海默症 |
 |incineration|焚化|
+|bacteria|细菌|
 
 
 ### Simple Verb
@@ -61,6 +62,40 @@ category: IELTSPosts
 |cement|粘合；使团结；水泥|
 |compile|编译；编纂|
 |tweak|拧；调整|
+|muddle|迷惑；使糊涂|
+|photocopying|影印|
+|loan|借（贷）；贷款|
+|oversee|监督；审查|
+|organize|组织|
+|vary|to change or alter; to cause to be different; to show diversity; to undergo changes|
+|register|登记|
+|induction|就职；归纳|
+|evaporate|蒸发；消失|
+|exacerbate|使加剧；使恶化|
+|incur|招致；遭受|
+|flavour|给...调味|
+|scour|搜寻；擦亮|
+|unravel|揭开；解决；拆开|
+|decode|anti-encode|
+|coincide|同时发生；巧合|
+|endure|持久；忍耐|
+|tease|戏弄；取笑|
+|scatter|散开；驱散|
+|blaze|燃烧|
+|spoil|犒赏；宠溺|
+|sprawl|四肢摊开；卧；伸展|
+|encompass|包含；涉及|
+|eradicate|根除；连根拔起|
+|associate|连接；搭档|
+|liaise|联络；联系|
+|conceive|构想；设想|
+|regain|失而复得|
+|leap|跳；冲|
+|beam|眉开眼笑|
+|supersede|取代；超过；接替|
+|brake|制动；刹车|
+|deplete|减小；消耗|
+|assert|断言；坚持|
 
 
 ### Simple Noun
@@ -116,9 +151,61 @@ category: IELTSPosts
 |behalf|代表；利益|
 |bullet|子弹|
 |commentary|评论；论述|
+|guidance|指导|
+|counselor|顾问|
+|shelf, shelves|货架|
+|dissertation|论文|
+|undergraduate|本科|
+|postgraduate|研究生|
+|tutors|导师|
+|bibliography|（参考）书目|
+|reference|参考|
+|abroad|国外|
+|individual|个人|
+|facility|设施；资源|
+|orientation|direction; policy; guidance|
+|pace|速度；步伐|
+|chaos|混乱|
+|excursion|郊游；远足|
+|realism|现实主义|
+|brew|一杯茶（酒）|
+|pride|自豪；得意|
+|era|时代|
+|ballet|芭蕾舞|
+|defense|防护|
+|newsreel|新闻影片|
+|democracy|民主（政治）|
+|flap|（翅膀）煽动|
+|intuition|直觉；直管|
+|mobility|灵活性；机动性|
+|antidote|解毒剂|
+|pension|养老金|
+|treadmill|乏味繁重的工作|
+|intervention|the act or fact of intervening|
+|cap|帽子|
+|lip|edge；嘴唇|
+|endeavour|尽力；竭力|
+|mission|任务；使命|
+|applicant|申请人|
+|battery|电池；一系列|
+|appraisal|评估；鉴定|
+|poultry|家禽|
+|procurement|采购|
+|appreciation|欣赏；感激|
+|coconut|椰子|
+|scream|尖叫|
+|scenario|情形；剧情；场景|
+|compound|化合物|
+|segment|部分；片|
+|aviation|飞行；航行|
+|celebration|庆祝|
+|destination|目的地|
+|lifespan|寿命|
+|swamp|沼泽；湿地|
+|corridor|走廊|
 
 
-### Simple Adj
+### Simple Adj&Conj
 
 |English|Chinese|
 |:-----:|:-----:|
@@ -152,6 +239,52 @@ category: IELTSPosts
 |viable|可行的|
 |abundant|大量充裕的|
 |advisable|明智可取的|
+|literate|(of a person) able to read and write|
+|permanent|永久的|
+|debatable|有争议的|
+|eventually|最终的|
+|relevant|相关的|
+|specialised|专门的|
+|critical|危急的；紧要的|
+|systematic|有条理的|
+|outer|外部的；远离中心的|
+|spontaneous|自发的；自然的|
+|imaginative|想象的；富有想象力的|
+|bacterial|细菌的|
+|definite|确定的|
+|optimum|最佳的|
+|creative|有创造力的|
+|spiritual|精神意志的|
+|inspirational|providing or showing creative or spiritual inspiration|
+|inspired|受鼓舞的|
+|extraordinary|不平凡的|
+|ordinary|平凡的|
+|particular|特别的|
+|democratic|民主（政治）的|
+|elusive|难找到/抓住的|
+|rudimentary|原始（未发展）的；基础的|
+|striking|惊人的；引人注目的|
+|frustrating|令人沮丧的|
+|humble|微不足道的；卑微的|
+|intervening|发生于其间的；介于中间的|
+|principally|主要的；首要的|
+|albeit|尽管；虽然|
+|lesser|次要的；较小的|
+|soluble|可溶解的；可解释的|
+|maternal|母亲的；母性的|
+|haphazard|无秩序的；无计划的|
+|tensile|可拉长的|
+|crude|粗糙的；天然的|
+|avid|渴望的；急切的|
+|standby|最后时刻出售的；备用的|
+|operational|运行的；操作的|
+|Arctic|北极的|
+|stylish|时髦的|
+|federal|联邦的|
+|unaided|独立的；无助的|
+|promotional|晋升的；推销的|
+|waterproof|防水的|
+|faint|微弱的；衰弱的|
 
 
 ### Excellent Phrase
@@ -205,3 +338,19 @@ category: IELTSPosts
 |identification card|身份证|
 |identification number|身份证号|
 |fossil animal|化石动物|
+|computer literate|计算机知识|
+|guidance counselor|辅导员|
+|print off|打印出来|
+|debatable sources|有争议的信息来源|
+|loan time|贷款/借用时间|
+|the intention is to do sth.|目的是做某事|
+|phase these out|逐步淘汰|
+|be around|在身边|
+|dissertation thesis|学问论文|
+|dissertation defense|论文答辩|
+|at the outset|在一开始|
+|outset of sth.|在...的开始|
+|orientation to sth.|...的定位/指导|
+|get stuck doing sth.|不能继续做某事|
+|dual citizenship|双重国籍|
+|by coincidence|巧合|
