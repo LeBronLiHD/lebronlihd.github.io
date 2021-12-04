@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Forth(4th) Seminar of Introduction to Xi Jinping's Thought"
+title:  "The Fifth(5th) Seminar of Introduction to Xi Jinping's Thought"
 date:   2021-12-4 14:29:29 +0800
 category: CoursesPosts
 ---
