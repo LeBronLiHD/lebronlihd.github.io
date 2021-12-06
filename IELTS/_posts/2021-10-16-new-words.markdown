@@ -76,6 +76,7 @@ category: IELTSPosts
 |flavour|给...调味|
 |scour|搜寻；擦亮|
 |unravel|揭开；解决；拆开|
+|encode|加密；编码|
 |decode|anti-encode|
 |coincide|同时发生；巧合|
 |endure|持久；忍耐|
@@ -96,6 +97,42 @@ category: IELTSPosts
 |brake|制动；刹车|
 |deplete|减小；消耗|
 |assert|断言；坚持|
+|sacrifice|祭品；牺牲|
+|flash|闪烁|
+|gleam|闪光；荧|
+|decorate|装饰；雕刻|
+|explore|探险；仔细查阅|
+|expose|使暴露于；使遭受|
+|curb|控制；约束|
+|multiply|繁殖；乘|
+|devour|狼吞虎咽|
+|evaluate|评估|
+|dub|起绰号；配音|
+|disguise|给...乔装打扮/伪装|
+|embrace|拥抱；包括；信奉|
+|evoke|唤起；使人想起|
+|vacuum|用吸尘器打扫|
+|bestow|赠予|
+|dump|倾倒；扔；丢|
+|fracture|断裂|
+|handicap|妨碍；使不利；障碍|
+|bulge|凸起|
+|excavate|挖掘；挖出|
+|heighten|加强；提高|
+|exclude|把...排除|
+|illuminate|照亮；阐明|
+|dissolve|溶解|
+|enlighten|启发；开导；阐明|
+|approach|接近；方法|
+|interact|沟通；相互影响|
+|arrange|安排；筹备；整理；布置|
+|regenerate|使新生；重建|
+|award|授予；判给|
+|behave|举止；运转|
+|deduce|推断；演绎|
+|merge|融合；合并|
+|toss|抛；扔|
+|certify|证明；证实|
 
 
 ### Simple Noun
@@ -203,6 +240,47 @@ category: IELTSPosts
 |lifespan|寿命|
 |swamp|沼泽；湿地|
 |corridor|走廊|
+|boot|疾病发作；活动的一段|
+|flash|闪光灯|
+|gleam|微光；瞬息一现|
+|delivery|投递；分娩|
+|impurity|杂志；不纯净的|
+|purity, pureness|纯度|
+|emotion|情绪；感情|
+|spirit|情绪；心境；烈性酒|
+|crown|王冠|
+|suspense|悬念；忧虑|
+|beneficiary|受益者；遗产继承人|
+|backup|后备人员；备用物|
+|bulletin|公告|
+|corpus|语料库；资料文集|
+|deception|欺骗；隐瞒|
+|embassy|大使馆全体人员|
+|guard|警卫|
+|guardian|监护人；保护着|
+|aggression|侵犯；侵略|
+|illumination|照明|
+|mercy|宽恕；怜悯|
+|interference|干预；干涉；妨碍|
+|bud|芽；蓓蕾|
+|facilitator|帮助者；诱导者|
+|imbalance|不平衡|
+|intrigue|密谋；轨迹|
+|exploitation|利用；剥削；开发；开采|
+|burrow|（挖）地洞|
+|invader|侵略者；侵入物|
+|polluter|污染物/源|
+|triple|翻三番|
+|quadruple|翻两番；乘四倍|
+|miracle|奇迹|
+|fidelity|（对性伴侣）忠诚；忠贞|
+|hut|小屋；棚屋|
+|fringe|（地区群体）边缘；次要部分|
+|subtlety|微妙之处|
+|filter|过滤器|
+|postage|邮费；邮资|
+|idiom|习语；惯用语|
+|fraud|欺骗；骗子|
 
 
 ### Simple Adj&Conj
@@ -285,6 +363,42 @@ category: IELTSPosts
 |promotional|晋升的；推销的|
 |waterproof|防水的|
 |faint|微弱的；衰弱的|
+|bronze|青铜的|
+|magnetic|磁的；有吸引力的|
+|primitive|原始的|
+|vocal|发声的；声音的|
+|desolate|荒无人烟的|
+|chilled|冰镇的|
+|babyish|幼稚的|
+|beneficial|favorable or advantageous|
+|benefiting|收益的|
+|decrepit|破旧的；老朽的|
+|compatible|相容兼容的；和谐共处的|
+|destructive|破坏性的|
+|earnest|认真的；郑重其事的|
+|crystalline|晶莹剔透的|
+|knowledgeable|知识丰富的；消息灵通的|
+|emeritus|荣誉退休的|
+|delightful|令人愉快的|
+|illiterate|目不识丁的；文盲的|
+|fallow|休耕的|
+|extinct|灭绝的|
+|apparent|显而易见的；表面的|
+|laden|充满的；满载的|
+|fabulous|incredible|
+|miraculous|神奇|
+|tenfold|十倍的|
+|gross|毛的；总的；重大的|
+|feasible|可行的；可能的|
+|parallel|平行的；相同的|
+|hostile|不友好的；敌对的|
+|subtle|微妙的|
+|carefree|无忧无虑的|
+|implicit|含蓄的；暗示的|
+|multicultural|多元文化的|
+|communal|公共的；共用的|
+|moderate|中等的；适度的；不激进的|
+|innate|天生的；固有的|
 
 
 ### Excellent Phrase
@@ -354,3 +468,5 @@ category: IELTSPosts
 |get stuck doing sth.|不能继续做某事|
 |dual citizenship|双重国籍|
 |by coincidence|巧合|
+|Wearing a crown must bear its weight|与戴皇冠，必承其重|
+|gross sth. off|把...清理掉|
