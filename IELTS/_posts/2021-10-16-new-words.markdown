@@ -133,6 +133,29 @@ category: IELTSPosts
 |merge|融合；合并|
 |toss|抛；扔|
 |certify|证明；证实|
+|penetrate|渗入；穿透|
+|elapse|（时间）流逝；过去|
+|roam|漫步；漫游|
+|shower|浇；撒|
+|entice|诱惑；引诱|
+|starve|使挨饿/饿死|
+|sandwich|三明治；夹入|
+|distaste|厌恶|
+|fasten|扎牢；紧住|
+|doomsday|直接末日|
+|generate|生成；引发|
+|glance|扫视；看一下|
+|ensue|接着发生；继而发生；因而产生|
+|hover|盘旋；翱翔|
+|flush|冲走；脸红|
+|obstruct|阻碍|
+|restrict|限制；约束|
+|entrust|委托；托付|
+|salvage|打捞；抢救|
+|resist|抵抗|
+|scratch|抓；骚；扒|
+|linger|继续逗留；慢慢消失|
+|jolt|（使）震动/猛烈摇动|
 
 
 ### Simple Noun
@@ -281,6 +304,52 @@ category: IELTSPosts
 |postage|邮费；邮资|
 |idiom|习语；惯用语|
 |fraud|欺骗；骗子|
+|penetration|渗透；侵入|
+|brute|残忍的人|
+|courtship|求爱期；恋爱期|
+|establishment|机构；大型组织；建立；确立|
+|perimeter|边缘；周长|
+|flaw|缺点；瑕疵|
+|asset|资产；优点|
+|spouse|配偶|
+|estate|住宅区；地产|
+|jet|喷气式飞机|
+|substitute|代替品；代替|
+|posture|姿势；情形|
+|foundation|基础；建立；创办；基金会|
+|utterance|话语；说明|
+|frame|帧；框架；结构；镶框|
+|curtain|帷幕；窗帘|
+|vicinity|邻近地区；附近|
+|spectrum|光谱；领域；范围|
+|illustration|图表；插图|
+|classification|分类|
+|mortality|死亡率；必死性|
+|hunch|直觉；预感|
+|clientele|（医师律师等）顾客；常客|
+|bypass|旁道；旁通管|
+|hindrance|阻碍；障碍|
+|edition|一期；版本|
+|confirmation|确认；认可；证实|
+|incidence|发生；发生率|
+|myth|荒诞虚构的故事；神话故事|
+|frontier|边境；国境|
+|garret|阁楼；顶层|
+|glory|荣誉；壮观|
+|orchestra|交响乐队|
+|margin|余量；利润；边沿空白；差额|
+|expiry|到期；结束|
+|package|包装（v.&n.）|
+|pathway|途径；道路|
+|feat|功绩；技艺|
+|indication|表明|
+|pole|杆；柱；极（点）；截然相反的一端|
+|analogy|类比；类似；类推|
+|plot|图；情节；小块土地|
+|interruption|打扰；短暂终止|
+|slight|轻蔑；忽视|
+|necessity|必需品；必要性|
+|foil|（保鲜）箔；阻碍；阻止|
 
 
 ### Simple Adj&Conj
@@ -296,6 +365,7 @@ category: IELTSPosts
 |self-centered, self-involved|selfish|
 |immense|巨大的|
 |royal|皇家的|
+|loyalty|忠诚|
 |colossal|huge|
 |immense|huge|
 |favourable|有利的|
@@ -399,6 +469,34 @@ category: IELTSPosts
 |communal|公共的；共用的|
 |moderate|中等的；适度的；不激进的|
 |innate|天生的；固有的|
+|counterproductive|适得其反的|
+|plausible|可信的；似乎正确的；花言巧语的|
+|elapsed|过去的|
+|executive|执行的；有行政能力的|
+|bureaucratic|官僚政治/主义的|
+|seasonal|季节性的|
+|identical|完全相同的|
+|mainline|主流的|
+|astonishing|令人惊讶的|
+|flimsy|很薄的；易损坏的|
+|ambiguous|模棱两可的|
+|hypnotic|催眠的|
+|stunned|目瞪口呆的；愣住的|
+|glorious, splendid|辉煌；灿烂|
+|grateful|感激的|
+|evil|邪恶的；道德败坏的|
+|orthodox|正统的；传统的|
+|awesome|令人敬畏的；酷的|
+|heroic|巨大的；英勇的|
+|fantastic|极好的；异想天开的|
+|passionate|狂热的；热情的|
+|impractical|不切实际的|
+|flustered|心烦意乱的；紧张的|
+|indiscriminate|肆意的；随意的；不分好坏的|
+|irresistible|不可抗拒的|
+|modify|修饰|
+|durable|持久的|
+|glacial|由冰川造成的|
 
 
 ### Excellent Phrase
@@ -470,3 +568,4 @@ category: IELTSPosts
 |by coincidence|巧合|
 |Wearing a crown must bear its weight|与戴皇冠，必承其重|
 |gross sth. off|把...清理掉|
+|elapsed time|往昔|
