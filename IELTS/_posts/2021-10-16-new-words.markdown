@@ -152,10 +152,41 @@ category: IELTSPosts
 |restrict|限制；约束|
 |entrust|委托；托付|
 |salvage|打捞；抢救|
-|resist|抵抗|
+|resist|（武力）抵抗|
 |scratch|抓；骚；扒|
 |linger|继续逗留；慢慢消失|
 |jolt|（使）震动/猛烈摇动|
+|spill|洒；溢；捻子；洒出|
+|minimize|最小化|
+|perpetuate|使持续/永存|
+|grip|握紧；吸引注意|
+|immerse|埋头做...|
+|amend|修正；改善|
+|bother|麻烦；纠纷|
+|tackle|解决；应对|
+|crush|压碎；压伤|
+|litter|使乱糟糟；乱扔|
+|emulate|赶超；与...竞争|
+|commit|提交；交给；犯错（commit suicide）|
+|fake|伪装；假的|
+|replenish|补充；恢复|
+|bully|欺负；侮辱|
+|imply|暗指；暗示|
+|exaggerate|夸大；夸张|
+|convince|使信服；说服|
+|traverse|横贯；通过|
+|lash|猛击；狠打|
+|analyse|分析|
+|outstrip|超过；胜过|
+|crack|（使）破裂|
+|transcend|超越；优于|
+|exert|施加（压力）；行使（权力）；尽力|
+|budget|预算|
+|prevail|说服；流行；战胜|
+|curve|（使）弯曲；曲线|
+|implicate|牵连；涉及|
+|creep|悄悄走近；逐渐浮现|
+|recruit|招募；吸收；新手|
 
 
 ### Simple Noun
@@ -350,6 +381,49 @@ category: IELTSPosts
 |slight|轻蔑；忽视|
 |necessity|必需品；必要性|
 |foil|（保鲜）箔；阻碍；阻止|
+|sequence|一连串；一系列|
+|hierarchy|等级制度|
+|aggregate|（混凝土修路等的）骨料；合计|
+|bead|有孔珠子|
+|barrage|火力网；阻塞；弹幕|
+|nurture|培养|
+|inventory|物品清单|
+|predecessor|前辈；前任|
+|heyday|鼎盛时期|
+|panel|面板；嵌板|
+|myriad|无数；极大的数量|
+|hurdle|跨栏的栏|
+|isolation|隔离；孤立|
+|appeal|感染力；呼吁；申诉|
+|alcohol|酒精；酒精饮料|
+|sculpture|雕塑品；雕像|
+|poverty|贫穷|
+|intrusion|闯入；侵扰|
+|seal|海豹；密封|
+|curiosity|好奇心|
+|obstacle|障碍；妨碍|
+|unleash|突然爆发；使爆发|
+|scope|范围；余地；机会|
+|gallop|驰骋|
+|sphere|范围；领域|
+|surname|姓氏|
+|strand|部分；方面；股；缕；海滨|
+|sensation|轰动一时的人/物；轰动；感知|
+|nonsense|胡扯|
+|ownership|所有权；拥有|
+|altitude|高地；海拔|
+|optimism|乐观（主义）|
+|supplier|供应商；提供者|
+|domain|领域范围；领地领土|
+|mansion|大厦；豪宅|
+|plantation|种植园；大农场|
+|census|人口普查|
+|muddle|（使）混乱|
+|respondent|回答者|
+|expenditure|花销；耗费|
+|privacy|隐私；私密状态|
+|cohesion|凝聚力；结合；内聚力|
+|terrain|地带；地形地势|
 
 
 ### Simple Adj&Conj
@@ -497,6 +571,35 @@ category: IELTSPosts
 |modify|修饰|
 |durable|持久的|
 |glacial|由冰川造成的|
+|sudden|突然的；迅速意外的|
+|invaluable|有价值的|
+|handy|方便的；skillful|
+|inedible|不可食用的|
+|bold|大胆的；鲜明的；黑体的|
+|exterior|外面的；外在的|
+|silent|寂静的；无声的；缄默的|
+|elevated|高的；高出地面的；高贵的|
+|stationary|静止的；不动的|
+|elastic|有弹性的；灵活的；松紧带|
+|multiple|多个的；多种的|
+|unimpeded|为被终止的；没有阻碍的|
+|intrusive|侵入性的|
+|prompt(ly)|迅速的；及时的|
+|fuzzy|模糊的|
+|awkward|尴尬的；笨拙的|
+|inaccurate|不准确的|
+|exaggerated|夸张的|
+|spectacular|壮观的；引人注目的|
+|bilingual|双语的|
+|approximate|大概的；近似的|
+|overbearing|专横傲慢的；盛气凌人的|
+|perceptual|感性的；知觉的|
+|literal|字面的；根本的|
+|elaborate|精心制作的；复杂的|
+|alarming|令人惊恐的|
+|appropriate|适当的|
+|luxuriant|茂盛的；浓密的|
+|pompous|浮夸的；自负的|
 
 
 ### Excellent Phrase
@@ -569,3 +672,4 @@ category: IELTSPosts
 |Wearing a crown must bear its weight|与戴皇冠，必承其重|
 |gross sth. off|把...清理掉|
 |elapsed time|往昔|
+|household register, census register|户籍|
