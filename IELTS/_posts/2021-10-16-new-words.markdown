@@ -9,6 +9,8 @@ category: IELTSPosts
 
 &copy; LeBronLiHD
 
+[TOC]
+
 
 ### Health and medicine
 
@@ -187,6 +189,16 @@ category: IELTSPosts
 |implicate|牵连；涉及|
 |creep|悄悄走近；逐渐浮现|
 |recruit|招募；吸收；新手|
+|prorate|按比例分配；分派|
+|replicate|复制|
+|degenerate|下降；退化；衰退|
+|specify|指明；详述|
+|exhale|呼出；散发|
+|perish|丧生；死亡；脆裂；老化|
+|niggle|使烦扰；困扰|
+|retreat|撤退；退却|
+|constrain|限制；强迫|
+|oppose |反对|
 
 
 ### Simple Noun
@@ -424,6 +436,21 @@ category: IELTSPosts
 |privacy|隐私；私密状态|
 |cohesion|凝聚力；结合；内聚力|
 |terrain|地带；地形地势|
+|fare|费；票价|
+|ceremony|典礼；仪式；礼仪|
+|forum|论坛|
+|poisoning|中毒|
+|torch|手电筒|
+|proofreading|校对|
+|wreck|残骸；意外；破坏|
+|archaeologist |考古学家|
+|centrepiece |核心作品|
+|cargo |货物|
+|freight |运输|
+|tariffs|关税|
+|monopoly |垄断|
+|vandalism |乱写乱画；涂鸦|
+|distortion |扭曲|
 
 
 ### Simple Adj&Conj
@@ -574,6 +601,7 @@ category: IELTSPosts
 |sudden|突然的；迅速意外的|
 |invaluable|有价值的|
 |handy|方便的；skillful|
+|edible|可食用的|
 |inedible|不可食用的|
 |bold|大胆的；鲜明的；黑体的|
 |exterior|外面的；外在的|
@@ -600,6 +628,15 @@ category: IELTSPosts
 |appropriate|适当的|
 |luxuriant|茂盛的；浓密的|
 |pompous|浮夸的；自负的|
+|semantic|语义的；语义学的|
+|punctual|准时的；按时的|
+|flaming|燃烧的；满腔怒火的|
+|natty|时髦而整洁的|
+|premature|过早的；不成熟的|
+|insurmountable |不可避免地|
+|conventional traditional orthodox|传统的|
+|conventions apporaches methods|方法|
+|recognise appreciate| 理解；应用 |
 
 
 ### Excellent Phrase
@@ -673,3 +710,10 @@ category: IELTSPosts
 |gross sth. off|把...清理掉|
 |elapsed time|往昔|
 |household register, census register|户籍|
+|fare well/badly/better etc|成功；不成功；过得好|
+|with hindsight, ...|回头再看|
+|a score of 10 |200|
+|a fontnight|两周|
+|perception distortion|误解|
+|on one's own initiative|凭借自己的水平|
+|I was taken aback.| I was surprised.|
