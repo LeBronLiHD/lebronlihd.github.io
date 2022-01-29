@@ -199,6 +199,10 @@ category: IELTSPosts
 |retreat|撤退；退却|
 |constrain|限制；强迫|
 |oppose |反对|
+|investigate|调查|
+|publicize|宣传；公示|
+|ration|配给 |
+|omit|leave out|
 
 
 ### Simple Noun
@@ -451,6 +455,32 @@ category: IELTSPosts
 |monopoly |垄断|
 |vandalism |乱写乱画；涂鸦|
 |distortion |扭曲|
+|assessment|评估|
+|journalist|记者|
+|journey|旅行|
+|schedule|日程|
+|textile|纺织品|
+|furniture |家具|
+|poster|海报|
+|insect|昆虫|
+|buffet|自助餐|
+|terrace|阳台|
+|exhibition|展览|
+|vitamin|维他命|
+|antique |古董|
+|profile|轮廓|
+|stereotypes |刻板印象|
+|consensus|共识|
+|sibling|弟弟妹妹|
+| plaster | 石膏|
+| distractors| 干扰因素|
+|synonyms|同义词|
+|abbreviations|缩写|
+| currency |货币 |
+|italian|意大利的；意大利人|
+| italy | 意大利|
+|omelette|煎蛋|
+|sausage|香肠|
 
 
 ### Simple Adj&Conj
@@ -637,6 +667,18 @@ category: IELTSPosts
 |conventional traditional orthodox|传统的|
 |conventions apporaches methods|方法|
 |recognise appreciate| 理解；应用 |
+| dialectical  | 辩证的|
+|immortal |不朽的|
+| mortal | all men are mortal, 致命的|
+|presumably|想必|
+|introverted|内向的|
+|rational|合理的|
+|plausible |似是而非的|
+|concealed |隐藏的|
+|hectic|忙碌的|
+|dubiously|半信半疑|
+|no-frills|没有多余的装饰 |
+|compulsory|强制的|
 
 
 ### Excellent Phrase
@@ -717,3 +759,26 @@ category: IELTSPosts
 |perception distortion|误解|
 |on one's own initiative|凭借自己的水平|
 |I was taken aback.| I was surprised.|
+| closely related to| 很接近|
+| legaly and morally |道德上于法律上  |
+| given their lives and raised them up | parents |
+| very influential role | parents |
+| kids will imitate their parents, profound effects | parents |
+| mainstream of culture | 主流文化 |
+| don't live in vaccum | 并非与世隔绝 |
+| concentrate on | 专注于  |
+|covid-19 epidemic|疫情|
+|last minute vacancies|压线|
+|pots of roses| 玫瑰花盆 |
+|complimentary free| 免费的 |
+|make a night of|过一晚上|
+|be revised|被修改|
+|pass the bridge| 不过桥 |
+|different categories of people|不同行业的人|
+|decline slightly from A to B|从 A 到 B 略有下降|
+|stand up for oneself|为自己挺身而出|
+|A fell victim to B|A成为B的牺牲品|
+| materials be rationed|物资配给 |
+|be ruled out | 排除 |
+| clarify your ideas|整理你想法 |
+|ten past five|5:10|
