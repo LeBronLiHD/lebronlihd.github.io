@@ -85,6 +85,14 @@ category: IELTSPosts
 |:-----:|
 |   money  |
 
+|  illustrations  |
+|:-----:|
+|   pictures   |
+
+|  witty   |
+|:-----:|
+|   wise   |
+
 ### good sentences
 
 |                  English                  | Chinese |
@@ -107,3 +115,16 @@ category: IELTSPosts
 |have a cheese omelette with tomatoes, grilled sausages and breakfast potatoes| 奶酪煎蛋卷配西红柿、烤香肠和早餐土豆 |
 | they live off their visitors| live off tourism |
 |What do the speakers decide to omit from their presentation?| 放弃|
+|the english name make it sound as though Robinson is the family's surname but a more accurate translation would be Swiss Robinsons, because ...|好像|
+| whether the teaching should be factual - giving them information about the world, or ethical - teaching them values | 事实的；道德的 |
+| i was always enjoying drawing, so that the field i want to go into when i finished the course | 想成为... |
+|we also studied comics in that module, but i am not convinced of their value, not compared with books| not compared with ...  不可相提并论|
+|hopefully it'll be an incentive for them to try and improve| 尝试与提高的动力 |
+|They have listened to a talk by a drummer|drummer 鼓手|
+|we rehearse twice a week after school but she's hardly ever there|常缺勤|
+|..., but he never seems to interact with other people, and he always rsuhes off  as soon as the rehearsal ends| 完事接着走 |
+|i don't think so, but it's a bit muddled at present| 有点乱现在  |
+|yes, maybe it would be better if it followed a chronological pattern|时序逻辑|
+|we need to practice it so we're sure it won't over run|不超时哦|
+|that's not necessary a problem, except it means more and more pollutants are discharged into the river so these are brought downstream to the cities| 除非更多的污染；到下游的海滨城市 |
+| they're more or less useless | 没啥用 |
