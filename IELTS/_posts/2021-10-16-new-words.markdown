@@ -489,6 +489,7 @@ category: IELTSPosts
 |incentive|激励；动力|
 |rehearse|排练|
 |authority|官方；权威|
+| badminton | 羽毛球 |
 
 
 ### Simple Adj&Conj
@@ -693,6 +694,7 @@ category: IELTSPosts
 |muddled|a state of confusion or disorder|
 |bewildering|迷惑的|
 |faulty|错的|
+|manifold|广泛的|
 
 
 ### Excellent Phrase
@@ -800,3 +802,4 @@ category: IELTSPosts
 |intend to|想成为|
 |not compared with ... | 不可相提并论 |
 |more or less useless | 没啥用 |
+| leisure time | 闲暇 |
