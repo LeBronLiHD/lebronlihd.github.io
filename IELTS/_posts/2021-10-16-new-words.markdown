@@ -209,6 +209,8 @@ category: IELTSPosts
 | preach|说教 |
 |churn| 搅拌 |
 |indulge|放纵；沉溺|
+|harass|骚扰|
+|dispose |处置 |
 
 
 ### Simple Noun
@@ -498,6 +500,10 @@ category: IELTSPosts
 | hand-me-down | 旧衣服 |
 | pants |裤子 |
 |novice |菜鸟 |
+| diary | 日记 |
+| celebrity | 名人|
+|gateway| 出入口；途径 |
+|meditation|沉思|
 
 
 ### Simple Adj&Conj
@@ -718,6 +724,11 @@ category: IELTSPosts
 | conservative|保守的| 
 | pregnant |怀孕的 |
 | cookery| 烹饪的|
+|environment-friendly | 环保的 |
+|thoughtful  |细心周到的 |
+|nutritious |有营养的 |
+|refined| 精致的 |
+|ethnic| 具有民族色彩的 |
 
 
 ### Excellent Phrase
@@ -853,3 +864,20 @@ category: IELTSPosts
 |borrow from somebody to pay other one |拆东墙补西墙 |
 | be thrifty in sth.| 在...上很节约|
 | obtain money| 赚钱|
+|the sensation of ... | ... 的感觉|
+|traditional letter | |
+|junk mails | |
+| sending speed| | 
+|on important festivals | |
+| best wishes| |
+|tourist sites| 旅游景点 |
+|in the noun sense ... , in the verb sense ...|从名词意义上说，从动词意义上说 |
+|be of great value | |
+| take the place of| |
+|let out your privacy |泄露隐私 |
+|household chores |家务活 |
+|folk culture | 民俗文化|
+|to some extent| 在某种程度上|
+| a sign of| |
+|characterized with|以...为特点|
+|throughout history | 在历史上|

@@ -256,4 +256,54 @@ category: IELTSPosts
 | thrifty is one of the traditional virtues of chinese people | |
 |money is often where all the trouble starts | |
 | we should cultivate children's capability of dealing with their money | |
-| | |
+|modern science and technology brings a huge impact on people's way of communication | |
+|letters are gradually giving way to e-mails | |
+|e-mails are faster and almost cost free | |
+|whenever i receive a letter from a friend, i feel happy | |
+| a letter written in pen can express the feelings much more deeply than an e-mail | |
+|seeding gifts is a way of expressing your gratitude to some person | |
+|people tend to be influenced by advertisements | |
+|in my opinion, the giver's sincerity is more important than the price of the gift | |
+| take acount of the personal preference of the receiver when choosing a gift | |
+| we chinese people do not open the gift on the spot when receiving it  | |
+|i value handmade gifts more than expensive gifts bought from big stores | |
+|handicrafts are sold at many tourist sites as souvenirs | |
+| handicrafts are more time-consuming and delicate than those made by machines| |
+|many people in rural areas make handicrafts as a source of income | |
+|the skills to make handicrafts such as paper cutting are national tresasures | |
+|refined handicrafts are welcomed by foreign guests | |
+|handicrafts are more ethnic that can help travelers understand the culture there better | |
+| some products made by the machine look almost the same as handicrafts, which become hard for us to tell | |
+|i often note down what i did, what i saw and what i thought everyday | |
+| i don't write journals in my notebook, but online |  |
+| i have a blog of my own and i publish my journals online | |
+|writing journals online is a trend among young generation, even celebrities | |
+| diaries and journals can be taken as a collection of my past stories  | |
+|writing can make us think and keep a clear mind | |
+|i am too busy to write diaries, because my rhythm of life is fast| |
+|writing is a necessary and useful skill to everyone in the modern world | |
+| you will find out yourself and see the world clearly if you write and think| |
+| most robots have no feelings and they only accept predesigned orders| |
+|robots can be used in some dangerous and poisonous working conditions | |
+|it is amazing that robots can understand our orders through voices and gestures |  |
+|if robots are widely used, we human beings will have more time to relax | |
+| as far as i am concerned, robots will be widely used in factories in future | |
+| robot with artificial intelligence can decide to do something by themselves| |
+|in future, all those repetitive things will be done by robots | |
+| no matter how, the robots will not take the place of our brains| |
+|  hiking is full of fun, relaxing and inexpensive| |
+|through the communications with people from different majors, i learn a lot of knowledge about a variety of subjects | |
+|as you building up a collection, it is necessary that you have skills of identifying, selecting, evaluating and classifying items | |
+|many people believe that different colours have different powers | |
+|colours can influence our emotions, actions and how we respond to people | |
+|different colors have different symbolic meanings and different effects on people | |
+|what colour you like to some extent reflects what kind of person your are | |
+|warm colours such as red and orange make people feel active, confident and energetic. | |
+|cold colours such as blue and purple represent peace, meditation and calmness | |
+|people who like warm colours tend to be optimists | |
+|people who like cold colours are probably shy and quiet| | 
+| white symbolizes purity and cleanness| |
+| i would like to decorate my room in orange colour because it looks warm | |
+|in chinese traditional culture, red is supposed to bring good luck| |
+| physical culture is one kind of the human culture as a whole and also a very special kind  |   |
+|physical culture characterized with "Olympic Spirit" has been accepted by the people of the whole world | |
