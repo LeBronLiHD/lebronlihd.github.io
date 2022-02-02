@@ -41,12 +41,6 @@ category: IELTSPosts
   - Fried
   - Sauce
 
-### good phrase
-
-- closely related to
-- feel proud to known sth.
-- be supposed
-
 ### good paraphrase
 
 | advantages & disadvantages |
@@ -128,4 +122,27 @@ category: IELTSPosts
 |we need to practice it so we're sure it won't over run|不超时哦|
 |that's not necessary a problem, except it means more and more pollutants are discharged into the river so these are brought downstream to the cities| 除非更多的污染；到下游的海滨城市 |
 | they're more or less useless | 没啥用 |
-| |  |
+| sensible of my shortcoming, i always try to overcome it | 深知 |
+| i view myself an outgoing boy, who likes to make friends with people/is able to get alone well with most od the people i know |  |
+| with a strong determination to succeed, i make steady progress in my studies. |  |
+| i have no say in family affairs | 发言权 |
+| my girlfriend queens it over almost every affair between us |  |
+| i have a family gatherintg every month |   |
+| children learn their first lesson from their parents |  |
+| whenever i feel frustrated or sad, i turn to her for comfort |  |
+| family is the basic unit of the society |  |
+| i treasure the friendship of a friend in need  |   |
+| a true friend will always be there when you need a shoulder to lean on  |  |
+| the only to have a friend is to be one |  |
+| from my perspective, friendship is one of the most valuable possessions in the world.|  |
+| to build up friendship needs the efforts on both sides|  |
+| people like to make friends with those who have similar interests|  |
+| pouring out trouble to friends is a good way tof easing off preasure |  |
+|a true friend will not stand by when you are in trouble  |  |
+| in friendship, loyalty may be the most important thing   |   |
+| friendship is a comfy situation like home |  |
+| friendship is an inner relationship combining trust, support, communication, loyalty and understanding. |  |
+| i always pour my troubles to her |  |
+|i adore her delicate skin   |    |
+| being tender and understanding, she is like a sister to me sometimes. |  |
+| we have much memorable time together  |   |
