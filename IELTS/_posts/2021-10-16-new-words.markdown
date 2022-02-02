@@ -205,6 +205,10 @@ category: IELTSPosts
 |omit|leave out|
 |bewilder|迷惑|
 |discharge|释放|
+|brag|炫耀|
+| preach|说教 |
+|churn| 搅拌 |
+|indulge|放纵；沉溺|
 
 
 ### Simple Noun
@@ -490,6 +494,10 @@ category: IELTSPosts
 |rehearse|排练|
 |authority|官方；权威|
 | badminton | 羽毛球 |
+| premier | 总理 |
+| hand-me-down | 旧衣服 |
+| pants |裤子 |
+|novice |菜鸟 |
 
 
 ### Simple Adj&Conj
@@ -697,6 +705,19 @@ category: IELTSPosts
 |manifold|广泛的|
 | timid | 胆小的 |
 | harmonious | 和谐的 |
+|bosom| 亲密的 | 
+|careless |粗心的 |
+|competent |有能力的 |
+|irritable|暴躁的|
+|stubborn |顽固的 |
+|slipshod|马虎的|
+|pirated| 盗版的 |
+| baggy |宽大的 |
+| skintight|紧身的 |
+|synthetic|合成的|
+| conservative|保守的| 
+| pregnant |怀孕的 |
+| cookery| 烹饪的|
 
 
 ### Excellent Phrase
@@ -718,7 +739,7 @@ category: IELTSPosts
 |adore(informal), enjoy|like in v.|
 |film buff, music buff, sports buff, game buff|like n.|
 |lover, a big fan of|like n.|
-|be fond of, be keen on, avid, be into, be hooked on|like adj.|
+|be fond of, be keen on/for, avid, be into, be hooked on|like adj.|
 |have itchy feet|avid traveler|
 |magpie|collection lover|
 |make me laugh my head off, crack me up|amusing, entertaining, hilarious|
@@ -816,3 +837,19 @@ category: IELTSPosts
 | support the family/the backbone of the family |  |
 | decision power |  |
 | in the hand of sb. |  |
+| pose threat to ...| |
+| pass down| 传承|
+|under much pressure | |
+| take the lead| |
+| be on equal terms with | |
+|potential customers | |
+|beyond my interest | |
+|churn out|生产出来|
+| for pleasure| |
+| be obsessed with  |沉迷 |
+| two-edged sword |双刃剑 |
+| sichuan dishes  |   |
+| spicy and hot | |
+|borrow from somebody to pay other one |拆东墙补西墙 |
+| be thrifty in sth.| 在...上很节约|
+| obtain money| 赚钱|

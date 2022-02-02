@@ -146,3 +146,114 @@ category: IELTSPosts
 |i adore her delicate skin   |    |
 | being tender and understanding, she is like a sister to me sometimes. |  |
 | we have much memorable time together  |   |
+| we share our sorrow and happiness together |  |
+|we are birds of a feather  | 一丘之貉  |
+| our friendship is built upon a solid base |  |
+| i know her inside and out |  |
+| a bosom firsnd is one to whom you could tell all your secrets |  |
+|she gets alone well with everyone in our class  |  |
+| we have known each other since we were in kindergarten |  | 
+|    nowadays children are under more pressure of competition|   |
+|today's children enjoy a high level of material life | |
+| my niece is a lovely child with shiny eyes and tiny feet |  |
+| she is so adorable that i want to kiss her flowery face |  |
+| she is a little emperor of the family |  |
+|we should train children's practical skills | |
+|in double-career families children are often neglected| |
+|peter and his family live in the flat above mine | |
+|he is tall for his age | |
+| my nephew wears a very warm smile on his face when he is happy | |
+|he is strong-willed and usually finds out ways to get what he wants | |
+| he always brags about his achievements| |
+|you should not say bad words about your colleagues behind their back | | 
+| mutual respect is vital in establishing relationship with others |  |
+|the relationship among colleagues is more complicated than the campus relationship | |
+| he is the soul of the team| |
+|the members of our office get along like a family | |
+|he is younger than his age, but he is quite professional | |
+|my colleague Todd is much of a friend and he is ready to help me any time | |
+| a good colleague is supposed to be efficient and cooperative |  |
+|workinbg in a project is a good practice of team spirit | |
+| nowadays many young people consider TV stars as their role models |  |
+|the young actress achieves international fame with only one movie | |
+|it is immoral to probe into other people's privacy even if they are not famous | |
+|we should learn from the shining points of the stars while being cautious against their shortcomings. | |
+| i admire chairman Mao for what he has done for the chinese people| |
+|he is not only successful in the IT field, but also active in the charity drive | |
+|he is my idol both in my study and life | |
+|i like the song of Jay Zhou, particularly their lyrics and rhythm | |
+|every successful man must have had plenty of failures before he becomes a star | |
+| every dog can be successful| |
+| the relationship between neighbours in rural area is closer than that in cities| |
+| we chinese always say that a near neighbour is better than a distant relative| |
+|my neighbour often brings over some delicious food she makes | |
+|sometimes the noise on the other side of the house makes it difficult for us to fall asleep | |
+| neighbours need more understanding between them| |
+| it's better to keep on good terms with our neighbours| |
+| when problems occur, neighbours should try to understand each other| |
+|a good neighbour is supposed to be helpful and considerate | |
+| i pay visits to my neighbours almost everyday| |
+| it's our duty to give a hand to our neighbours when they need| |
+|repsecting old people is a long-standing readition of china| |
+|china has entered the aging society period | |
+| old people sometimes behave like children| |
+| the rich life experiences and wisdom of elderly prople are a treasure| |
+| aging is an unavoidable natural process| |
+| when people grow old, sometimes they turn to be irritable and stubborn| |
+| many young people neglect their duties to the old ones in the family| |
+| different generations shall be more understanding to each other| |
+| in china old people often shoulder the responsibility of taking care of the babies| |
+| many old people today are even more open-minded than the young| |
+|a teacher should teach not only knowledge but also morals | |
+|patience is an important quality requield of a teacher | |
+|he is very devoted to the cause of education | |
+| he treats us as if we were his own children | |
+|teaching is an honorable profession | |
+|my parents are my first teachers | |
+| the school shall create a stimulating atmosphere to attract great teachers| |
+|as the science develops, teachers should imporve their teaching methods to satisfy the requirement of the modern society | |
+| teachers should motivate students to be creative| |
+|a good teacher shall encourage rather than simply preach | |
+| teachers are required to learn something about psychology| |
+|all students should be treated equally | |
+|a good leader is always working hard like a horse | |
+|i like those leaders who are friendly and easy-going among his employees | |
+|good leaders are close to their employees | |
+|rules and regulations are the best way to standardize a company | |
+|he is an expert on finance and excel at interpreting the government policies | |
+|a good book should not only have an iinteresting plot,  but also a significant theme | |
+| i often poke along in secondhand bookstores in search of interesting used books| |
+|i prefer remantic stories to realistic novels | |
+| people have different tastes for books| |
+|you can find all kinds of books on the internet for free | |
+| we should resist pirated books to protect the interests of the authors| |
+| i admire the fashionable clothes on fashion magazines, but i won't wear them| |
+|clothes demonstrated on fashion shows are not intended for everyday use | |
+| different occasions require you to wear different clothes| |
+|people are supposed to wear formal clothes on important occasions to be polite | |
+|china is a great manufacturer and exporter of clothes | |
+| clothes made of cotton are healthier than those made of synthetic/chemical/plastic materials | |
+| our lives are made more convenient because of the invention of computers | |
+|computer provides people  with different sorts of entertainment, such as listening to music, watching films and playing video games | |
+|it is said that radiation of the computer screen is harmful to our health. | |
+|many young people indulge themselves in surfing on the internet and neglect their studies | |
+|as far as i am concerned, computer is a means of study and entertainment| | 
+| computer viruses can cause a lot of damage | |
+|computer has received more and more social attention from all walks of life | |
+| china is a country with a splendid catering culture| |
+|there are eight major cuisines in china | |
+|roast beijing duck is a famous specialty in beijing| |
+|i like cantonese food because it's light in flavour | |
+|my mother has excellent culinary skills | |
+| i often watch gourmet Shows on TV to learn cooking  | |
+|my parents are health-conscious and prepare food with little salt | |
+|money is not the thing that i am after | |
+|we should not let money govern us | |
+|the young people tend to be loose with their money | |
+| time is often compared to money for its preciousness| |
+|many low income family can not make their ends meet |无法收支平衡 |
+| “money talks” could not be applied to every situation | 钱不是万能的|
+| thrifty is one of the traditional virtues of chinese people | |
+|money is often where all the trouble starts | |
+| we should cultivate children's capability of dealing with their money | |
+| | |
