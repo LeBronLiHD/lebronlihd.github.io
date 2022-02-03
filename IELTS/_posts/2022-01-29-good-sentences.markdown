@@ -307,3 +307,7 @@ category: IELTSPosts
 |in chinese traditional culture, red is supposed to bring good luck| |
 | physical culture is one kind of the human culture as a whole and also a very special kind  |   |
 |physical culture characterized with "Olympic Spirit" has been accepted by the people of the whole world | |
+| china's culture has enriched itself through mutual exchange in the world| |
+|it is a great time for us to gather with friends and relax| |
+|it is  complimentary free to all citizens, but always you can see too many people and your're got to wait in a long queue| |
+|many young people worship heroes in films as idols | |

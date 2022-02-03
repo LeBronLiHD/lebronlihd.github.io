@@ -211,6 +211,7 @@ category: IELTSPosts
 |indulge|放纵；沉溺|
 |harass|骚扰|
 |dispose |处置 |
+|relieve|缓解；释放|
 
 
 ### Simple Noun
@@ -729,6 +730,9 @@ category: IELTSPosts
 |nutritious |有营养的 |
 |refined| 精致的 |
 |ethnic| 具有民族色彩的 |
+|thoroughly |完全的 |
+|tear-jerker | 催人泪下的|
+|educative |教育意义的 |
 
 
 ### Excellent Phrase
@@ -881,3 +885,10 @@ category: IELTSPosts
 | a sign of| |
 |characterized with|以...为特点|
 |throughout history | 在历史上|
+|be fully developed and recognized | |
+|relieve the pressure |释放压力 |
+| cater to|迎合 |
+|raw language |  粗俗语言 |
+|pornography and violence| 色情暴力| 
+|international reputation | |
+|pamper ourselves |满足自己 |
