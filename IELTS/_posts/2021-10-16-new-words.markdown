@@ -212,6 +212,14 @@ category: IELTSPosts
 |harass|骚扰|
 |dispose |处置 |
 |relieve|缓解；释放|
+|verbalise|语言表达|
+|articulate| 说出；雄辩 |
+|forsake |背板 |
+|betray| 背板|
+| abandon| 放弃|
+| litter|丢垃圾 |
+|undergo |经历 |
+|deserve|值得|
 
 
 ### Simple Noun
@@ -506,6 +514,30 @@ category: IELTSPosts
 |gateway| 出入口；途径 |
 |meditation|沉思|
 |invention | 发明|
+| melody|旋律 |
+|migration |移民 |
+| perseverance | 毅力|
+| gallery|美术馆 |
+|conflict|矛盾|
+| flexibility|灵活 |
+|loyalty|忠诚|
+|mainstay |支柱 |
+| hospitable |warm-hearted |
+| hospitality|热情好客 |
+|metropoli|  都市|
+|metropolisation|都市化|
+|ambience | 情调；环境|
+| skyscraper  |摩天大楼 |
+|villa| 别墅|
+|paradise |天堂 |
+|gimmick|手法；伎俩|
+|revenue|收益|
+| grace|优雅 |
+|antelope|羚羊|
+|industrialization |工业化 |
+|bliss|幸福|
+|despair (-ing -ed)|绝望|
+|notion  | 概念；主张|
 
 
 ### Simple Adj&Conj
@@ -513,6 +545,7 @@ category: IELTSPosts
 |English|Chinese|
 |:-----:|:-----:|
 |catchy|朗朗上口的|
+|extroverted|内向的|
 |introverted|内向的|
 |tranquil|安静的|
 |state-of-the-art|先进的|
@@ -521,7 +554,6 @@ category: IELTSPosts
 |self-centered, self-involved|selfish|
 |immense|巨大的|
 |royal|皇家的|
-|loyalty|忠诚|
 |colossal|huge|
 |immense|huge|
 |favourable|有利的|
@@ -736,6 +768,33 @@ category: IELTSPosts
 |educative |教育意义的 |
 | touching|令人感动的 |
 |photogenic |上相的 |
+|encouraging |鼓舞人心的 |
+|decent |  正经；体面|
+|doited |childish or feeble-minded, especially because of advanced age |
+|feeble-minded|弱智的|
+| adequate |充分的  |
+|verbal|语言的|
+|flexible|灵活的|
+|faithful |诚实的 |
+|sophisticated|复杂的|
+|unsophisticated |简单的 |
+|fertile |富饶的 |
+|preeminent|卓越的|
+|well-designed | |
+|portable |便携的 |
+|graceful|优雅的|
+|committed|坚定的；负责的|
+| loving|有爱心的 |
+| freezing|冷的 |
+|vivid|生动的|
+|blissful|幸福的|
+|grim|严峻的|
+|well-paid | |
+|fierce  |激烈的  |
+|vigorous|蓬勃的；剧烈的|
+|virtual |虚拟的 |
+|dizzy|头晕的|
+| impulsive |冲动的 |
 
 
 ### Excellent Phrase
@@ -907,3 +966,95 @@ category: IELTSPosts
 |artistic skill | |
 |be of great importance | |
 | chinese violin | 二胡|
+|local colors | 地区特色 |
+|be addicted to | |
+|greek fairy tales | 希腊神话|
+|multiplayer online battle arena| MOBA|
+|Role-Playing Games|RPG|
+|hide and seek | |
+|police and thief | | 
+| double major| |
+|arm myself with knowledge/sth. | |
+|adapt to a new environment | |
+|tough job | |
+| due to | |
+| amend for|弥补|
+|as long as i live |只要我还活着 |
+| closely tied to | |
+|as happy as alark|开心得不得了  |
+| encounter with many failures/sth. | |
+|goof off| 混日子| 
+|adequate control| |
+|annual economic figures | 年度经济人物|
+|set up models for sb. | |
+| transportation hub|交通枢纽 |
+| Palace Museum|故宫 |
+|military history |军事历史 |
+|education base |教育基地 |
+|public transportation | |
+|traffic jams | |
+|on time |准时 |
+|capacity of china's railway system | |
+| maglev train| |
+| autonomous regions|自治区 |
+|special administration regions |特殊行政区 |
+|municipalities under the central government |直辖市 |
+|the third largest country | |
+|peace and prosperity| 和平昌盛|
+|reform and opening up| 改革开放 |
+|an increasingly difficult problem | |
+|ancient capitals | |
+|rich cultural heritage | |
+|international symposiums | 国际研讨会|
+|sweet and cozy |温馨舒适 |
+|book shelf |书架  |
+| attach (euqal importance) to| |
+|a wide range of| |
+| deep feelings|深厚的感情|
+|top level school | |
+|a variety of extra curriculum activities | 课外活动|
+| villas in the countryside| |
+| glass surface| 玻璃幕墙|
+| settle down| |
+|the advanced knowledge | |
+|take a stroll |散步 |
+|a great abundance of | 大量|
+|open to public citizens | |
+|take one's mind off troubles | |
+|online library | |
+|the scope of | |
+| turn to sth. for sth.| |
+| stay up late| |
+| soap operas|肥皂剧 |
+| eat snacks|吃零食 |
+| TV (television) set|电视机 |
+|an indispensable way to gain the latest information | |
+| deeper impress| |
+|department stores |百货商店 |
+|global village | 地球村|
+| let out|泄露 |
+| a sense of responsibility| |
+|on the brink of extinction|濒临灭绝|
+|exhaust gas|废气|
+| deadly pollutants| 致命污染物|
+|trash can |垃圾桶 |
+|rules and regulations |规定条款 |
+|steel industries |钢铁厂 |
+|driven by the science and technology, | |
+|my fascination with technology ... | |
+|be fascinated tieh ... | |
+|age of automation | |
+| TV commercials| 电视商业广告 |
+|multinational company | |
+|balance between work and relaxation | |
+| exercise facilities| 健身器材|
+| right after| 紧接着|
+| spring up| 涌现|
+|enrich myself and benefit from it | |
+|heaps of |成堆的 |
+| hew out|挖出来 |
+|operating cost | 运营成本|
+| raw materials|原材料 |
+|a decent job with a decent payment | |
+|declaring major |专业确认 |
+|pass up|放弃|

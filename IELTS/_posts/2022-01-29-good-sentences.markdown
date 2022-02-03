@@ -87,6 +87,15 @@ category: IELTSPosts
 |:-----:|
 |   wise   |
 
+|  forsake   |
+|:-----:|
+|   betray   |
+
+|  trash   |
+|:-----:|
+|garbage | 
+|   rubbish   |
+
 ### good sentences
 
 |                  English                  | Chinese |
@@ -352,3 +361,146 @@ category: IELTSPosts
 |no matter what artistic skill you want to learn, you have to be ready to learn it for a long time| |
 |it is not that easy to master an artistic skill within a short period of time | |
 |some people say that singing can lose your weight to some extent | |
+|this melody brightens your mood | |
+|i like those shopping centres where you can enjoy relaxing background music | |
+|i like this song because the lyrics are unforgettable | |
+| in a sense, music is a language| |
+|classical music sounds elegant | |
+|game is a way to relax and kill time | |
+|do not waste too much of your time play video games | |
+|some games can practice our logical and creative thinking while playing | |
+| every coin has two sides, so do A| |
+| play online games can let us make more friends| |
+|i am interested in MOBA games rather than RPG games or shooting games | |
+| i hope i will make a decent pay in the future| |
+| five years from now i would be in a managerial position of a medium-sized company| |
+|i think i'd better find some short-time workplace attachment opportunities this summer | |
+|after graduating from university, i would like to go on studying for a master's degree | |
+|job-hopping is common among young people  | |
+|my dream is to become an expert in medical artificial intelligence | |
+|in order to have a good job in the future, i shall develop my personal skills | |
+|apart from compulsory courses, i'll choose two or three subjects depending on my interests, future plans and ability | |
+|it is good for english learners to go abroad to study and have an english environment | |
+| in foreign countries, you should pay attention to the local customs| |
+| if you are picky about food, you'd better learn some cooking skills before you go abroad| |
+|you will be at a loss when there's nobody to rely on in a foreign country | |
+|more communication with the native speakers would be a good way to improve english | |
+| studying abroad would broaden my horizon and enrich my knowledge | |
+| you should consult your supervisor before you decide which topic to write about | |
+|this decision symbolizes a turning point of my life| |
+|we can't follow blindly all of our parents' advice | |
+|the decision of furthering my study in US opens a new window for me | |
+|once a wrong decision is made, rarely is there an opportunity to amend for it | |
+| happiness means different things to different people| |
+|those who are easily content are always happy |知足常乐 |
+| happiness should not be achieved at the expense of other's interest | |
+| a successful man always has a goal and strives to realize the goal| |
+|to be successful, you have to keep one step ahead other people | |
+| when perceiving an opportunity for success, don't hesitate to go for it| |
+| having a harmonious family is another form of success| |
+| i'm grateful to my parents for their support, which is essential to my success| |
+| as an art lover, i always go to art exhibitions whenever i have the chance| |
+|to protect traditional art, we should nurture children's interest in them | |
+| we should pass on the cultural heritage to the coming generation| |
+|international cultural exchange is a good way to contact with people all over the world | |
+|a good boss shall learn to handle the labor problems correctly | |
+|great changes have taken place in my hometown in recently years | |
+| due to the development of economy and technology, people in my hometown are living a better life| |
+|i could hardly imagine how my life would be like ten years later | |
+| life is colourful because it is full of change| |
+|as long as i am striving forward, i know i could make big changes of my life | | 
+|everyone can be better and better if he has a dream and tries his best to realize that | |
+|i may have difficulties and frustrations in the future, but i am ready for it | |
+|some economic origanizations are playing a positive role in international cooperation | |
+|i especially love the peaceful life in my hometown | |
+|with a long history, the city has many historical scenic spots | |
+|i hope i could make some contribution to the elimination of misdiagnose rate in my hometown | |
+|it is a booming city and is developing at a rapid speed | |
+|the museum is another place for us to gain knowledge | |
+|the government should take some measures to relieve the traffic pressure | |
+| the coastal area is more developed than the western area| |
+|it rains a lot in the southern part of china whereas it is much drier in the north | |
+| china has contributed a lot to the world peace and prosperity| |
+|china is a tourist destination attracting friends from all over the world | |
+|since the reform and opening up, many great changes have taken place in china | |
+| now, china enjoys a high status in the international community| |
+|XX has chenged into an open and modern metropolis | 都市|
+|i like a spacious and well furnished room | |
+| a room facing south enjoys good daylight| |
+| some green plants could live up the whole room| |
+|the school campus is like a park full of trees and flowers | |
+| the opening and closing ceremonies of olympic games were held in the bird nest | |
+|this monument has become a landmark and spiritual support of this city |纪念碑 |
+|the values here are independence, success, equality and individuality | |
+|the beautiful sceneries in the park sometimes stimulate our inspiration  | |
+|the view of the sunset there is truly breathtaking | |
+|most students study in library because it provides a peaceful academic atmosphere | |
+|library is an abundant resource of information on all subjects | |
+| it's beneficial to articulate our feelings to a good friend when we are in trouble| |
+| when i am writing papers or essays, i will turn to those academic books in library| |
+|the national library has a vast and comprehensive collection od books in all walks of life | |
+|the preeminent objective of a media worker is to pursue the truth behind the event| |
+|sometimes media are the only mouthpiece of certain interest groups | |
+|terrorists take advantage of the media to spread their messages | |
+|the development of the internet extends the scope of the media | |
+|the media should shoulder the responsibility of supervising the work of the government| |
+| advertisements aim to drum up more business| |
+|the development of the internet has brought about many new forms of advertising. | |
+|i read e-newspapers every day to be informed of what is happening in the world | | 
+|a journalist is supposed to tell the truth while reporting | |
+|for a long-term perspective, internet shopping is getting more and more popular | |
+|e-commerce is changing the way of modern trade | |
+|distance education is booming as the technology is making astonishing advances | |
+| i am worrying that emails will reduce writing and interpersonal skills | |
+|as a new media, the internet is providing a great abundance of information | |
+|to much time in front of TV is a waste of time| | 
+| a pet provides companionship to people and brings them a lot of fun| |
+|a well-behaved pet is a beloved member of a family | |
+|the government should lay down relative laws to protect wild animals | |
+| wild animals play an important role in the ecosystem | |
+|those who illegally hunt wild animals should be punished | |
+| the wild lives in the zoo are too tame, which, in a way, is not good|过于驯化了 |
+| i enjoy seeing wild animals running free in their natural habitats| |
+|it is kind of animal cruelty if we raise tham in a cage | |
+|as the top of the food chain, we human beings should respect all the creatures from the crawling ants to the leaping antelope |跳跃的羚羊 |
+| some wild animals are on the brink of extinction, for instance, panda and tiger  | |
+|it is high time that we took some measures to protect the wild animals | |
+| in the north of china, the four seasons are distinguishable| |
+| i like summer best because flowers bloom luxuriously | |
+| with the blooming flowers, summer provides us with a colorful decoration| |
+|spring is a season full of energy, in which you can see the trees turn green overnight | |
+| autumn is a harvest season for farmer| |
+|the exhaust gas from factories and cars is a great threat to our environment | |
+|the tempersture in summer every year is getting higher and higher | |
+|industry is the greatest source of pollution| |
+|manufacturing facilities use huge quantities of freshwater to carry wastes of many kinds | |
+|technological advances in the chemical industry have altered the world's economy | |
+|the government should try to keep the balance of development and environmental protection | |
+|in many public water systems, the pollution has already exceeded safe levels | |
+| we shouldn't waste paper because trees are being cut down for making them| |
+|free plastic bags once provided by the supermarkets and stores are now forbidden | |
+| more recycling centers are supposed to be set up| | 
+| now most people are aware of the seriousness of environmental pollution| |
+|science and technology, to some extent, represents the power of a country | |
+|the development of artificial intelligence is pushing forward the development of other industries | |
+|technology is making the world more colourful and unexpected as well | |
+| electronic technology is developing so fast that we see new e-products every day| |
+|science and technology is the first productive force | |
+|Albert Einstein, famous for his theory of relativity, is one of the scientists i admire most| |
+|NY is an ideal destination for holidays | |
+| nowadays, the job market is full of fierce competition| |
+| doing exercise regularly helps me keep my mind alert| |
+| doing exercise in a wrong way could bring harm to our health| |
+|when i'm kind of at a loss, having an ambition will save me from bring frustrated| |
+|nobody was bron perfect | |
+|once you have a plan and stick to it, then you can make it | |
+| every cloud has a silver lining|困难中总有光明 |
+|online learning could provide flexible learning opportunities | |
+|study online will save us time, energy and money | |
+|people may lose their ability of communicating with others| |
+| the internet has provided a great variety of choices for online courses| |
+| anyhow, i would prefer to study face to face with the teacher in physical classroom| |
+|i am getting dizzy about the mathematical formulas/equations and programming codes | |
+| you would be more easily to be successful if you could choose an appropriate major| |
+|we live in a fast-paced society and hardly have any time to relax | |
+| forget your trouble and difficulties at study when you are in bed| |
