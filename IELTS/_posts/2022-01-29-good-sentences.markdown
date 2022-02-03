@@ -103,7 +103,7 @@ category: IELTSPosts
 |has a hectic lifestyle.|忙|
 |she says dubiously|半信半疑|
 |i am restricted in terms of how much time i can take off work | 被工作限制 |
-| besides, money is plentiful, and so are good deals. low-cost, no-frills airlines have opened up a growing list of destinations.| 低成本、简洁的航空公司开辟了越来越多的目的地 | 
+| besides, money is plentiful, and so are good deals. low-cost, no-frills airlines have opened up a growing list of destinations.| 低成本、简洁的航空公司开辟了越来越多的目的地 |
 |it is spoken by a fifth of the local population|1/5的人说|
 | it is spoken by fewer than a dozen (12) people| 小于12人说|
 |have a cheese omelette with tomatoes, grilled sausages and breakfast potatoes| 奶酪煎蛋卷配西红柿、烤香肠和早餐土豆 |
@@ -152,7 +152,7 @@ category: IELTSPosts
 | i know her inside and out |  |
 | a bosom firsnd is one to whom you could tell all your secrets |  |
 |she gets alone well with everyone in our class  |  |
-| we have known each other since we were in kindergarten |  | 
+| we have known each other since we were in kindergarten |  |
 |    nowadays children are under more pressure of competition|   |
 |today's children enjoy a high level of material life | |
 | my niece is a lovely child with shiny eyes and tiny feet |  |
@@ -165,7 +165,7 @@ category: IELTSPosts
 | my nephew wears a very warm smile on his face when he is happy | |
 |he is strong-willed and usually finds out ways to get what he wants | |
 | he always brags about his achievements| |
-|you should not say bad words about your colleagues behind their back | | 
+|you should not say bad words about your colleagues behind their back | |
 | mutual respect is vital in establishing relationship with others |  |
 |the relationship among colleagues is more complicated than the campus relationship | |
 | he is the soul of the team| |
@@ -237,7 +237,7 @@ category: IELTSPosts
 |computer provides people  with different sorts of entertainment, such as listening to music, watching films and playing video games | |
 |it is said that radiation of the computer screen is harmful to our health. | |
 |many young people indulge themselves in surfing on the internet and neglect their studies | |
-|as far as i am concerned, computer is a means of study and entertainment| | 
+|as far as i am concerned, computer is a means of study and entertainment| |
 | computer viruses can cause a lot of damage | |
 |computer has received more and more social attention from all walks of life | |
 | china is a country with a splendid catering culture| |
@@ -301,7 +301,7 @@ category: IELTSPosts
 |warm colours such as red and orange make people feel active, confident and energetic. | |
 |cold colours such as blue and purple represent peace, meditation and calmness | |
 |people who like warm colours tend to be optimists | |
-|people who like cold colours are probably shy and quiet| | 
+|people who like cold colours are probably shy and quiet| |
 | white symbolizes purity and cleanness| |
 | i would like to decorate my room in orange colour because it looks warm | |
 |in chinese traditional culture, red is supposed to bring good luck| |
@@ -311,3 +311,44 @@ category: IELTSPosts
 |it is a great time for us to gather with friends and relax| |
 |it is  complimentary free to all citizens, but always you can see too many people and your're got to wait in a long queue| |
 |many young people worship heroes in films as idols | |
+| surfing on the internet is not my cup of tea| |
+| a healthy hobby relaxes people and provides fun| |
+| to much absorbed in one's hobby and neglecting work are not good| |
+|i began to pick up this hobby when i was grade three in primary school | |
+|this hobby has given me an opportunity to make more friends | |
+|i devoted much of my spare time to it | |
+|how much you are interested in will decide how much you can get from it | |
+| i listen to the Vienna New Year concert on TV every year| |
+|photo album is full of memories | |
+| photographs catch the happy moments spent with friends and family| |
+|i take pictures at memorable events, such as birthdays and festivals | |
+|taking photos is a way of saving and sharing memories | |
+|many people use photoshop to better their images | |
+|taking false pictures is against the working ethics of the journalist | |
+|girls today are fascinated with shopping | |
+|i go window shopping as a way of recreation  | |
+|for many westerners, christmas is the shopping season | |
+|the modern shopping malls integrate many functions, such as catering and recreation | |
+|i go shopping in small stores because things there are much cheaper | |
+|an ordinary university student could not afford shopping in department stores with high frequency | |
+| luxury is beyond my buying ability  | |
+| the purchasing power of the rural regions has increased|  | 
+|my mother is a comparison shopper/impulse shopper | |
+| i always go bargain hunting in small markets  | |
+| i am a sport enthusiast| |
+|among all the sports activities, basketball is my favourite | |
+|there are scores of sport events in the olympics | |
+|a successful olympics game will demonstrate china's rapid development in sports | |
+|chinese people are paying more and more attention to body exercise | |
+|i spend my holidays on travelling | |
+|the scenery there is breathtaking | |
+| the tourism is flourishing in china| |
+|e-shopping is fast and convenient | |
+| when e-shopping, pay particular attention to safekeeping your account information | |
+|you should check your goods carefully after receiving it | |
+|e-shopping has the potential danger of being cheated | |
+| one of the disadvantages of e-shopping is that you are not able to see the commodity until you receive it| |
+|art can be regarded as another way to express our feelings | |
+|no matter what artistic skill you want to learn, you have to be ready to learn it for a long time| |
+|it is not that easy to master an artistic skill within a short period of time | |
+|some people say that singing can lose your weight to some extent | |

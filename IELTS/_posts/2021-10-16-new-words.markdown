@@ -505,6 +505,7 @@ category: IELTSPosts
 | celebrity | 名人|
 |gateway| 出入口；途径 |
 |meditation|沉思|
+|invention | 发明|
 
 
 ### Simple Adj&Conj
@@ -733,6 +734,8 @@ category: IELTSPosts
 |thoroughly |完全的 |
 |tear-jerker | 催人泪下的|
 |educative |教育意义的 |
+| touching|令人感动的 |
+|photogenic |上相的 |
 
 
 ### Excellent Phrase
@@ -892,3 +895,15 @@ category: IELTSPosts
 |pornography and violence| 色情暴力| 
 |international reputation | |
 |pamper ourselves |满足自己 |
+| have a strong passion of ...| |
+| common interests|共同爱好 |
+|be rich in | |
+|excellent voice | |
+|digital camera | |
+| be on vacation| |
+| run into different people| |
+|places of interest | |
+|in a traditional way | 传统的方式|
+|artistic skill | |
+|be of great importance | |
+| chinese violin | 二胡|
