@@ -155,6 +155,151 @@ category: IELTSPosts
 |creative|
 |inventive |
 
+|resolute|
+|:-----:|
+|determined|
+
+|relentless|
+|:-----:|
+|ruthless|
+|heartless|
+
+|prosperous|
+|:-----:|
+|blooming|
+|thriving|
+|flourishing |
+
+|steer|
+|:-----:|
+|drive|
+|pilot|
+|fly |
+
+|retract|
+|:-----:|
+|withdraw|
+|recall|
+|revoke |
+
+|grant|
+|:-----:|
+|permit|
+|allow|
+|authorize |
+
+|intact|
+|:-----:|
+|complete|
+|integrated|
+
+|intricate|
+|:-----:|
+|complex|
+
+|miracle|
+|:-----:|
+|marvel|
+|wonder|
+
+|imperative|
+|:-----:|
+|urgent|
+|pressing|
+
+|gamble|
+|:-----:|
+|adventure|
+
+|gamble|
+|:-----:|
+|bet|
+
+|dominant|
+|:-----:|
+|prevailing|
+|superior|
+|leading |
+
+|pervasive|
+|:-----:|
+|far-flung|
+|universal|
+|creeping |
+
+|prevalent|
+|:-----:|
+|popular|
+|fashionable|
+
+|tendency|
+|:-----:|
+|trend|
+|current|
+|climate |
+
+|warrant|
+|:-----:|
+|insure|
+|pledge|
+|guarantee |
+|ensure|
+|assure |
+
+|recommendation|
+|:-----:|
+|proposal|
+|suggestion|
+
+|exhibit|
+|:-----:|
+|display|
+
+|foresight|
+|:-----:|
+|insight|
+|vision|
+
+|mediocre|
+|:-----:|
+|indifferent|
+
+|endurance|
+|:-----:|
+|stamina|
+
+|stadium|
+|:-----:|
+|gymnasium|
+|gym|
+
+|thrill|
+|:-----:|
+|quiver|
+|shiver|
+|tremble |
+
+|tournament|
+|:-----:|
+|contest|
+|match|
+|game |
+|competition|
+
+|tricky|
+|:-----:|
+|cunning|
+|crafty|
+
+|urgency|
+|:-----:|
+|emergency|
+
+|boycott|
+|:-----:|
+|resist|
+|counteract|
+
 ### good sentences
 
 |                  English                  | Chinese |

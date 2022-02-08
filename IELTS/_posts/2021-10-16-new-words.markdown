@@ -255,6 +255,31 @@ category: IELTSPosts
 |promise|承诺|
 |squander |挥霍|
 |seal|封闭；海豹；印章|
+|embark|登船|
+|accommodate |容纳|
+|meditate|沉思|
+|ventilate|通风|
+|relent, sympathize|让步；同情|
+|lament|哀叹；感慨|
+|steer, drive, pilot, fly |驾驶|
+|retract, withdraw, recall, revoke|收回；撤回|
+|grant, permit, allow, authorize|授予；准许|
+|pressurise|加压|
+|justify|证明合法|
+|worship |崇拜|
+|comprise, include, consist of, involve, incorporate|包括|
+|vitalise|充满活力|
+|revitalise |振兴 |
+|seize, grasp|抢占；把握|
+|gamble, bet|赌|
+|assure, ensure, guarantee, pledge, insure, warrant |保证|
+|exhibit, display |展示|
+|anticipate|预料|
+|prioritize|优先考虑|
+|struggle|斗争|
+|release|发布|
+|boycott, resist, counteract|抵制|
+|intensify, strengthen|强化|
 
 
 ### Simple Noun
@@ -394,7 +419,7 @@ category: IELTSPosts
 |polluter|污染物/源|
 |triple|翻三番|
 |quadruple|翻两番；乘四倍|
-|miracle|奇迹|
+|miracle, marvel, wonder|奇迹|
 |fidelity|（对性伴侣）忠诚；忠贞|
 |hut|小屋；棚屋|
 |fringe|（地区群体）边缘；次要部分|
@@ -670,6 +695,44 @@ category: IELTSPosts
 |reinvention|改造|
 |skyscraper|摩天大楼|
 |reliance |依赖|
+|meditation|冥想|
+|ventilation |通风|
+|accommodation|住所|
+|prestige|声望|
+|mindset |心态|
+|skill-set|技能|
+| dialogue|对话 |
+|strategy |策略 |
+|legacy |遗产|
+|suite|套房；套间|
+|erosion|侵蚀|
+|utilitarian |功利主义|
+|heyday|鼎盛时期|
+|ingenuity|独创性|
+| artistry, artistic quality|艺术性 |
+|civilization|文明|
+|geometry|几何学|
+|culprit|罪魁祸首|
+|emission|排放|
+|attribute, property, characteristic|属性|
+|marginalization|边缘化|
+| baton|接力棒|
+|recruitment|招聘|
+|gamble, adventure|冒险|
+|captain, team leader|队长|
+|tendency, trend, current, climate|趋势|
+|recommendation, proposal, suggestion |建议|
+|crew|全体人员|
+| passivity|被动 | 
+|sprint|短跑；猛冲|
+|insight, foresight, vision|洞察力；远见|
+|endurance, stamina|耐力|
+|stadium, gymnasium, gym|体育馆|
+|thrill, tremble, quiver, shiver|快感；颤抖 |
+|tournament, contest, match, game, competition|比赛|
+|urgency, emergency|急|
+|vocabulary|词汇量|
+|diplomacy, foreign affairs|外交|
 
 
 ### Simple Adj&Conj
@@ -981,6 +1044,36 @@ category: IELTSPosts
 |groundbreaking, innovative, creative, inventive |开创性的|
 |ingenious|巧妙的|
 |sweeping|收拾；彻底的|
+|resolute, determined|坚决的|
+|relentless, ruthless, heartless|狠的|
+|communal |公共的 |
+|prosperous, blooming, thriving, flourishing |繁荣的|
+|unanimous(ly)|一致的|
+|intact, complete, integrated|完好的|
+|intricate, complex|错综复杂的|
+|pristine|原始的|
+| far-flung |遥远的|
+|geometrical(ly)|几何的|
+|imperative, urgent, pressing|至关重要的；迫切的|
+|modal |模态的|
+|marginal|边缘的|
+|saturated |饱和的|
+|vital|重要的；有活力的|
+|vitalised|充满活力的|
+|invariably |总是|
+|dominant, superior, leading, prevailing |主导的|
+|pervasive, far-flung, universal, creeping  |无孔不入的；蔓延的|
+|prevalent, popular, fashionable |流行的 |
+|regrettable |令人遗憾的|
+|passive, negative|被动的；消极的|
+|deadly |致命的|
+|tedious|乏味的|
+|mediocre, indifferent|平庸的|
+|tricky, cunning, crafty|棘手的；狡猾的|
+|foremost|最重要的|
+|outdated|过时的|
+|brand-new|全新的|
+|diplomatic|外交的|
 
 
 ### Excellent Phrase
@@ -1268,3 +1361,21 @@ category: IELTSPosts
 |occupy every possible niche| 食物链中的每一块|
 |daunting task| 艰巨的任务 |
 |sweeping reinvention|彻底改造|
+|steer clear |避开|
+|utilitarian application|实际应用|
+|Once again|再次|
+|attributable to|归因于|
+|take up the baton|拿起接力棒|
+|horizontally not vertically|广度而非深度|
+| opt out of sth.| 选择退出|
+|do the final sprint|做最后的冲刺|
+|have a preference for|偏爱|
+|sports update|  |
+|on the dot|exactly on time |
+|give me a thrill| 让我兴奋 |  
+|a whole new level of experience| 全新体验 |
+|basic function| | 
+|break down|分解|
+|financial stability|金融稳定|
+|nonessential product |非必需品|
+|succeeding days|随后的日子|
