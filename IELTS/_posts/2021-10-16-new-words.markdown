@@ -214,12 +214,47 @@ category: IELTSPosts
 |relieve|缓解；释放|
 |verbalise|语言表达|
 |articulate| 说出；雄辩 |
-|forsake |背板 |
-|betray| 背板|
+|betray, renege, forsake| 背板|
 | abandon| 放弃|
 | litter|丢垃圾 |
 |undergo |经历 |
 |deserve|值得|
+|preserve|保护|
+|shelter|庇护；庇护所|
+|proliferate|增生|
+| bustle|忙碌 |
+|flourish|繁荣|
+|disturb|打扰|
+|restore|恢复|
+|mprovise| create and perform (music, drama, or verse) spontaneously or without preparation. |
+|conceive|构想；怀孕|
+| detach|分离 |
+|reproduce|繁殖|
+|conceptualize |概念化 |
+|perceive |感知|
+|elucidate |阐发；解释|
+|avail  |利用|
+| favor|青睐|
+|emigrate|移民|
+|underpin|支撑|
+|extol|赞扬|
+|curtail|削减|
+|intervene|干预|
+|facilitate, boost, promote, accelerate, sitmulate, advance |促进|
+|controversy, debate| 辩论；争论 |
+|confront|面对；对抗|
+|negotiate|谈判|
+|envision, visualize, picture, imagine|预见|
+|fertilize|施肥|
+|bully|欺负|
+|irritate, stimulate|刺激|
+|aid |援助|
+|collapse|坍塌|
+|reserve, maintain, hold|保留|
+|bolster, support|支持|
+|promise|承诺|
+|squander |挥霍|
+|seal|封闭；海豹；印章|
 
 
 ### Simple Noun
@@ -430,6 +465,7 @@ category: IELTSPosts
 |appeal|感染力；呼吁；申诉|
 |alcohol|酒精；酒精饮料|
 |sculpture|雕塑品；雕像|
+|sculptor|雕塑家|
 |poverty|贫穷|
 |intrusion|闯入；侵扰|
 |seal|海豹；密封|
@@ -534,10 +570,106 @@ category: IELTSPosts
 |revenue|收益|
 | grace|优雅 |
 |antelope|羚羊|
-|industrialization |工业化 |
 |bliss|幸福|
 |despair (-ing -ed)|绝望|
 |notion  | 概念；主张|
+|perfume|香水|
+|luxury |奢侈品|
+|cylinder|圆筒|
+|scraper|刮刀|
+|aesthe|审美|
+|preservation, conservation, protection, safekeeping|保护|
+|cereal|谷物|
+|initiative |倡议；主动；能动性|
+|protein|蛋白质|
+|proposal|倡议|
+|phase |阶段；期|
+|nectar|花蜜|
+|biodiversity|生物多样性|
+|church|教会；教堂|
+|satellite|卫星|
+|Olympics| |
+|tragedy|悲剧|
+|catastrophe|灾难|
+|composer|作曲家|
+|commission|佣金|
+|orchestra|乐队|
+|thermometer|温度计|
+|thermograph|温度计|
+|thermography|热成像|
+|telegraph|电报|
+|astronomer|天文学家|
+|astronaut|宇航员|
+|arospace|航天|
+|Philosopher|哲学家|
+|Philosophy|哲学|
+|Renaissance|文艺复兴；再生|
+|industrialization|工业化|
+|fuel|燃料|
+|tide|浪潮|
+|tidal |潮汐|
+|habitat |栖息地|
+|inhabitant|居民|
+|restoration|恢复|
+|sociologist |社会学家|
+|sociology|社会学|
+|drawback|缺陷|
+|scene, spot, site|场景|
+|objective |目的；客观的|
+|compromise |妥协|
+|pupae|蛹|
+|predator|捕食者|
+|concept|概念|
+|elite|精英|
+|emergence|紧急情况|
+|institution|机构|
+|supposition|假设|
+|premise |前提|
+|presupposition|前提|
+|precondition|前提|
+|souvenir|纪念品|
+|accountant|会计|
+|prospect |前景 |
+|outlook |前景| 
+|amateur|业余|
+|portrait|肖像|
+|portraiture|画像|
+|pursuit|追求|
+|repercussion|反响|
+|millennium|千年|
+|percept|知觉|
+|perception|洞察力|
+|trivial|不重要的|
+|Peony|牡丹花|
+|pledge|保证；承诺|
+| smog|雾 |
+|negotiation|谈判|
+|adventurer, explorer|冒险者|
+|humanitarian|人道主义|
+|pigeon|鸽子|
+|flock, group, herd, crowd |群 |
+|spectacle|奇观|
+|embryo|胚胎|
+|trial |审判；实验的(lab)|
+|disturbance|骚乱|
+|irritation|刺激|
+|injury, wound|受伤|
+|counterpart, opposite side|对方|
+|bullying|欺凌|
+|specimen|样品；标本|
+|ailment, indisposition|slight illness|
+|organism, life |living creatures|
+|justice| 正义|
+|recess|凹槽；深处|
+|ubiquity|无处不在|
+|precedent, antecedent  |先例|
+|ward|病房|
+|compartment|隔间|
+|genius |天才|
+|culmination |高潮|
+|reinvention|改造|
+|skyscraper|摩天大楼|
+|reliance |依赖|
 
 
 ### Simple Adj&Conj
@@ -653,6 +785,7 @@ category: IELTSPosts
 |subtle|微妙的|
 |carefree|无忧无虑的|
 |implicit|含蓄的；暗示的|
+|explicit|显性的|
 |multicultural|多元文化的|
 |communal|公共的；共用的|
 |moderate|中等的；适度的；不激进的|
@@ -795,6 +928,59 @@ category: IELTSPosts
 |virtual |虚拟的 |
 |dizzy|头晕的|
 | impulsive |冲动的 |
+|luxurious|奢侈的；豪华的|
+|aesthetic |审美的 |
+|dependable|可信的|
+|notable |值得注意的|
+|premature(ly)|过早的|
+|tropical|热带的|
+|bustling|繁华的|
+|flourishing|繁华的|
+|sophisticated|复杂的|
+|electromagnetic |电磁的|
+|magnetic |磁的|
+|electric|电的|
+|disturbing|令人不安的|
+|prominent|著名的|
+|celebrated|著名的|
+|noteworthy|值得注意的|
+|erratic|不稳定的|
+|sustainable|可持续的|
+|radical|激进的|
+|quantitative |定量的|
+|medieval |中世纪的|
+|intimate|亲密的|
+|computer-aided|计算机辅助的|
+| reversed |反转的 |
+|counter-intuitive|反直觉的|
+|intuitive|直觉的|
+|foreseen|预见的|
+|unforeseen |意外的 |
+|smuggled |走私的|
+|conceptual|概念的|
+|harsh, cruel|残酷的|
+|oppressive|压迫性的|
+|underlying |潜在的|
+|smoky|雾的|
+|sunny |晴天 |
+|viable, feasible, workable|可行的|
+|spectacular, striking, breathtaking, amazing, glorious|壮观的|
+|laboratory|实验室|
+|carnivore|肉食动物|
+|hectare|公顷|
+|thrive, prosper, flourish, blossom |蓬勃发展的|
+|intensive|密集的|
+|colossal, huge, enormous, tremendous, gigantic | 庞大的|
+|numerous |众多的 |
+| sudden|突然的 |
+|dramatic |戏剧性的|
+|ongoing |进行中的|
+|promising|有希望的|
+|disputed, doubted |有争议的| 
+|undisputed, undoubted |无可争议的|
+|groundbreaking, innovative, creative, inventive |开创性的|
+|ingenious|巧妙的|
+|sweeping|收拾；彻底的|
 
 
 ### Excellent Phrase
@@ -1058,3 +1244,27 @@ category: IELTSPosts
 |a decent job with a decent payment | |
 |declaring major |专业确认 |
 |pass up|放弃|
+|wash off|洗去|
+|suck up|吮吸|
+|secrete solution|分泌液|
+|electromagnetic waves|电磁波|
+|hold sway|be in power|
+|ocean floor|海底|
+|tidal energy|潮汐能|
+|middle Ages|中世纪|
+|Whereas |然而|
+|detach A from B |将 A 从 B 中分离出来 |
+|to illustrate,|为了显示|
+|look after| 照顾|
+|reproduce sexually|有性繁殖|
+| reproduce asexually|无性繁殖 |
+|avail  of sth.|利用|
+|Romain Rolland "Twenty Thousand Leagues Under the Sea"| 《海底两万里》|
+|humanitarian sector |人道主义部门|
+|passenger pigeon|旅鸽|
+|natural spectacle|自然景观|
+|fertilized embryo|受精卵|
+|general population|大众；总人口|
+|occupy every possible niche| 食物链中的每一块|
+|daunting task| 艰巨的任务 |
+|sweeping reinvention|彻底改造|

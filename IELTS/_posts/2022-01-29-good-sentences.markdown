@@ -90,11 +90,70 @@ category: IELTSPosts
 |  forsake   |
 |:-----:|
 |   betray   |
+|renege|
 
 |  trash   |
 |:-----:|
 |garbage | 
 |   rubbish   |
+
+|wash off|
+|:-----:|
+|rinse|
+
+|facilitate|
+|:-----:|
+|boost|
+|promote|
+|accelerate|
+|sitmulate|
+|advance|
+
+|controversy|
+|:-----:|
+|debate|
+
+|viable|
+|:-----:|
+|feasible|
+|workable|
+
+|premise|
+|:-----:|
+|presupposition|
+|precondition|
+
+|conservation|
+|:-----:|
+|preservation|
+|protection|
+|safekeeping |
+
+|colossal|
+|:-----:|
+|huge|
+|enormous|
+|tremendous |
+|gigantic|
+
+|reserve|
+|:-----:|
+|maintain|
+|hold|
+
+|bolster|
+|:-----:|
+|support|
+
+|undisputed|
+|:-----:|
+|undoubted|
+
+|groundbreaking|
+|:-----:|
+|innovative|
+|creative|
+|inventive |
 
 ### good sentences
 
