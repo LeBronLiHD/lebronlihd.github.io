@@ -300,6 +300,19 @@ category: IELTSPosts
 |resist|
 |counteract|
 
+|adept|
+|:-----:|
+|skilled|
+
+|phase|
+|:-----:|
+|stage|
+
+|prospect|
+|:-----:|
+|foreground|
+|outlook|
+
 ### good sentences
 
 |                  English                  | Chinese |
@@ -708,3 +721,64 @@ category: IELTSPosts
 | you would be more easily to be successful if you could choose an appropriate major| |
 |we live in a fast-paced society and hardly have any time to relax | |
 | forget your trouble and difficulties at study when you are in bed| |
+|irrigation was seen as the main priority to ensure the supply of water| |
+| it was notable that in general women formed the majority of workforce|  |
+|there was also an addtional initiative that had not been originally planned, but which became a central feature of the programme| |
+|however, it's important to set realistic timelines for each phase of the programme, especially for its design, as mistakes made at this stage may hard to correct later on.| |
+|so it's alarming that all across the country, number of XX are falling because the trees are dying off prematurely.| |
+|what it was doing was preventing the trees from sucking up the iron they needed for healthy growth.| | 
+|it has very thick, dense vegetation, but not much variety of species.| |
+|research on the buildings, tools, and human remains has revealed how the bustling village once functioned, and even what diseases some of the residents suffered from| |
+|as a composer, she has received commissions from numerous orchestras, other performers and festivals in several countries.| | 
+|Moore hoped to become a sculptor, but instead he complied with his father's wish that he was trained as a schoolteacher.| |
+|Engineers are tasked with changing how we travel round cities through urban design, but the engineering industry still works on the assumptions that led to the creation of the energy-consuming transport systems we have now: the emphasis placed solely on efficiency, speed, and quantitative data. We need radical changes, to make it healthier, more enjoyable, and less enviromnentally damaging to travel around cities. | |
+| reference to an appealing way of using dance that the writer is not proposing| |
+| Whereas medieval builders improvised and adapted construction through their intimate knowledge of materials and personal experience of the conditions on a site, building designs are now conceived and stored in media technologies that detach the designer from the physical and social realities they are creating. While the design practices created by these new technologies are essential for managing the technical complexity of the modern city, they have the drawback of simplifying reality in the process. | |
+|Unlike all previous studies, which only estimated how old the ants were, her work tracked the ants from the time the pupae became adults, so she knew their exact ages. Then she put them through a range of tests.| |
+|Out in the wild, the ants probably don't live for a full 140 days thanks to predators, disease and just being in an environment that’s much harsher than the comforts of the lab. | | 
+|First, implicit theories of intelligence drive the way in which people perceive and evaluate their own intelligence and that of others.| |
+|These implicit theories can suggest what aspects of the phenomenon have been more or less attended to in previous investigations. | |
+|Finally, understanding implicit theories of intelligence can help elucidate developmental and cross-cultural differences.| |
+|The Jacksonian view is that all people are equal, not only as human beings but in terms of their competencies - that one person would serve as well as another in government or on a jury or in almost any position of responsibility. In this view of democracy, people are essentially intersubstitutable except for specialized skills, all of which can be learned. In this view, we do not need or want any institutions that might lead to favoring one group over another. | |
+|Implicit theories of intelligence and of the relationship of intelligence to society perhaps need to be considered more carefully than they have been because they often serve as underlying presuppositions for explicit theories and even experimental designs that are then taken as scientific contributions. Until scholars are able to discuss their implicit theories and thus their assumptions, they are likely to miss the point of what others are saying when discussing their explicit theories and their data.| | 
+|People wanted to buy photographs as souvenirs of a trip or as gifts, and catering to this market, Henderson had stock photographs on display at his studio for mounting, framing, or inclusion in albums.| |
+|although she isn't aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.| |
+|It underpins how we develop as intellectual, problem-solving adults and is crucial to our success as a highly adaptable species.| |
+|Outdoor play is curtailed by perceptions of risk to do with traffic, as well as ...| |
+|the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate or controversy | |
+|let's not lose sight of its benefits, and the fundamental contributions it makes to human achievements in the arts, sciences and technology | |
+| We do realise, though, that to be a viable company there is a bottom line to keep in mind | |
+| In the developing world, the price will depend on what deal aid organisations can negotiate. | |
+| We are a venture with a social mission. We are aware that the product we have envisioned is mainly finding application in the developing world and humanitarian sector and that this is the way we will proceed | |
+|Moreover, some of these collapses have been sudden, dramatic and unexpected, or were simply discovered very late in the day. | |
+|A species protected in captivity can be bred up to provide a reservoir population against a population crash or extinction in the wild. | |
+|Procedures such as capturing and moving at-risk or dangerous individuals are bolstered by knowledge gained in zoos about doses for anaesthetics, and by experience in handling and transporting animals | |
+| In conclusion, considering the many ongoing global threats to the environment, it is hard for me to see zoos as anything other than essential to the long-term survival of numerous species.| |
+|Looking to nature for the soothing and curing of our ailments is nothing new - we have been doing it for tens of thousands of years | |
+|Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles | |
+|Insects are the undisputed masters of the terrestrial domain, where they occupy every possible niche | 陆地的|
+|Why is it that insects have received relatively little attention in bioprospecting? | 曾经|
+|If we can shine a light on the darker recesses of nature's medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people think differently about the value of nature. | |
+|As global temperatures continue to rise, we are going to continue to squander more and more energy on keeping our buildings mechanically cool until we have run out of capacity | |
+|Short is calling for a sweeping reinvention of how skyscrapers and major public buildings are designed - to end the reliance on sealed buildings which exist solely via the 'life support' system of vast air conditioning units.| | 
+|Instead, he shows it is entirely possible to accommodate natural ventilation and cooling in large buildings by looking into the past, before the widespread introduction of air conditioning systems, which were 'relentlessly and aggressively marketed' by their inventors. | |
+|Short regards glass, steel and air-conditioned skyscrapers as symbols of status, rather than practical ways of meeting our requirements. | |
+|Professor Short contends the mindset and skill-sets behind these designs have been completely lost, lamenting the disappearance of expertly designed theatres, opera houses and other buildings where up to half the volume of the building was given over to ensuring everyone got fresh air. | |
+|What is surprising is what a rich legacy we have abandoned.| |
+|they're all pretty boring and almost identical to each other | 一模一样|
+|all these influences have a negative impact on the bear's very existence |濒危|
+|During their heyday, they were places of gathering, of leisure and relaxation and of worship for villagers of all but the lowest classes | |
+|Tourists flock to wells in far-flung corners of northwestern India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.| |
+|It is difficult to conceive of vigorous economic growth without an efficient transport system | |
+|For passenger transport, the determining factor is the spectacular growth in car use| |
+|However, a new imperative - sustainable development - offers an opportunity for adapting the EU's common transport policy | |
+|This objective, agreed by the European Council, has to be achieved by integrating environmental considerations into Community policies, and shifting the balance between modes of transport lies at the heart of its strategy.| |
+|Once again, road transport is the main culprit since it alone accounts for 84% of the CO2 emissions attributable to transport  | |
+|Using alternative fuels and improving energy efficiency is thus both an ecological necessity and a technological challenge.| |
+|However, the lack of measures available to revitalise other modes of transport would make it impossible for more sustainable modes of transport to take up the baton. | |
+|The third approach, which is not new, comprises a series of measures ranging from pricing to revitalising alternative modes of transport and targeting investment in the trans-European network| |
+|Studies show that we invariably take more gambles when threatened with a loss than when offered a reward.| |
+|Teamwork taps into one of the basic drivers of human behaviour. ‘The principle of social proof is so pervasive that we don’t even recognise it,’ | |
+|Research shows that peer power, used horizontally not vertically, is much more powerful than any boss’s speech. | |
+|Leaders should encourage everyone to contribute and simultaneously assure all concerned that every recommendation is important to making the right decision and will be given full attention| |
+|crew members of multipilot aircraft exhibit a sometimes deadly passivity when the flight captain makes a clearly wrong-headed decision | |

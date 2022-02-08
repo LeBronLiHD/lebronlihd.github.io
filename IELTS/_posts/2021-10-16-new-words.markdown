@@ -280,6 +280,12 @@ category: IELTSPosts
 |release|发布|
 |boycott, resist, counteract|抵制|
 |intensify, strengthen|强化|
+|rinse|冲洗|
+|dig(dug)|挖|
+|adopt|采纳|
+|adapt|适应|
+|improvise|create and perform (music, drama, or verse) spontaneously or without preparation. |
+|mount    | 安装；镶嵌；山 |
 
 
 ### Simple Noun
@@ -608,7 +614,7 @@ category: IELTSPosts
 |initiative |倡议；主动；能动性|
 |protein|蛋白质|
 |proposal|倡议|
-|phase |阶段；期|
+|phase, stage |阶段；期|
 |nectar|花蜜|
 |biodiversity|生物多样性|
 |church|教会；教堂|
@@ -646,16 +652,13 @@ category: IELTSPosts
 |predator|捕食者|
 |concept|概念|
 |elite|精英|
-|emergence|紧急情况|
+|emergency|紧急情况|
 |institution|机构|
 |supposition|假设|
-|premise |前提|
-|presupposition|前提|
-|precondition|前提|
+|premise, presupposition, precondition |前提|
 |souvenir|纪念品|
 |accountant|会计|
-|prospect |前景 |
-|outlook |前景| 
+|prospect, foreground, outlook |前景 |
 |amateur|业余|
 |portrait|肖像|
 |portraiture|画像|
@@ -733,6 +736,9 @@ category: IELTSPosts
 |urgency, emergency|急|
 |vocabulary|词汇量|
 |diplomacy, foreign affairs|外交|
+|marble|大理石|
+|dessert|甜品|
+|frame|帧；框架；建立|
 
 
 ### Simple Adj&Conj
@@ -1004,8 +1010,7 @@ category: IELTSPosts
 |magnetic |磁的|
 |electric|电的|
 |disturbing|令人不安的|
-|prominent|著名的|
-|celebrated|著名的|
+|prominent, celebrated|著名的|
 |noteworthy|值得注意的|
 |erratic|不稳定的|
 |sustainable|可持续的|
@@ -1074,6 +1079,9 @@ category: IELTSPosts
 |outdated|过时的|
 |brand-new|全新的|
 |diplomatic|外交的|
+|adept, skilled|娴熟的；老手|
+|typical|典型的|
+|thick|厚的|
 
 
 ### Excellent Phrase
@@ -1248,6 +1256,7 @@ category: IELTSPosts
 |local colors | 地区特色 |
 |be addicted to | |
 |greek fairy tales | 希腊神话|
+|Greek philosopher Plato| 柏拉图|
 |multiplayer online battle arena| MOBA|
 |Role-Playing Games|RPG|
 |hide and seek | |
@@ -1379,3 +1388,13 @@ category: IELTSPosts
 |financial stability|金融稳定|
 |nonessential product |非必需品|
 |succeeding days|随后的日子|
+|rural population|农村人口|
+| later on| |
+|computer-aided design|CAD|
+| specialize in |专注于|
+|perceptions of | 考虑到|
+|to do with |和...相关 |
+|be confronted with |面对 |
+|from scratch |从头来|
+|the culmination of 30 years of research| 结晶|
+|in pristine condition| 原始状态|
