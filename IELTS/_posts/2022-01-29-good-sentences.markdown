@@ -313,6 +313,89 @@ category: IELTSPosts
 |foreground|
 |outlook|
 
+|typically|
+|:-----:|
+|normally|
+|usually|
+
+|alter|
+|:-----:|
+|adjust|
+|change|
+
+|routine|
+|:-----:|
+|habit|
+|custom|
+|practice|
+
+|sketching|
+|:-----:|
+|drawing|
+
+|enroll|
+|:-----:|
+|register|
+|sign up|
+
+|impressive|
+|:-----:|
+|excellent|
+|good |
+|amazing |
+
+|recollection |
+|:-----:|
+|memory |
+|mind |
+|recognition |
+
+|recollect |
+|:-----:|
+|memorize |
+|remember |
+|recall |
+
+|weak |
+|:-----:|
+|awful |
+|terrible |
+|horrible |
+|poor  |
+
+|cellphone  |
+|:-----:|
+|smart phone |
+|mobile phone |
+
+|impact |
+|:-----:|
+|influence|
+|effect |
+
+|adverse |
+|:-----:|
+|unfavorable |
+|negative |
+|damaging |
+|detrimental  |
+
+|advantageous |
+|:-----:|
+|beneficial |
+|positive |
+|conducive |
+
+|TV programs |
+|:-----:|
+| TV shows |
+|TV series |
+
+|broadcast |
+|:-----:|
+|televise |
+|telecast|
+
 ### good sentences
 
 |                  English                  | Chinese |

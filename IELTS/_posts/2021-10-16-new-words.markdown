@@ -286,6 +286,9 @@ category: IELTSPosts
 |adapt|适应|
 |improvise|create and perform (music, drama, or verse) spontaneously or without preparation. |
 |mount    | 安装；镶嵌；山 |
+|concentrate|专注|
+|stand |忍受；站|
+|inherit |遗传|
 
 
 ### Simple Noun
@@ -739,6 +742,9 @@ category: IELTSPosts
 |marble|大理石|
 |dessert|甜品|
 |frame|帧；框架；建立|
+|technique|技术|
+|exposure |接触|
+|wisdom |智慧|
 
 
 ### Simple Adj&Conj
@@ -1082,6 +1088,13 @@ category: IELTSPosts
 |adept, skilled|娴熟的；老手|
 |typical|典型的|
 |thick|厚的|
+|inconvenient |不方便的|
+|elsewhere |somewhere else|
+|regretful|遗憾的|
+|forgetful |健忘的|
+|adverse, detrimental, damaging, negative, unfavourable|不利的|
+|advantageous, beneficial, positive, conducive|有利的|
+|informative |信息丰富|
 
 
 ### Excellent Phrase
@@ -1398,3 +1411,28 @@ category: IELTSPosts
 |from scratch |从头来|
 |the culmination of 30 years of research| 结晶|
 |in pristine condition| 原始状态|
+|hit the road|上路|
+|go on a road trip|公路旅行|
+|set out on a journey|travel|
+|take pleasure in, delight in|enjoy|
+|Not as frequent when I become older.|  |
+|impressive experience| |
+|little one| child |
+|be aligned with| 相向而行|
+|unexpected event| |
+|natural gift |天赋|
+|cognitive development|认知发展|
+|put mind to|learn, master, study|
+|elementary grade|小学|
+|up to the mark|excellent|
+|are blessed with|be talented in|
+|aside from|除了（包含）|
+|advanced feature|高级功能|
+|surf the internet| |
+|have confidence in| be confident of |
+|count on| depend on, rely  |
+|learn by heart|  用心学习|
+|social life| 社交 |
+|cognitive area| comfortable area |
+| exposure on| 暴露于 |
+|essential topics|重要话题|
