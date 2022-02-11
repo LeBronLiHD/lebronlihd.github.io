@@ -18,6 +18,22 @@ category: IELTSPosts
 - logical skills
 - judgement · degree · statement
 
+### english & american
+
+| E| A|
+|:-----:|:-----:|
+| maths | math |
+|subject |major |
+| underground|subway |
+| film|movie |
+| public transport| public transportation|
+| petrol| gasoline|
+|petrol station |gas station |
+| lorry|truck |
+| motorway| freeway|
+|pavement |sidewalk |
+| sweets|candy |
+
 ### topics
 
 - Chinese traditional cultural
@@ -41,7 +57,7 @@ category: IELTSPosts
   - Fried
   - Sauce
 
-### good paraphrase
+### good synonyms
 
 | advantages & disadvantages |
 |:--:|
@@ -395,6 +411,42 @@ category: IELTSPosts
 |:-----:|
 |televise |
 |telecast|
+
+|factor|
+|:-----:|
+|element|
+
+|rigorous|
+|:-----:|
+|strict|
+
+|demonstrate |
+|:-----:|
+|illustrate |
+|indicate |
+|reveal |
+|show  |
+
+|authentic |
+|:-----:|
+|conclusive |
+|truthful |
+|true |
+
+|visualize |
+|:-----:|
+|imagine |
+|picture |
+|foresee |
+
+|definitive |
+|:-----:|
+|conclusive |
+
+|transaction |
+|:-----:|
+|business |
+|deal |
 
 ### good sentences
 

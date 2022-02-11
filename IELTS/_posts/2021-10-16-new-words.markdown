@@ -27,6 +27,39 @@ category: IELTSPosts
 |bacteria|细菌|
 
 
+### Winter Olympic
+
+|English|Chinese|
+|:-----:|:-----:|
+|curling | 冰壶| 
+| Hat-trick| 帽子戏法|
+|ice hockey | 冰球|
+|snowboard | 单板滑雪|
+| speed skating | 速度滑冰|
+|short track speed skating |短道速滑 |
+|sportsmanship | 体育精神|
+|amateur | 业余爱好者|
+|athlete | 运动员|
+|olympic venue |奥运场馆 |
+|gold medal | 金牌|
+|ice rink |冰场 |
+|luge |雪橇 |
+|blades |冰刀 |
+|skeleton |钢架雪车|
+|mascots |吉祥物 |
+|olympic village | 奥运村|
+|paralympic |残奥 |
+| torch relay| 火炬传递|
+|alpine skiing|高山滑雪 |
+| corss-country skiing| 越野滑雪|
+|together for a shared future | |
+|figure skating | 花滑|
+|freestyle skiing | 自由式滑雪|
+|the Ice Ribbon |冰丝呆 |
+|olympic flame | 奥运圣火|
+|international olympic committee |国际奥委会 |
+
+
 ### Simple Verb
 
 |English|Chinese|
@@ -289,6 +322,9 @@ category: IELTSPosts
 |concentrate|专注|
 |stand |忍受；站|
 |inherit |遗传|
+|demonstrate, show, reveal, indicate, illustrate|展示|
+|predominant, domination, rule|统治；优越的|
+|visualize, imagine, picture, foresee| 形象化；想象  |
 
 
 ### Simple Noun
@@ -745,6 +781,19 @@ category: IELTSPosts
 |technique|技术|
 |exposure |接触|
 |wisdom |智慧|
+|coherence|连贯性|
+|cohesion|凝聚；衔接|
+|factor, element|因素|
+|spectator|观众|
+|regulation|规定|
+|efficiency|效率|
+|surgeon|外科医生|
+|aspiration|心愿；志向|
+|ambition|志向|
+|hairdresser| 美发师 |
+|trail| 踪迹；线索；落后 |
+|Wednesday| |
+|Transaction, business, deal|交易|
 
 
 ### Simple Adj&Conj
@@ -1095,6 +1144,15 @@ category: IELTSPosts
 |adverse, detrimental, damaging, negative, unfavourable|不利的|
 |advantageous, beneficial, positive, conducive|有利的|
 |informative |信息丰富|
+|coherent|相关的|
+|lexical|词汇的|
+|grammatical|语法的|
+|deceptive|欺骗性的|
+|rigorous|严格的|
+|authentic, true, truthful, conclusive | 真实的|
+|elusive|难以捉摸的(difficult to catch/find)|
+|passionate|热情的|
+|definitive, conclusive|确定的|
 
 
 ### Excellent Phrase
@@ -1436,3 +1494,17 @@ category: IELTSPosts
 |cognitive area| comfortable area |
 | exposure on| 暴露于 |
 |essential topics|重要话题|
+|lexical resource|vocabulary|
+|high speed rail|高铁|
+|dining hall|饭店|
+|clean energy|清洁能源|
+|shopping mall|商场|
+|Swipe your finger|滑动手指|
+|social media|社交媒体|
+|personal quality|个人品质|
+|the overall tone|总基调|
+|rapidly expanding economies, such as China, India and Russia| 经济体|
+|in-depth analysis|深入分析|
+|consulting room|（医生）咨询室|
+|work out|解决|
+|make arrangement|安排；做计划|
