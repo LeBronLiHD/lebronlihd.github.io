@@ -57,6 +57,81 @@ category: IELTSPosts
   - Fried
   - Sauce
 
+### transition word
+
+| Emphasis|Addition |
+|:--:|:--:|
+| undoubtedly| along with|
+| unquestionably| apart from this |
+| obviously| moreover|
+| particularly/in  particular| furthermore |
+| especially|also |
+| clearly|too |
+| importantly| as well as that|
+| absolutely|besides |
+| definitely|in addition |
+| without a doubt|not only ... but also ... |
+| indeed| in addition to this|
+| it should be noted| additionally/an additional|
+
+| contrast|order |
+|:--:|:--:|
+| unlike|following |
+| nevertheless| at this time|
+| on the other hand| previously|
+| nonetheless|first(ly) |
+| despite/in spite of| second(ly)|
+| in contrast (to)|third(ly) |
+| contrary to|finally |
+| whereas|subsequently |
+| alternatively| above all|
+| conversely|before |
+| even so| last but not least|
+| differing from| first and foremost|
+
+|result |illustration |
+|:--:|:--:|
+|as a consequence (of) |such as  |
+| as a result|in this case |
+| thus|for example |
+| hence| for instance|
+| consequently|to clarify |
+| for this reason| including|
+| due to| namelty|
+| therefore|proof of this |
+| | to demonstrate|
+
+|comparison |summary |
+|:--:|:--:|
+| similarly|briefly |
+| equally|in short |
+| likewise| in conclusion|
+| just as | to summarize|
+| just like|to sum up |
+| compare to| altogether|
+| same as | in summary|
+|correspondingly |to conclude |
+| in the same way| |
+
+|reason |condition |
+|:--:|:--:|
+|because of |if |
+| with this in mind| in that case|
+| in fact|in case |
+| in order to| unless|
+| due to| |
+
+|concession |generalization |
+|:--:|:--:|
+| admittedly| as a rule|
+| all the same |for the most part |
+| up to a point|in general/generally |
+| even so| on the whole|
+| in spite of| overall|
+|although/even though |in most cases |
+| even if| |
+| however| |
+
 ### good synonyms
 
 | advantages & disadvantages |
@@ -447,6 +522,12 @@ category: IELTSPosts
 |:-----:|
 |business |
 |deal |
+
+|very |
+|:-----:|
+| incredibly, terribly, extremely |
+|particularly, exceedingly  |
+|especially, remarkably, awfully |
 
 ### good sentences
 

@@ -794,6 +794,7 @@ category: IELTSPosts
 |trail| 踪迹；线索；落后 |
 |Wednesday| |
 |Transaction, business, deal|交易|
+|necklace | 项链 |
 
 
 ### Simple Adj&Conj
@@ -1508,3 +1509,4 @@ category: IELTSPosts
 |consulting room|（医生）咨询室|
 |work out|解决|
 |make arrangement|安排；做计划|
+|keep on |坚持做 |
