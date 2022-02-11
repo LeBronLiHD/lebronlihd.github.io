@@ -325,6 +325,15 @@ category: IELTSPosts
 |demonstrate, show, reveal, indicate, illustrate|展示|
 |predominant, domination, rule|统治；优越的|
 |visualize, imagine, picture, foresee| 形象化；想象  |
+|halve|减半|
+|spoon-feed| 用勺子喂；填鸭 |
+|instruct, guide, direct|指导|
+|signify, indicate, express, represent|表示|
+|assign |布置 (assistant)|
+| deter, prevent, block, impede, stop|改变|
+|implicate, involve, drag in|牵连|
+|render|使成为；provide or give；渲染|
+|emerge, appear, arise|出现|
 
 
 ### Simple Noun
@@ -691,7 +700,6 @@ category: IELTSPosts
 |predator|捕食者|
 |concept|概念|
 |elite|精英|
-|emergency|紧急情况|
 |institution|机构|
 |supposition|假设|
 |premise, presupposition, precondition |前提|
@@ -795,6 +803,12 @@ category: IELTSPosts
 |Wednesday| |
 |Transaction, business, deal|交易|
 |necklace | 项链 |
+|infant|婴儿|
+|Sanitation|卫生|
+|rope, string|绳子|
+|monetary|货币|
+|livestock|牲畜|
+|implication, significance, meaning|含义；意义|
 
 
 ### Simple Adj&Conj
@@ -1154,6 +1168,8 @@ category: IELTSPosts
 |elusive|难以捉摸的(difficult to catch/find)|
 |passionate|热情的|
 |definitive, conclusive|确定的|
+|educative, instructive, instructional, informative, illuminating |教育性的|
+|dedicated, special |专用的|
 
 
 ### Excellent Phrase
@@ -1510,3 +1526,11 @@ category: IELTSPosts
 |work out|解决|
 |make arrangement|安排；做计划|
 |keep on |坚持做 |
+| infant mortality rate|婴儿死亡率|
+|availability of|供应|
+|underlying ideas| 背后的思想 |
+|display case|展示柜|
+|dozens of|数十个；$12 \times N$|
+|burial urn| 骨灰盒 |
+|more than 300 | not majority| 
+|is dedicated to|致力于|

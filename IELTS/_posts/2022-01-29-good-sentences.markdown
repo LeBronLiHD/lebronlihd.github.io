@@ -529,6 +529,50 @@ category: IELTSPosts
 |particularly, exceedingly  |
 |especially, remarkably, awfully |
 
+|instruct|
+|:-----:|
+|direct|
+|guide|
+
+|signify |
+|:-----:|
+|indicate |
+|express|
+|represent |
+
+|educative |
+|:-----:|
+|instructive |
+|instructional|
+|informative|
+|illuminating |
+
+|deter |
+|:-----:|
+|prevent |
+|block|
+|impede|
+|stop |
+
+|implication |
+|:-----:|
+|significance |
+|meaning|
+
+|implicate |
+|:-----:|
+|drag in |
+|involve|
+
+|dedicated |
+|:-----:|
+|special|
+
+|emerge |
+|:-----:|
+|appear |
+|arise|
+
 ### good sentences
 
 |                  English                  | Chinese |
@@ -998,3 +1042,4 @@ category: IELTSPosts
 |Research shows that peer power, used horizontally not vertically, is much more powerful than any boss’s speech. | |
 |Leaders should encourage everyone to contribute and simultaneously assure all concerned that every recommendation is important to making the right decision and will be given full attention| |
 |crew members of multipilot aircraft exhibit a sometimes deadly passivity when the flight captain makes a clearly wrong-headed decision | |
+|However there are problems with each of these theories|negative|
