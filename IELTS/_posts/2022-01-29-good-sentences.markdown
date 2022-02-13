@@ -34,6 +34,27 @@ category: IELTSPosts
 |pavement |sidewalk |
 | sweets|candy |
 
+### Task 1
+
+|↑ |↓ |
+|:-----:|:-----:|
+| increase|fall |
+| rise|drop |
+| grow| decrease|
+
+| 大幅|平稳 |小幅 |
+|:-----:|:-----:|:-----:|
+|sharply |gradually |slightly |
+| rapidly| steady|marginally |
+| dramatically|consistently | minimally| 
+
+| chinese | english |
+|:-----:|:-----:|
+|波动 |fluctuate, experience fluctuation |
+|保持 |remain stable, stay constant |
+|最高 |peak, reach the highest point |
+|  最低|reach the lowest level, hit a low of |
+
 ### topics
 
 - Chinese traditional cultural
