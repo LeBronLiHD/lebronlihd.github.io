@@ -1802,4 +1802,5 @@ category: IELTSPosts
 |ridiculous|荒谬的 |
 |sweet tooth | |
 |it, this tune, music, instrumental sound | song|
+|luggage |行李|
 |inspirational |鼓舞人心的|
