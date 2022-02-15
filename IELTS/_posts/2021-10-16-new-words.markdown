@@ -582,7 +582,7 @@ category: IELTSPosts
 |archaeologist |考古学家|
 |centrepiece |核心作品|
 |cargo |货物|
-|freight |运输|
+|freight |货物运输|
 |tariffs|关税|
 |monopoly |垄断|
 |vandalism |乱写乱画；涂鸦|
@@ -1540,4 +1540,266 @@ category: IELTSPosts
 
 | English| Chinese|
 |:-------: | :-------:|
-| | |
+| precipitation |沉淀；降水 |
+|eradication | 根除|
+|peculiar |奇特的|
+|proactive|积极主动的|
+|bungle|搞糟|
+|rational | reasonable |
+|rational thinking |理性思考|
+|overwhelming|压倒的|
+|discipline|纪律|
+|ignorance|无知|
+|intimidate|威吓|
+|obligation|义务|
+|conviction|定罪|
+|atavism|返祖|
+|centimeter|厘米|
+|specie|物种|
+|existence|存在|
+|challenge|挑战|
+|reproduction|再生产|
+|produce|生产|
+|G|J|
+|postbox|mailbox|
+|next to|旁边的|
+|nineteenth-century costume|十九世纪的服装|
+|costume|戏服|
+|tremendous|巨大的|
+|radical|激进的；根本的|
+|prospector|探矿者|
+|mineral|矿物|
+|fall into disrepair|失修|
+|scores of people|数十人（12）|
+|pump|泵|
+|it's recommended that you time your visit to coincide with a guided tour|  time|
+|to coincide with |与 |
+|cabin|舱|
+|ladder|梯子|
+|collocation|搭配|
+|sentence structure|语句结构|
+|grammatical tense|时态|
+|be understood throughout the communication| throughout |
+|use intonation| 语调 |
+|tone of voice| 语气 |
+|assert one's opinions| 表态|
+|brochure|宣传册|
+|the image of the company| 形象 |
+|mentor|导师|
+|reach sb.|联系|
+|capability|能力|
+|plough ahead|前行|
+|durable|耐用的 |
+|be more economical than at present| 更省钱 |
+|phenomenal effect|现象级|
+|aging process|老龄化|
+|life expectancy|期望寿命|
+|prejudice|偏见|
+|Personnel/staff/crew|人员|
+|origin in|起源于|
+|personality  transformation| 人格转变 |
+|regardless of|不论 |
+|by a  young age    a person's character tends to be fixed. | fixed |
+|habitual |习惯性的|
+|re-emergence |再现 |
+|reluctant |不情愿的|
+|mindful of|注意  |
+|criminal|刑事；罪犯|
+|temporary occurrence| 暂时发生 |
+|certain exceptions| 某些例外  |
+|sandal|凉鞋|
+|layout|distribution|
+|conservation|保护|
+|conservationist|保护者|
+|nutrition|营养|
+|rigor |严格 |
+| despoiled |被宠坏的 |
+|One variation on vertical farming that has been developed is to grow plants in stacked trays that move on rails. | 变体|
+|opposition |反对|
+|dismantle| 拆除 |
+|rotate at a speed of 1/8 of a revolution per minute| 1/8 rad/s |
+|fridge, refrigerator|冰箱|
+|cleaning cupboard|橱柜|
+|be piled up| 推起来  |
+|appointment|约定|
+|ocean current|洋流|
+|boundary|边界|
+| the purpose of|目的|
+|corridors |走廊|
+|methane |甲烷|
+|proponent|支持者|
+|sacrifice|牺牲|
+|horizontal|水平的|
+|vertical|垂直的|
+|ecozone|生态区|
+|fossil fuel|化石燃料|
+|verdant|葱茏的|
+|de'ssert| 'desert |
+| pest|害虫 |
+|pesticide, farm chemicals|农药|
+|organic, organical(ly)|有机的|
+|dismantle|拆除|
+|were all constructed and assembled| 全部建造组装 |
+|puppet|木偶|
+|make-up|化妆品|
+|refurbishment |翻新|
+|refurbish|翻新|
+|ceiling|天花板|
+|acoustic|声学的|
+|cushioning |缓冲|
+|cushion |垫子 |
+|dispute, controversy|争议|
+|scrutiny|审查 |
+|decipher |decode|
+|meticulous|细致的|
+|perceptual |感性的|
+|hypothesis |假设|
+|intriguing|耐人寻味的|
+|marvellous| 奇妙的 |
+|hostel|旅馆|
+|politics|n.|
+|organism|生物|
+|disuse|废弃|
+|canal|运河|
+|be bordered to the north by a canal|  border  |
+|rubber|橡胶|
+|skeleton of a ship|骨架 |
+|archaeology|考古的|
+|emerging discipline| 新兴学科 |
+|shed light on| 阐明 |
+|inclination |tendency|
+|mentality  | psychology|
+|fuzzy | vague |
+|deceptive(ly) |骗人的|
+|pleasurable |愉快的|
+|It is also intriguing that the brain appears to process movement when we see a handwritten letter, as if we are replaying the writer’s moment of creation. This has led some to wonder whether Pollock’s works feel so dynamic because the brain reconstructs the energetic actions the artist used as he painted.| |
+|longevity |长寿|
+|It’s still early days for the field of neurasthenics - and these studies are probably only a taste of what is to come.| no evidence| 
+|underestimate |低估|
+| It would, however, be foolish to reduce art appreciation to a set of scientific laws.|  |
+|Abstract art offers both a challenge and the freedom to play with different interpretations. | |
+|In some ways, it’s not so different to science, where we are constantly looking for systems and decoding meaning so that we can view and appreciate the world in a new way.| |
+|insight into|洞察 |
+|undisputed|无可争议的|
+|fragile |脆弱的|
+|scarce |稀缺|
+|back up|备份|
+|wholly|entirely|
+|They think its population grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity | |
+|decimate|抽取|
+|Whichever is the case, there are surely some valuable lessons which the world at large can learn from the story of Rapa Nui. | |
+|ingenious, clever| 巧妙的 |
+|twelve|12|
+|steward|管家|
+|Rather than a case of abject failure, Rapu Nui is an unlikely story of success| |
+|abruptly |突然的|
+|downward| 向下| 
+|upward|向上|
+|thereafter| 此后|
+|The amount of CO2 emitted from cars in 1999 was three times more than that in 2000. | | 
+|six out of ten people work in the service sector | 3/5|
+|interestingly, ... | |
+|revenue, income, earnings | 收入|
+|expenditure  |支出|
+|turnover| 周转|
+|a quarter of |1/4 |
+|pastime |消遣|
+|stereotypical| 刻板印象|
+|avenue |大街| 
+|whatever, ... | |
+|for this reason | |
+|be that as it may | 是因为它可能|
+|for the time being| 暂且|
+|in the meantime, ...| | 
+|obesity | 肥胖|
+|get run over by a car| 被车碾过| 
+|contradict | 顶撞|
+|contradictory |矛盾的|
+|coerce| 胁迫| 
+|claim (opposite) - support| |
+|with concern for | |
+|from my point of view | | 
+|cream|奶油|
+|affirm |confirm |
+|attest|证明|
+|query|询问|
+|hence, ...| |
+|moderate|缓和|
+|uneasy|anxious|
+|phase out |淘汰|
+|plunge| 暴跌|
+|a dip |下沉|
+|reach a plateau|达到高原 |
+|plummet| 直线下降|
+|surpass|超过|
+|range - fluctuate | |
+|sightly ≠ steadily | |
+|Lantern Festival| 元宵节|
+|rise - rose - risen | |
+|a significant rise by 20%|to | 
+|halve |减半|
+|as it perhaps to be expected, ... | |
+|most notably, ...| |
+|quadruple| 四倍|
+|triple| 三倍 |
+|diversification of language into dialects|accent |
+|dull |无聊的|
+|nationalistic| 民族主义|
+|point out | |
+|would / could / past tense| |
+|persuasive | 有说服力的 |
+|penalize| 惩罚|
+|many more - much more | |
+|the more/most rapid/striking | |
+|little - few | |
+|amount | uncountable |
+|on the grounds that| 理由是|
+|motor vehicles|机动车|
+|in favour of |赞成|
+|oppose| 反对|
+|i am convinced that  | |
+|in turn, conversely | 反过来|
+|hatch into fry |孵化成 |
+|anew|adv. 重新|
+|habitat |栖息地|
+|conjunction|连词 |
+|enrich my perspective| |
+|frequently, repeatedly, oftentimes |often|
+|browse, visit|check, scan |
+|from time to time | |
+|relive|重温|
+|inquire | 询问|
+|work-related matters| |
+|instant messages|即时信息|
+|practical | 实用的|
+| electronic mail, e-message |mail |
+|sort of|kind of|
+|make use of |use|
+|smart phone, cell phone, digital phone |mobile phone|
+|belongings |item|
+|discover|catch sight of |
+|lost and found office | |
+|disregard, neglect| ignore|
+|for further help   | 更多帮忙 |
+|announce, report, broadcast, publicize|post |
+|social network, social platform, social media website | social media|
+|social media| lose|
+|fulfill  |实现|
+|dare  |敢于|
+|prepare myself for the worst| |
+|without a single doubt in mind |without doubt|
+|out of reach| |
+|pity |遗憾 |
+|make...come true | make it happen, fulfill, accomplish, carry out     |
+|evolve|发展|
+|come up with | | 
+|communication platforms | |
+|preferable |更好的 |
+|trendsetting, in the mainstream |in fashion |
+|behind the times, unstylish |out fashion |
+|Basically, ... | |
+|terminology |术语|
+|ridiculous|荒谬的 |
+|sweet tooth | |
+|it, this tune, music, instrumental sound | song|
+|inspirational |鼓舞人心的|
