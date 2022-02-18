@@ -20,7 +20,7 @@ category: IELTSPosts
 
 ### english & american
 
-| E| A|
+| English| American|
 |:-----:|:-----:|
 | maths | math |
 |subject |major |
