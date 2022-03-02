@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thank you for registering!"
-date:   2021-03-01 22:27:23 +0800
+date:   2022-03-01 22:27:23 +0800
 category: Vision2022Posts
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "关于课程大纲、签到与评分细则"
-date:   2021-03-01 22:27:23 +0800
+date:   2022-03-01 22:27:23 +0800
 category: Vision2022Posts
 ---
 
