@@ -809,6 +809,7 @@ category: IELTSPosts
 |monetary|货币|
 |livestock|牲畜|
 |implication, significance, meaning|含义；意义|
+|allergy | 过敏；异常反应|
 
 
 ### Simple Adj&Conj
@@ -1170,6 +1171,10 @@ category: IELTSPosts
 |definitive, conclusive|确定的|
 |educative, instructive, instructional, informative, illuminating |教育性的|
 |dedicated, special |专用的|
+|temporary | 暂时的|
+|allergic   | 过敏的 |
+|vibrant|full of energy and enthusiasm|
+|contemporary|当代的|
 
 
 ### Excellent Phrase
@@ -1534,6 +1539,8 @@ category: IELTSPosts
 |burial urn| 骨灰盒 |
 |more than 300 | not majority| 
 |is dedicated to|致力于|
+|be allergic to| 对...过敏 |
+|youth club| |
 
 
 ### 2022-02-15
