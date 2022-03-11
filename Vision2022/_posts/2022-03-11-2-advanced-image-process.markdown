@@ -64,7 +64,7 @@ $$
 
 | Original|No-interpolation |Interpolation |
 |:--:|:--:|:--:|
-| <img src="./images/cv_small.png" width="500" />| <img src="./images/cv_1.png" width="500" /> | <img src="./images/cv_2.png" width="500" />|
+| <img src="{{ site.url }}/images/Vision2022/cv_small.png" width="500" /> | <img src="{{ site.url }}/images/Vision2022/cv_1.png" width="500" /> | <img src="{{ site.url }}/images/Vision2022/cv_2.png" width="500" /> |
 
 
 ### Affine (parallel) transformation
@@ -96,7 +96,7 @@ $$
 
 |Affine |Normal |
 |:--:|:--:|
-| <img src="./images/affine_tran.png" width="700" />| <img src="./images/normal_tran.png" width="700" /> | 
+| <img src="{{ site.url }}/images/Vision2022/affine_tran.png" width="700" /> | <img src="{{ site.url }}/images/Vision2022/normal_tran.png" width="700" /> |
 
 
 ```python

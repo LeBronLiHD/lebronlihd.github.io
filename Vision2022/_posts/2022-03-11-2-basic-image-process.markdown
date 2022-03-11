@@ -1296,7 +1296,7 @@ torch.save(model.state_dict(), "./result/class_2/dae_mnist.pth")
 
 |Original input image | Input image with noise	|Restored image via VAE |
 |:--:|:--:|:--:|
-| <img src="./images/input.jpg" width="500" />| <img src="./images/input_noise.jpg" width="500" /> | <img src="./images/denoising.jpg" width="500" />|
+| <img src="{{ site.url }}/images/Vision2022/input.jpg" width="500" />| <img src="{{ site.url }}/images/Vision2022/input_noise.jpg" width="500" /> | <img src="{{ site.url }}/images/Vision2022/denoising.jpg" width="500" />|
 
 
 ### Convolution operation
