@@ -5,6 +5,8 @@ date:   2022-03-10 22:27:23 +0800
 category: Vision2022Posts
 ---
 
+![rog]({{ site.url }}/images/ROG.webp)
+
 ## 课程大纲
 
 - 图像基本知识：像素、色彩、图像格式
@@ -22,7 +24,7 @@ category: Vision2022Posts
   - 网站浏览：[link](https://lebronlihd.github.io/Vision2022/)
   - 本地浏览：钉钉群下载`SFC_Soft_Machine_Vision/`，在`pdf_files/`有我们的目前已做好课件的`pdf`版本
   - 本地运行：钉钉群下载`SFC_Soft_Machine_Vision/`，主目录下有`0-introduction.ipynb`、`1-opencv-image-basics.ipynb`等`ipynb`格式的文件，这些就是课件
-- 很抱歉我们目前制作好了前半部分的`jupyter`课件，后续会将后半部分上传至钉钉群，需要注意的是：***每次我们在群里上传新的`jupyter`课件，由于程序运行的路径问题，下载后请放在和之前所有课件同一个目录下***
+- 很抱歉我们目前只作好了前半部分的`jupyter`课件，后续会将后半部分上传至钉钉群，需要注意的是：**每次我们在群里上传新的`jupyter`课件，由于程序运行的路径问题，下载后请放在和之前所有课件同一个目录下，即`SFC_Soft_Machine_Vision/`主目录下**
 - 同时我们也会上传对应课件的`pdf`文件，并同步更新课程网站[（link）](https://lebronlihd.github.io/Vision2022/)，敬请关注
 
 ## 课表
