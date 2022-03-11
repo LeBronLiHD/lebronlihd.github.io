@@ -34,7 +34,7 @@ category: Vision2022Posts
 
 ## Configuration
 
-- Python [link](https://www.python.org/)
+- Python3.9.9 [link](https://www.python.org/)
 - If you have installed Python 3.7 and above, you can choose not to reinstall
 - If Python has not been installed or the version is lower than 3.7, please reinstall it
 
@@ -48,8 +48,8 @@ category: Vision2022Posts
 ![py_3]({{ site.url }}/images/Vision2022/py_install_4.png)
 
 ```python
-PS F:\> F:\Python310\python.exe
-Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
+PS C:\Users\87236> F:\Python399\python.exe
+Python 3.9.9 (tags/v3.9.9:ccb0e6a, Nov 15 2021, 18:08:50) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>> exit()
 ```
@@ -66,11 +66,11 @@ Type "help", "copyright", "credits" or "license" for more information.
 - Required packages
     - `python.exe -m pip install -r requirements.txt`
 - VS Code [link](https://code.visualstudio.com/)
-    - Config python3.10.2 in your vscode
+    - Config python3.9.9 in your vscode
 
 ## Test configuration
 
-- `python.exe .\test_opencv.py`
+- `python.exe .\0-introduction\test_configuration.py`
 - `../images/cat.jpg`
 - Press `Esc` or `q` on the keyboard to close the window
 
