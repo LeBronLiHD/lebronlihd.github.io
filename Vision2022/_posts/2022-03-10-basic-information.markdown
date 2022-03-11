@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "关于课程大纲、课表、文件管理与评分细则"
+title:  "关于课程大纲、课表、课件与评分细则"
 date:   2022-03-10 22:27:23 +0800
 category: Vision2022Posts
 ---
@@ -15,10 +15,15 @@ category: Vision2022Posts
 - 神经网络基础：循环神经网络、`NLP`自然语言处理、云服务器资源
 - 大作业与答疑：象棋棋盘识别系统
 
-## 文件管理
+## 课件
 
-- 我们的课程所有的`jupyter`课件与代码都开源在[`github`](https://github.com/LeBronLiHD/SFC_Soft_Machine_Vision)上，同学们也可以直接从上面下载文件
-- 当然我们也会及时将所需文件传在钉钉群中，需要注意的是，***每次我们在群里上传的新课件，下载后请放在和之前所有课件同一个目录下***
+- 关于课程具体内容，有三个渠道可以获取
+  - `GitHub`：[link](https://github.com/LeBronLiHD/SFC_Soft_Machine_Vision)
+  - 网站浏览：[link](https://lebronlihd.github.io/Vision2022/)
+  - 本地浏览：钉钉群下载`SFC_Soft_Machine_Vision/`，在`pdf_files/`有我们的目前已做好课件的`pdf`版本
+  - 本地运行：钉钉群下载`SFC_Soft_Machine_Vision/`，主目录下有`0-introduction.ipynb`、`1-opencv-image-basics.ipynb`等`ipynb`格式的文件，这些就是课件
+- 很抱歉我们目前制作好了前半部分的`jupyter`课件，后续会将后半部分上传至钉钉群，需要注意的是：***每次我们在群里上传新的`jupyter`课件，由于程序运行的路径问题，下载后请放在和之前所有课件同一个目录下***
+- 同时我们也会上传对应课件的`pdf`文件，并同步更新课程网站[（link）](https://lebronlihd.github.io/Vision2022/)，敬请关注
 
 ## 课表
 
