@@ -44,6 +44,11 @@ category: Vision2022Posts
 - 2022年4月17日、2022年4月24日：期中考试放假
 - 2022年5月1日：国际劳动节放假，移至2022年4月30日
 - 若前八节课进展顺利，第九节课不上课
+- 紫金港月牙楼301：
+
+<center>
+<img src="{{ site.url }}/images/yue-ya-lou.jpeg" width="500"/>
+</center>
 
 ## 评分细则
 
