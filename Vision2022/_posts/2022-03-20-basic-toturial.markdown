@@ -7,6 +7,9 @@ category: Vision2022Posts
 
 
 
+![perspective_transformation]({{ site.url }}/images/jupyter-notebook.webp)
+
+
 ## `Jupyter Notebook` Tutorial
 
 - English version: [LINK](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
