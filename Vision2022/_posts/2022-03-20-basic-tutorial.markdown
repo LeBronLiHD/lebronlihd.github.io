@@ -12,7 +12,7 @@ category: Vision2022Posts
 
 ## **Jupyter Notebook** Tutorial
 
-- English version: [LINK](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+- English version (recommended): [LINK](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - Chinese version: [LINK](https://zhuanlan.zhihu.com/p/75402607)
 - Required data (`.csv` file): [LINK](https://s3.amazonaws.com/dq-blog-files/fortune500.csv)
 
