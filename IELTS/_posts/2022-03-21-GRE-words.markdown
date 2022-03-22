@@ -15,20 +15,114 @@ category: IELTSPosts
 |English | Chinese|
 |:----:|:----:|
 | symbiosis|共生，互惠 |
+| canon | 标准，准则；正典，真作 |
+|economy |节约 |
+|hierarchy |等级制度 |
+|photosynthesis |光合作用 |
+| narrative|记叙文，故事 |
+|ozone |臭氧 |
+|refrigerant |制冷剂 |
+|renaissance |复兴 |
+|consensus |一致意见 |
+| glucose|葡萄糖 |
+| kinship|亲属关系 |
+|paradigm |典范，范例 |
+|integrity |完整；正直 |
+|periphery |外围，边缘 |
+| stereotype| 思维定势；刻板地对待|
+|*adrenaline* |肾上腺素 |
+|archaeology |考古学 |
+|asteroid |小行星 |
+|bronze |青铜 |
+|fungus |真菌 |
+|larva |幼虫 |
+|*repertoire* |全部剧目集合；全部才能 |
+|saint |圣徒，圣人 |
+|norm |规范，标准，常规 |
+|protein|蛋白质 |
+| notion| 概念，观念|
+|vent |开口（大洋底部涌出热水并溶解矿物质的开口） |
+|dioxide |二氧化物 |
+| genre| 类型，体裁，风格|
+|underlie | 构成...的基础，成为...的起因|
+|quantum | 量子|
+|remnant|残余，剩余部分 | 
+|amendment |修正，修改，修正案 |
+| nitrogen| 氮气|
+|paradox|矛盾 |
+|zooplankton |浮游动物 |
+|orbit |轨道 |
+|habitat |栖息地 |
+|fashion |方式；制作 |
+| compound| 混合物，化合物；混合；加剧，恶化|
+| handedness|用手习惯；旋向性 |
 
 
 ### Verb
 
 |English | Chinese|
 |:----:|:----:|
-| | |
+| resemble|相似，类似 |
+|violate |违背，违反 |
+|convey |表达、传递；运送 |
+|render |使成为，致使；表达，表现；翻译 |
+|*precipitate* |促使，导致；仓促的，匆忙的 |
+|spin |旋转 |
+|*alienate* |使疏远 |
+|cluster |聚集；簇，团，群 |
+|**conceal** |隐藏，掩盖 |
+| *abound*| 充满，大量存在|
+|contain | 抑制，控制|
+|affect | 假装；倾向，喜欢；影响|
+|graze | 吃草|
+|undermine |破坏，削弱 |
+| exploit|开发，利用；剥削；英勇行为 |
+|promise | 承诺；成功的迹象，光明的前景|
+|confine |限制 |
+|mar| 损坏，破坏|
+|mount |上涨，增加；准备，安排，发动 |
+|resolve | 解决；坚决，决心|
+|transcend |超越 |
+|incorporate |合并，吸收，包含|
+|probe |调查，探究 |
 
 
 ### Adjective & Adverb
 
 |English | Chinese|
 |:----:|:----:|
-| | |
+|molecular |分子的 |
+| considerable| 重大的，相当多的|
+|pollinate |授粉 |
+|justify |证明...正当、合理 |
+|*indigenous* |当地的，本土的 |
+|discrete |分离的，不相关的 |
+| ethnic|种族的，人种的 |
+|redundant |多余的，过剩的 |
+|terrestrial |地球的，陆地的 |
+|analogous |类似的 |
+| immune| 免疫的；免除的|
+|wary |小心的，机警的 |
+|coherent |连贯一致的，条理清楚的 |
+|intact |完整无缺的 |
+|permanent |永久的，永恒的 |
+|politic |精明的，有策略的 |
+|contemporary |当代的，现代的；同时代的 |
+|observant |善于观察的，敏锐的；严格遵守规则的 |
+|aesthetic |美学的，审美的，美观的 |
+|composed |镇定的，沉着的 |
+|obscure |晦涩难懂的；鲜为人知的，不出名的；使晦涩难懂 |
+|involved |复杂难懂的；参与的，涉及的 |
+|profound |深刻的；深奥难懂的； |
+|rhetoric |浮夸之词，虚华词藻；修辞学，修辞技巧 |
+|metabolic |新陈代谢的 |
+| spiral|螺旋的，旋转的 |
+|genetic |遗传的，起源的 |
+|interstellar |星际的 |
+|juvenile |青少年的；幼稚的 |
+|simultaneous |同时发生的 |
+| prominent |显著的；杰出的，著名的 |
+| plausible| 看起来合理的，可信的；似是而非的|
 
 
 ### Phrase
