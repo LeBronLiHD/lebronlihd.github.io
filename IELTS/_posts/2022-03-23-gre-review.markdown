@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GRE Words"
+title:  "GRE Review"
 date:   2022-03-23 20:42:01 +0800
 category: IELTSPosts
 ---
