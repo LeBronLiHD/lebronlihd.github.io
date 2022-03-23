@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GRE Words"
-date:   2022-03-22 20:42:01 +0800
+date:   2022-03-23 20:42:01 +0800
 category: IELTSPosts
 ---
 
