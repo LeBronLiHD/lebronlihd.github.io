@@ -36,7 +36,7 @@ category: IELTSPosts
 |bronze |青铜 |
 |fungus |真菌 |
 |larva |幼虫 |
-|*repertoire* |全部剧目集合；全部才能 |
+|**repertoire**|全部剧目集合；全部才能 |
 |saint |圣徒，圣人 |
 |norm |规范，标准，常规 |
 |protein|蛋白质 |
@@ -56,6 +56,42 @@ category: IELTSPosts
 |fashion |方式；制作 |
 | compound| 混合物，化合物；混合；加剧，恶化|
 | handedness|用手习惯；旋向性 |
+| epistemology |认知论|
+| aluminum|铝 |
+|isotope |同位素 |
+|nuance | 细微差别|
+| oyster| 牡蛎|
+| irony |讽刺，反话 |
+|predecessor | 前任，前辈|
+| peptide |肽 |
+|  spite| 恶意，怨恨 |
+|stratosphere |同温层，平流层 |
+|precursor |先驱，前兆 |
+|list |倾斜 |
+|parameter | 参数；界限|
+| velocity|速度，速率 | 
+|*antithesis* |对立（面） |
+|memoir |回忆录 |
+|meteorite |陨石 |
+| valve| 阀门|
+| watershed| 分水岭；转折点，重大事件|
+|gravity |严肃，庄重；地心引力 |
+| ornament | 装饰品 |
+|proton |质子 |
+|taboo |禁忌 |
+| triumph| （非凡的）成功或成就；胜利|
+|wasp | 黄蜂|
+|echo |回声；重复，模仿 |
+| feminism| 女权主义|
+| gland| 腺体|
+|nebula |星云 |
+|neuron |神经细胞 |
+|aristocracy |贵族 |
+| cathedral| 大教堂|
+| chorus|合唱队，合唱 |
+| conifer| 针叶树|
+| crater|陨石坑；火山口 |
+|forage |草料；觅食；搜寻 |
 
 
 ### Verb
@@ -68,7 +104,7 @@ category: IELTSPosts
 |render |使成为，致使；表达，表现；翻译 |
 |*precipitate* |促使，导致；仓促的，匆忙的 |
 |spin |旋转 |
-|*alienate* |使疏远 |
+|**alienate** |使疏远 |
 |cluster |聚集；簇，团，群 |
 |**conceal** |隐藏，掩盖 |
 | *abound*| 充满，大量存在|
@@ -85,6 +121,52 @@ category: IELTSPosts
 |transcend |超越 |
 |incorporate |合并，吸收，包含|
 |probe |调查，探究 |
+| *depict* | 描绘|
+|deplete |大量减少，耗尽 |
+| converge| 汇集，聚集|
+|  convert| 转变，改变；皈依，归附（宗教、信念、政党） |
+|temper |缓和，调整，锻炼；脾气 |
+|buttress |支持，加强 |
+|wilt | 枯萎；发蔫；变弱，衰落| 
+|induce |引起；劝说，诱导 |
+|assemble |聚集，组装 |
+|deduce|  推断|
+|repudiate |否定，驳斥 |
+| subvert| 颠覆，破坏|
+|belie |证明...错误；掩饰；与...不符，与...不一致 |
+| esteem |尊重，敬重 |
+|*oscillate* |（信念，态度等）摇摆，变化 |
+|stem |阻止，抑制；来源于，由于；主茎 |
+| warble | 用颤音歌唱 |
+|dwarf |矮化，使相形见绌；矮小的 |
+|segregate |隔离，分离 |
+| brood|沉思；孵蛋；同窝幼鸟 |
+|confound |使困惑；证明...有误 |
+|exacerbate |恶化，加剧 |
+|rear |抚养；后面的，后部的 |
+|reconcile |协调，调和 |
+|**veil** |掩盖，掩饰；面纱，掩饰 |
+|contradict |反驳，否定，与...矛盾 |
+|foster |培养，抚育；促进 |
+| refute| 驳斥，否定|
+|curtail |缩减，限制 |
+| eject|喷出；驱逐 |
+|eschew |避开，回避 |
+| exert|运用，施加 |
+|*postulate* |假定，假设 |
+|improvise |即兴而作，即兴表演 |
+| *mitigate*|减轻，缓和 |
+|precede |（时间上）先于，发生在...之前；（地位，重要性等）高于... |
+| veto|否定，否决；否决权，否决 |
+| confront|面对，对抗 |
+| culminate|达到顶点 |
+|*distort* |扭曲，曲解 |
+| elicit|引出 |
+|manifest |显示；明显的 |
+|secrete |分泌 |
+| shed|脱落，使掉下；投射，发光；小棚屋，小屋 |
+|arrest |逮捕；阻碍，阻止；吸引 |
+|compress |压缩，缩短 |
 
 
 ### Adjective & Adverb
@@ -104,7 +186,7 @@ category: IELTSPosts
 | immune| 免疫的；免除的|
 |wary |小心的，机警的 |
 |coherent |连贯一致的，条理清楚的 |
-|intact |完整无缺的 |
+|*intact* |完整无缺的 |
 |permanent |永久的，永恒的 |
 |politic |精明的，有策略的 |
 |contemporary |当代的，现代的；同时代的 |
@@ -123,6 +205,62 @@ category: IELTSPosts
 |simultaneous |同时发生的 |
 | prominent |显著的；杰出的，著名的 |
 | plausible| 看起来合理的，可信的；似是而非的|
+|crystalline |晶体的 |
+| genuine |真正的，真诚的 |
+| measured|谨慎小心的 |
+|skeptical |怀疑的 |
+|conspicuous |显眼的，明显的 |
+|pragmatic |务实的 |
+|agrarian |土地的，农业的 |
+|dextral |右手的，右旋的 |
+|meet | 合适的，适当的| 
+| spontaneous| 自发的|
+| susceptible|易受影响的 |
+|thermal |热的，热量的 |
+| anomalous|异常的 |
+| heterogeneous |各种各样的，不同的 |
+| indifferent |冷漠的|
+|minute | 极小的，微小的|
+|dated |过时的，落伍的 |
+|*elusive* |回避的，逃避的；含糊其辞的，难以理解的 |
+|predominant |占主导地位的 |
+|acoustic |声学的，听觉的 |
+|inevitable |不可避免的，必然的 |
+|**salient** |显著的，突出的 |
+|superfluous | 多余的，过剩的|
+|volcanic |火山的 |
+|deceptive |欺骗性的 |
+|formidable |可怕的，令人生畏的 |
+| extraordinary|非凡的 |
+| hardy| 勇敢的，顽强的|
+| *perilous*| 危险的|
+| secular| 尘世的，世俗的|
+| pessimistic| 悲观的|
+|provocative |激起的，引起的 |
+| turbulent |混乱的，动荡的 |
+|*acute* |敏锐的，富有洞察力的；严重的，严峻的；强烈的，急性的 |
+|didactic | 说教的|
+| *illusory*| 虚幻的，虚假的|
+| judicial|司法的，审判的 |
+|seismic |地震的 |
+|sensational |引起轰动的 |
+| *suppliant*|恳求的，哀求的 |
+|*austere* |朴素的；清苦的，苦行的；严肃的，严厉的 |
+|eclectic |兼收并蓄的；多元化的 |
+| exacting|费劲的，艰巨的 |
+| homogeneous|同质的，同类的 |
+| immense| 巨大的|
+|intrinsic |固有的，本质的 | 
+|meager |缺乏的，不足的 |
+| mundane| 尘世的，世俗的；平凡的，普通的|
+| preservative|有保存力的，防护的；防腐的，保护剂 |
+|prevalent |普遍的，流行的 |
+| pristine|原始的，崭新纯净的 |
+|utilitarian | 实用主义的|
+|aberrant |异常的 |
+|ambivalent |矛盾的，犹豫不决的 |
+| capricious| 善变的；反复无常的|
+| cerebral|大脑的；理智的，智力的 |
 
 
 ### Phrase
@@ -137,3 +275,4 @@ category: IELTSPosts
 |English | Chinese|
 |:----:|:----:|
 | | |
+
