@@ -92,6 +92,45 @@ category: IELTSPosts
 | conifer| 针叶树|
 | crater|陨石坑；火山口 |
 |forage |草料；觅食；搜寻 |
+|genius |天赋，天才  |
+| globule| 小球体|
+| mite| 螨虫；极少量|
+|realm |领域，范围 |
+|aspen |白杨 |
+| bauxite| 铝土矿|
+| commonplace| 普通，常见之物，陈词滥调；平常无奇的|
+| corona| 日冕，光环|
+| momentum|动力，势头 |
+|metaphor |暗喻，隐喻；象征 |
+| odds| 几率，可能性；不一致，矛盾 |
+| plague| 瘟疫，灾祸；使困扰，折磨|
+|trait |特征，特性 |
+|alumina |氧化铝，矾土 |
+| biodiversity|生物多样性 |
+| gravitation| 重力，万有引力|
+|proposition |观点，主张 |
+|ramification |后果，影响 |
+| statute|法令，法规 |
+|advent |到来，出现 |
+| amnesia|健忘症 |
+|cynic |愤世嫉俗的人（尤指认为人们都是自私的人） |
+| disdain|鄙视，蔑视 |
+| fissure| 缝隙|
+| frenzy|疯狂 |
+| grip| 紧握，控制；理解；吸引|
+| harbour|港口，庇护所；怀有 |
+| lobe|（身体器官的）叶 |
+| partisan| 党徒（盲目偏袒某人或者某事物的人）；党派的，有偏见的|
+|plentitude |充足，丰富 |
+| *sanction*|批准；制裁 |
+| *ward*| 保卫|
+| aria| 咏叹调|
+|bog |沼泽；陷入（沼泽或困难） |
+| catastrophe |灾难  |
+| monarchy|君主制，君主政体 |
+| naivete |天真，质朴，幼稚 |
+| nostalgia| 怀旧，怀念；思乡|
+| practitioner  |实践者，从事者  |
 
 
 ### Verb
@@ -167,6 +206,61 @@ category: IELTSPosts
 | shed|脱落，使掉下；投射，发光；小棚屋，小屋 |
 |arrest |逮捕；阻碍，阻止；吸引 |
 |compress |压缩，缩短 |
+| comprise| 由...组成，包含|
+|embellish |美化，装饰 |
+| emulate| 模仿；努力赶超|
+| forge|锻造；伪造 |
+| repress| 压制，抑制|
+| startle| 惊吓，使吓一跳|
+| stun|使震惊，使目瞪口呆 |
+|augment |增加，加强 |
+|manipulate |控制，操纵 | 
+| prompt| 促使，推动；提示；迅捷的|
+| debunk|拆穿，揭露为假 |
+| defer|服从，顺从；推迟，延期 |
+|deprive |剥夺，使丧失 |
+| *discharge*|释放，排出；履行（职责）；解雇 |
+| *impinge*| 冲击，影响；侵犯|
+| refine| 改善；精炼|
+|thwart |阻挠，妨碍 | 
+| attune|使协调 |
+| betray|背叛；流露，展现 |
+| *counter*|反驳 |
+| deter|阻止，威慑 |
+|embody |体现，使具体化；包括 |
+|overshadow |比...重要， 使...相形见绌|
+| *posit*| 假设，断定| 
+|tangle |纠缠，缠绕 |
+|venerate |尊重，敬仰 |
+| weather| 经受，风化|
+|censure |谴责；严厉的批评，谴责 |
+| discard|丢弃，抛弃 |
+| disparage| 贬低，轻视|
+|neutralize |使无效 | 
+| secure|（努力）获得，争取到 |
+| snap|猛咬 |
+| *stripe*|除去，剥去；连环画 |
+| circumvent| 避开；规避|
+| condemn| 谴责|
+| condone| 容忍，纵容|
+| *conform*|服从，与...一致 |
+| construe| 理解|
+| decry| 公开谴责，反对|
+| ***dictate***| 命令，发号施令；决定，支配|
+| engender|导致，引发 |
+| enlighten|启发，开导 |
+|eradicate |根除，消灭 |
+| forestall| 预先阻止，抢先行动|
+| gratify|使满足，使高兴 |
+| hinder| 阻碍，妨碍|
+| overthrow| 推翻，颠覆|
+| prolong| 延长|
+| qualify| 限定；使合格，使具有资格|
+| *relinquish*|放弃 |
+| split|分离，分开；裂缝 |
+|supersede|取代，替代 |
+| vanish|消失，消亡 |
+| ameliorate|改善 |
 
 
 ### Adjective & Adverb
@@ -261,6 +355,61 @@ category: IELTSPosts
 |ambivalent |矛盾的，犹豫不决的 |
 | capricious| 善变的；反复无常的|
 | cerebral|大脑的；理智的，智力的 |
+| conceivable| 可以想象的，想得到的|
+|concrete| 具体的，确实的|
+| derivative|陈腐的，非原创的 |
+| *dual*|双重的 |
+| indispensable |不可或缺的 |
+|**opaque** |不透光的；难以理解的 |
+|prestigious |有威望的，受尊敬的 |
+| sporadic| 偶尔的，间断发生的|
+| albeit|尽管 |
+| cellular| 细胞的|
+| **ephemeral**|短暂的 |
+|innocuous |无害的；无冒犯之意的，无恶意的 |
+| mutable|可变的，易变的 |
+| **transient** |短暂的 | 
+| alien|外国的，陌生的；外星人 |
+| amorphous| 无固定形状的|
+|disparate |迥然不同的 |
+| inherent|内在的，固有的 |
+| moderate|适当的，中等的，温和不激进的；减轻，缓和 |
+| overt| 公开的，明显的|
+|pacific |（人）和平的，（天气）温和的 |
+| robust|强壮的，坚固的 |
+| unprecedented|空前的，史无前例的 |
+| benign| 和善的，温和的；良性的，无害的|
+| calculated|有意的，蓄谋的 |
+| *dubious*|可疑的，靠不住的 |
+|esoteric | 深奥难懂的|
+| imminent|即将来临的 |
+| instrumental |有益处的，有帮助的  |
+|invaluable |非常宝贵的 |
+| rudimentary|根本的，基础的；初步的，初始的 |
+| sheer|完全的，纯粹的 |
+| tedious| 冗长乏味的，枯燥的|
+| collected|镇定的，泰然自若的 |
+| dispassionate|冷静的，客观公正的 |
+| empirical|实证的，以实验（经验）为依据的 |
+| forthright|直率的，坦诚的 |
+| hydrologic| 水文的|
+| impenetrable|无法渗透的；难以理解的 |
+| implicit|含蓄的，暗示的 |
+| marginal|边缘的；微笑的，不重要的 |
+| masculine| 男性的，有男子气概的|
+|ubiquitous |无处不在的 |
+| ***astute***| 精明的|
+| compatible|兼容的，和谐共存的 |
+| contentious| 引起争议的；好争吵的|
+| *deferential*|恭敬的 |
+| disinterested|无私的，公正的；无兴趣的，不关心的，冷漠的 |
+|egalitarian |平等主义的，主张人人平等的；平等主义者 |
+| *endocrine*|内分泌的 |
+| frivolous|不重要的；轻佻的 |
+|incipient |刚开始的，初期的 |
+| *perennial*| 长期的，常年的|
+| salutary|有益的，有帮助的 |
+| scant|缺乏的，不足的 |
 
 
 ### Phrase
