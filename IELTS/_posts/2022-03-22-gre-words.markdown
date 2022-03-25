@@ -131,6 +131,52 @@ category: IELTSPosts
 | naivete |天真，质朴，幼稚 |
 | nostalgia| 怀旧，怀念；思乡|
 | practitioner  |实践者，从事者  |
+| awe| 敬畏；使敬畏|
+| *dearth*|缺乏，不足 |
+| helix| 螺旋形|
+|*hyperbole* |夸张，夸大 |
+| patron| 赞助人，资助人|
+| proximity|邻近，接近 |
+| tactic| 策略，战术|
+| virtuoso|大师，专家；技艺精湛的 |
+| acquaintance|了解，熟悉；认识的人，泛泛之交 |
+|agitprop |煽动宣传 |
+| algae|藻类 |
+| ammonia| 氨|
+| anthropology| 人类学|
+| axis|铀 |
+| cue|线索 |
+| dichotomy| 矛盾，截然对立|
+| digit|十进位数字；指头，手指或脚趾 |
+| ethos |气质，理念  |
+| fauna|（某地区或某时期的）动物群 |
+| ignorance|无知，愚昧 |
+| misnomer|误称 |
+| monoxide|一氧化物 |
+|propriety | 适当；得体|
+|provincialism | 狭隘，地方主义|
+| rage| 暴怒，狂怒；发怒；肆虐，盛行|
+| surrealism|超现实主义 |
+| apathy |冷漠 |
+| comet|彗星 |
+| **conjecture**|推测，猜测 |
+| *countenance*|面容；支持，赞同，容忍 |
+| foliage| 叶子|
+| influx| 涌入，涌进|
+|panacea |万能药 |
+| ridicule|嘲笑，嘲弄 |
+| severity|严重，严峻 | 
+| cane| 茎，杖|
+| cataract|白内障 |
+| commune|群体，公社 |
+| cortex|皮层 |
+| dossier|档案，卷宗 |
+| hallmark|特点，标志 |
+| haven|避风港，安全场所 |
+|  indulgence|放纵|
+| maize|玉米 |
+| nomenclature|命名法 |
+| odyssey|漫长与曲折的行程 |
 
 
 ### Verb
@@ -261,6 +307,46 @@ category: IELTSPosts
 |supersede|取代，替代 |
 | vanish|消失，消亡 |
 | ameliorate|改善 |
+| circumscribe|限制 |
+| confer|授予；商议 |
+| constrain| 强迫，强制；限制，限定|
+| degrade|降低，恶化，贬低；分解，降解 |
+|devastate |毁灭 | 
+| discern|察觉，辨识，辨别 |
+| disguise|掩饰，伪装 |
+| encase|包裹住 |
+| *invoke*|援引，引用；祈求，请求 |
+| brook| 容忍|
+| check|阻止 |
+| compass|包围；指南针，罗盘 |
+| defy|违抗，藐视，不服从 |
+| disperse|分散，驱散 |
+|foreshadow | 预示|
+| impede|妨碍，阻止 |
+| *nourish*|助长，促进 |
+| *obviate*|消除，使不必要 |
+| preoccupy| 使全神贯注，使入神|
+| proliferate| 激增|
+| abolish|废除 |
+| balloon|激增；气球 |
+| delight|使高兴，喜欢；高兴，愉快 |
+| dispel|驱散，消除 |
+|envision |想象，展望 |
+| erode|侵蚀，腐蚀；削弱，损害 |
+|exalt |高度赞扬，褒扬；提拔，提升 |
+| *stifle*| 使窒息；遏制，压制|
+| *topple*|推翻，颠覆 |
+| *backfire*|事与愿违 |
+| concede|（勉强）承认；让步，给予 |
+| conjure|想象，想起；用魔术或者魔法变出 |
+| *demarcate*|划定界限 |
+| dilute|稀释，淡化；削弱，降低效果 |
+| disseminate|传播，散布 |
+| flout|藐视，轻视 |
+| gaze|凝视；凝视，注视 |
+| hasten|加快，加速 |
+| interpose|介入，干涉 |
+| outstrip| 超越，胜过|
 
 
 ### Adjective & Adverb
@@ -410,6 +496,69 @@ category: IELTSPosts
 | *perennial*| 长期的，常年的|
 | salutary|有益的，有帮助的 |
 | scant|缺乏的，不足的 |
+|arcane |难懂的，神秘的 |
+| *archaic*|古代的，过时的 |
+| astounding|令人震惊的 |
+| baroque|豪华的，复杂的 |
+| cogent|有说服力的 |
+| divergent|不同的，有分歧的 |
+| *divine*|神圣的 |
+| equivocal|模棱两可的 |
+| **fortuitous**|偶然的，幸运的 |
+| hospitable| （气候等）适宜的；热情好客的，友好的|
+| lucid|清晰易懂的 |
+| pecuniary| 金钱的|
+| requisite|必要的；必要条件，必须品 |
+| sedentary|久坐的；定居的，不迁徙的 |
+| sinistral | 左旋的 |
+|stringent |严格的，严厉的 |
+| apt|倾向于做某事的；适当的；智慧的 |
+| astronomical|天文的，极大的 |
+|  banal| 陈腐的 |
+| *deleterious*| 有害的|
+| ecclesiastical|教会的，基督教的 |
+| ellipsoidal|椭圆体的，椭圆形的 |
+|enigmatic | 神秘的，难懂的|  
+| futile|无用的，徒劳的 |
+| hostile|有敌意的 |
+| meticulous|一丝不苟的，小心谨慎的  |
+| precarious|危险的，不稳定的 |
+| sanguine|乐观的 |
+| steep| 陡峭的，急剧的，大幅度的；浸泡，浸透|
+| unwitting|无意的，不知道的 |
+| verbose|冗长的，啰嗦的 |
+| ample|足够的，充足的 |
+| *artful*|有手腕的，狡猾巧妙的 |
+| bourgeois|中产阶级的 |
+| *defiant*|违抗的，藐视的 |
+| dogmatic |教条的，武断固执的  |
+| exuberant| 热情洋溢的，精力充沛的；过度的；繁茂的，茂盛的|
+| fanciful|花哨的，样式奇特的；异想天开的 |
+| fierce|激烈的 |
+| gigantic| 巨大的|
+| inert| 惰性的，无活力的|
+| insatiable|不满足的 |
+| intelligible|可理解的 |
+|mediocre |普通的，平庸的 |
+| preliminary|初步的，预备的 |
+| **reticent**|沉默寡言的 |
+| sympathetic|同情的 |
+| tenacious|坚韧不拔的，执着的 |
+| tenuous|脆弱的，牵强的，站不住脚的 |
+| torpid| 麻木迟钝的，缺乏活力的|
+| treacherous|背信弃义的 |
+| airborne|空中传播的  |
+| anachronistic|过时的；时代错误的 |
+| arid|干旱的；无趣的，枯燥无味的 |
+| celestial|天上的 |
+| *decisive*|坚决的，果断的；决定性的，关键的 |
+| disingenuous|不坦诚的，虚伪的 |
+|  ethical|道德的，伦理的 |
+| gregarious|群居的，爱社交的 |
+| imperative|至关重要的，迫切的；强制的，命令性的；紧要事务 |
+| incontrovertible|不可辩驳的；不容置疑的 |
+| mercurial|善变的，反复无常的 |
+| oceanic|海洋的 |
 
 
 ### Phrase
