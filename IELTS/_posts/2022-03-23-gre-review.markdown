@@ -17,6 +17,10 @@ category: IELTSPosts
 |gland |腺体 | 
 | precursor|先驱，前兆 |
 | epistemology| 认知论|
+| grip|紧握，控制；理解；吸引 |
+| disdain|鄙视，蔑视 |
+| frenzy |疯狂 |
+| advent|到来，出现 |
 
 
 ### Verb
@@ -39,6 +43,17 @@ category: IELTSPosts
 |  reconcile|协调，调和 |
 | eschew|避开，回避 |
 | induce|引起；劝说，诱导 |
+| counter| 反驳|
+|betray |背叛；流露，展现 |
+| venerate|尊重，敬仰 |
+| weather|经受；风化 |
+| censure|谴责；严厉的批评 |
+| overshadow|比...更重要；使...相形见绌 |
+| tangle| 纠缠，缠绕|
+| deprive| 剥夺，使丧失|
+| startle|惊吓，使吓一跳 |
+| impinge|冲击，影响；侵犯 |
+|  discharge| 释放，排出；履行（职责）；解雇 |
 
 
 ### Adjective & Adverb
@@ -54,6 +69,15 @@ category: IELTSPosts
 | intrinsic| 固有的，本质的|
 |anomalous |异常的 |
 |  pragmatic|务实的 |
+| imminent|即将来临的 |
+| benign|和善的，温和的；良性的，无害的 |
+| sheer|纯粹的，完全的 |
+| forthright|直率的，坦诚的 |
+| tedious|冗长无味的，枯燥的 |
+| sporadic|偶尔的，间断发生的 |
+| ephemeral|短暂的 |
+| opaque|不透光的；难以理解的 |
+| overt| 公开的，明显的|
 
 
 ### Phrase
