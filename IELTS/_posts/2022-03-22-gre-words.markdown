@@ -177,6 +177,45 @@ category: IELTSPosts
 | maize|玉米 |
 | nomenclature|命名法 |
 | odyssey|漫长与曲折的行程 |
+| revelation|揭露（的信息或真相等） |
+| sperm|精子 |
+|zealot |狂热分子，极端分子 |
+|affinity |喜爱，吸引力；类似，相似；密切关系 |
+| bout| 一阵，一场|
+| camouflage|伪装，保护色；伪装，掩饰 |
+| dilemma|（进退两难的）窘境，困境 |
+| endogamy| 同族结婚，族内通婚|
+| epidemic|流行病；流行的 |
+| epoch|纪元，时代，时期 |
+| exogamy|外族通婚 |
+| fetus|胎儿 |
+| grandeur|宏伟，壮观 |
+| heir|继承人 |
+| hibernation|冬眠 |
+| hormone|激素 |
+| juxtaposition|并列，并置 |
+| parliament|议会，国会 |
+| patent|专利权；明显的 |
+| pottery|陶器 |
+| regime|政体，政权；时间，范围 |
+| *relic*|遗迹 |
+| satire|讽刺 |
+| starch|淀粉 |
+| tenet|原则 |
+|*thrust* | 主旨；猛推，挤，插入；推动力 |
+| cult|狂热，崇拜 |
+| hive|蜂房，蜂箱 |
+| manuscript|手稿，手抄本 |
+| paucity|不足，缺乏 |
+| photon|光子 |
+| *premise*|前提 |
+| rationale|基本原理，基础 |
+| rift|裂口；分歧，严重不和|
+| suffrage|选举权 |
+| syndrome|综合症状 |
+| *adulation*|过度吹捧，谄媚 |
+| antipathy|反感，憎恶 |
+| ceramic| 陶瓷|
 
 
 ### Verb
@@ -347,6 +386,45 @@ category: IELTSPosts
 | hasten|加快，加速 |
 | interpose|介入，干涉 |
 | outstrip| 超越，胜过|
+| stymie|阻碍，妨碍 |
+|succumb |屈服；死亡 |
+| vindicate| 证实；证明...无罪|
+| aggrandize|增加，扩张；夸耀 |
+| compile|汇编，编制 |
+| condense|浓缩，精简 |
+| entail|使...成为必需，势必造成 |
+|excrete |排泄，排出 | 
+| galvanize|激励，刺激 |
+| hamper|阻止，妨碍 |
+| hoard|贮藏 |
+| *instigate*|煽动，促成 |
+| intertwine|缠绕 |
+| overwhelm|淹没；彻底击败 |
+| replenish| 补充，重新装满|
+| saturate|浸透，充满；使饱和 |
+| *spur*| 激励，促进|
+| *stagger*|使震惊；蹒跚 |
+| *abate*|减弱，减轻，减少；废除 |
+| *assail*|强烈抨击，指责 |
+| bump|碰撞；隆起，肿块 |
+| *collide*|碰撞；（意见，目标等）冲突 |
+| decompose|分解，腐烂 |
+| deflect|转移，改变方向 |
+| *delineate*|描述，阐明 |
+| *dissipate*|驱散，消失；浪费，挥霍 |
+| *edify*|启发，熏陶 |
+| flounder|挣扎；比目鱼 |
+|forgo |放弃，抛弃| 
+| genus|属 |
+| obfuscate|使困惑，使晦涩难懂 |
+| propagate|宣传，传播 |
+| scorn|轻视，蔑视 |
+| vex|烦扰，使恼火 |
+| vitiate|损害，削弱 |
+| allude|间接提到，暗指 |
+| bloom|蓬勃发展，繁荣兴盛 |
+| cling|坚持 |
+| **consolidate**|合并，联合；加强，巩固 |
 
 
 ### Adjective & Adverb
@@ -559,6 +637,78 @@ category: IELTSPosts
 | incontrovertible|不可辩驳的；不容置疑的 |
 | mercurial|善变的，反复无常的 |
 | oceanic|海洋的 |
+|perfunctory |敷衍的，潦草的 | 
+| perpetual|永久的，持续的 |
+| *prescient*|预知的，预见的 |
+|pretentious |炫耀的，做作的 |
+| radiant|光芒四射的；神采奕奕的 |
+| recalcitrant|桀骜不驯的 |
+| resilient|有韧性的；恢复快的，适应力强的 |
+| specious|虚假的 |
+| tangent| 不相关的，离题的；相切的|
+| tendentious|有偏见的，有倾向性的 |
+| unfounded|无根据的 |
+| versatile|多用途的，通用的，多才多艺的 |
+| volatile|易变的，反复无常的 |
+| catholic| 兼收并蓄的，广泛的，普遍的|
+| circumspect|谨慎小心的 |
+| decent|适当的，得体的 |
+| earthly|地球的，土地的；尘世的 |
+| emblematic|象征的，标志的 |
+| erroneous|错误的 |
+| erudite|博学的 |
+|  *expedient*|权宜的；权宜之计|
+| grandiose|宏伟的，壮丽的；浮夸的，华而不实的 |
+| haphazard|任意的，杂乱无章的 |
+| hydrothermal|水热的，热水作用的 |
+|*ingenious*|新颖独特的，聪慧的，巧妙的 |
+| inimical|有害的，敌意的 |
+| ludicrous|荒谬的，荒唐可笑的 |
+| morphological|形态的 |
+| obsequious|谄媚的 |
+| onerous|繁重的，艰巨的 |
+| optimal|最佳的 |
+| pertinent|相关的 |
+| posthumous|死后的 |
+| refractory|桀骜不驯的，不服管教的 |
+| *serene*|宁静的，平静的 |
+| spurious|虚假的，伪造的 | 
+| submissive|恭顺的，服从的 |
+| transitory|短暂的 |
+| upbeat|乐观的 |
+| vain|徒劳的；自负的 |
+| vascular|脉管的，血管的 |
+| vigilant|警惕的，警觉的 |
+| witty|诙谐的，机智的 |
+| **candid**|坦诚的，真挚的 |
+| chaotic|混乱的  |
+| clandestine|秘密的，私下的 |
+| compassionate|同情的 |
+| consummate|完美的，技术精湛的；完成 |
+| diffuse|冗长的，啰嗦的；分散的，弥散的 |
+| **eccentric**|古怪的 |
+| efficacious|有效的 |
+| feasible| 可行的|
+|fickle |善变的，反复无常的 |
+| igneous|火成的（尤指火山喷发的） |
+| immutable|永恒不变的 |
+| impartial|公正的 |
+| *insular*|岛屿的；思想狭隘的 |
+| intractable|倔强的，棘手的，难处理的 |
+| intransigent|固执的，不妥协的 |
+| lyric|抒情诗的 |
+| marvel|对...感到惊奇，惊叹；奇迹，不可思议的事情 |
+| prosaic|平淡的，乏味的 |
+|quiescent |静止的，不活动的 |
+| sequential|按顺序的 |
+| telling|显著的，强有力的 |
+| abstruse| 深奥的，费解的|
+| arduous|困难的，艰苦的 |
+| brute| 粗暴的，野蛮的|
+| cognizant|认知的 |
+| conscientious|一丝不苟的，勤恳认真的 |
+| cosmopolitan|国际性的，见多识广的 |
+| daunting|使人畏缩的，使人胆怯的 |
 
 
 ### Phrase
