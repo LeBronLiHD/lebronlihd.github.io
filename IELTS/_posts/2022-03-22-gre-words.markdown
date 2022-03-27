@@ -216,6 +216,40 @@ category: IELTSPosts
 | *adulation*|过度吹捧，谄媚 |
 | antipathy|反感，憎恶 |
 | ceramic| 陶瓷|
+| debris|碎片，残骸 |
+| diesel|柴油 |
+| dynamo|发电机 |
+|facet |方面 | 
+| flora|植物群落 |
+| gradient|斜坡，倾斜度；逐渐变化 |
+| heroine|女英雄，女主角 |
+| legacy|遗赠，遗产 |
+| leopard|豹 |
+| milieu|社会环境，社会背景 |
+| motif|主题，装饰图案 |
+| orb|球体 |
+| panic|惊慌失措 |
+| pathogen|病原体 |
+| petroleum|石油 |
+| primate|灵长类动物 |
+| prototype|原型，样品；典范 |
+| psyche|心灵 |
+| resort|度假胜地；诉诸，求助于 |
+| resurgence|复兴，复苏 |
+| sebum| 皮脂|
+| taxonomy|分类学 |
+| troupe|剧团 |
+|  upheaval| 动乱，剧变|
+| vagary|难以预测的变化 |
+| vestige|遗迹，残余 |
+| yarn|纱，线 |
+| anarchy|无政府状态，混乱 |
+| antimatter|反物质 |
+| approbation|赞美，认同 |
+| crate|包装箱 |
+| creed|信条，原则 |
+| debacle|溃败 |
+| episode|情节，插曲，情况 |
 
 
 ### Verb
@@ -425,6 +459,38 @@ category: IELTSPosts
 | bloom|蓬勃发展，繁荣兴盛 |
 | cling|坚持 |
 | **consolidate**|合并，联合；加强，巩固 |
+| degenerate|退化，衰落，堕落 |
+|denounce |谴责 |
+| depress|使降低，使减小；使沮丧 |
+| dispense|分发，分配；摒弃，省掉 |
+| elucidate|阐明 |
+| espouse|支持，拥护 |
+| *feign*|假装 |
+| halt|停止，终止 |
+|  incur|引起，招致 |
+| intervene|介入，调解 |
+| intimidate|恐吓 |
+| jeopardize|损害，危及 |
+| *jettison*|抛弃，丢弃 |
+| *mandate*|命令；授权 |
+| mediate| 调解，斡旋；影响...发生|
+| mimic|模仿，和...相似 |
+| misconstrue| 误解，曲解|
+| resent|怨恨，憎恶 |
+| retrieve|取回；恢复，挽回 |
+| revive|（使）复苏；（使）复兴 |
+| tilt|倾斜 |
+| tout|兜售；吹嘘，极力赞扬 |
+| *underscore*|强调 |
+| admonish| 警告，责备；忠告，劝告|
+| amass|积聚 |
+| connote|隐含，暗示，含言外之意 |
+| decipher|破译 |
+| denigrate|污蔑，诋毁 |
+| despair|绝望，丧失信心 |
+| dread|恐惧，忧虑不安；恐惧，令人惧怕的事物 |
+| enact|颁布，通过 |
+| enervate|使衰弱 |
 
 
 ### Adjective & Adverb
@@ -709,6 +775,49 @@ category: IELTSPosts
 | conscientious|一丝不苟的，勤恳认真的 |
 | cosmopolitan|国际性的，见多识广的 |
 | daunting|使人畏缩的，使人胆怯的 |
+| erratic|不稳定的，难以预测的；古怪的 |
+| *evanescent*|稍纵即逝的，短暂的 |
+| *exotic*|来自异国的；奇异的，不同的 |
+| extant|现存的 |
+| *fastidious*| 挑剔的，过分讲究的|
+| ingenuous|真诚的，坦率的 |
+| innate| 先天的，固有的|
+| inverse|颠倒的，相反的；相反事务，相反数（数学） |
+| isometric|等量的  |
+| lactic|乳的，乳汁的 |
+| lethal|致命的，危害极大的 |
+| *obsolete*|过时的，淘汰的 |
+| pedestrian|平庸的，乏味的 |
+| pious|虔诚的；自以为是的 |
+| profligate|肆意挥霍的 |
+| *prolific*|多产的，丰富的 |
+| prolix|啰嗦的，冗长的 |
+| pronounced|显著的 |
+| quixotic|空想的，不切实际的 |
+| *quotidian*|日常的，寻常的 |
+| rebellious|反叛的，叛逆的 |
+| residual|残留的，剩余的 |
+| reverent|恭敬的，虔诚的 |
+| saline|含盐的 |
+| semantic|语义的 |
+| theatrical|戏剧的；夸张的，做作的 |
+| unanimous|意见一致的，无异议的 |
+| akin|类似的 |
+| altruistic|无私的，利他的 |
+|anionic |阴离子的 | 
+| august| 威严的|
+| auspicious|有望成功的，吉利的 |
+| benevolent|仁慈的，慈善的 |
+| bizarre|奇怪的，古怪的 |
+| canny|精明的 |
+| conducive|有助于...的  |
+| cutaneous|皮肤的 |
+| demotic| 通俗的，大众的 |
+| detrimental| 有害的|
+| discriminatory|歧视的，不公平的 |
+| endemic|地方性的，（某地或某集体中）特有的  |
+| epic|史诗般的，宏大的 |
+| exhaustive|全面彻底的 |
 
 
 ### Phrase
