@@ -46,7 +46,7 @@ category: IELTSPosts
 | genre| 类型，体裁，风格|
 |underlie | 构成...的基础，成为...的起因|
 |quantum | 量子|
-|remnant|残余，剩余部分 | 
+|remnant|残余，剩余部分 |
 |amendment |修正，修改，修正案 |
 | nitrogen| 氮气|
 |paradox|矛盾 |
@@ -69,7 +69,7 @@ category: IELTSPosts
 |precursor |先驱，前兆 |
 |list |倾斜 |
 |parameter | 参数；界限|
-| velocity|速度，速率 | 
+| velocity|速度，速率 |
 |*antithesis* |对立（面） |
 |memoir |回忆录 |
 |meteorite |陨石 |
@@ -144,7 +144,7 @@ category: IELTSPosts
 | algae|藻类 |
 | ammonia| 氨|
 | anthropology| 人类学|
-| axis|铀 |
+| axis|轴 |
 | cue|线索 |
 | dichotomy| 矛盾，截然对立|
 | digit|十进位数字；指头，手指或脚趾 |
@@ -165,7 +165,7 @@ category: IELTSPosts
 | influx| 涌入，涌进|
 |panacea |万能药 |
 | ridicule|嘲笑，嘲弄 |
-| severity|严重，严峻 | 
+| severity|严重，严峻 |
 | cane| 茎，杖|
 | cataract|白内障 |
 | commune|群体，公社 |
@@ -219,7 +219,7 @@ category: IELTSPosts
 | debris|碎片，残骸 |
 | diesel|柴油 |
 | dynamo|发电机 |
-|facet |方面 | 
+|facet |方面 |
 | flora|植物群落 |
 | gradient|斜坡，倾斜度；逐渐变化 |
 | heroine|女英雄，女主角 |
