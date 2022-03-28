@@ -250,6 +250,44 @@ category: IELTSPosts
 | creed|信条，原则 |
 | debacle|溃败 |
 | episode|情节，插曲，情况 |
+| founder|创始人；失败 |
+| lapse|小错误，走神；行为失检；间隔时间，延时；终止 |
+|legume| 豆科植物 |
+| methanol|甲醇 |
+|  methodology|方法论|
+| plethora|过多，大量 |
+| recipient|接收者 |
+| schema|概要，梗概 |
+| supernova|超新星 |
+|  synopsis|梗概，纲要 |
+|  toxin|毒素|
+|  trailblazer|先驱 |
+| trepidation|惊恐，焦虑不安 |
+| utopia|乌托邦，理想社会 |
+| wrinkle|皱纹，褶皱 |
+|acumen |敏锐，精明 |
+| archipelago| 群岛，列岛|
+| *boon*|恩惠，福利 |
+| cathode| 阴极，负极|
+| constituent|选民；组成的 |
+| diabetes| 糖尿病|
+| gamete| 配子|
+| *harbinger*|先驱；预兆 |
+| humility|谦虚，谦逊 |
+| hydrogeology|水文地质学 | 
+| hypocrisy| 虚伪，伪善|
+|iconoclast |反传统者，特立独行的人 |
+|inhabitant |居民，栖息动物 |
+| jargon| 行话，术语| 
+|jurisdiction |司法权，管辖权 |
+| magpie|喜鹊|
+| marble|大理石 |
+| missionary|传教士 |
+| mob|暴民，暴徒；围攻 |
+| modicum| 少量，一点点|
+| mosaic|马赛克，镶嵌图案 |
+| penchant|爱好，嗜好 |
+| phantom| 幽灵，幻影|
 
 
 ### Verb
@@ -489,8 +527,41 @@ category: IELTSPosts
 | denigrate|污蔑，诋毁 |
 | despair|绝望，丧失信心 |
 | dread|恐惧，忧虑不安；恐惧，令人惧怕的事物 |
-| enact|颁布，通过 |
+| *enact*|颁布，通过 |
 | enervate|使衰弱 |
+| exhilarate|使高兴，使激动 |
+| forbear|忍住，克制 |
+|  immerse|沉浸|
+| insure|使习惯，使适应（令人不悦的事物） |
+| misrepresent|误述，歪曲，不准确地叙述 |
+| placate|安抚，平息 |
+|  *recapitulate*|概括，重述要点|
+|  *relegate*|使降级；授权，委托 |
+| rupture|（使）裂开；破裂 |
+|  shun|可以避开，回避|
+| spark|触发，引发 |
+| stagnate|停滞 |
+| subdue|征服，制服；抑制，减轻 |
+| undercut|削弱 |
+| *unleash*|释放 |
+|vacillate |摇摆，犹豫 |
+| *alleviate*|减轻，缓解 |
+| *allure*|诱惑，引诱；魅力，吸引力 |
+| baffle|使困惑 |
+| bereave|使...丧失，剥夺 |
+| coalesce|联合，合并 |
+| deride|嘲笑，污蔑 |
+|**detest** |憎恶，厌恶 |
+| extol|赞美，赞颂 |
+| gainsay| 否认|
+| hail|称赞 |
+| harness|利用|
+| hone| 磨砺，提升|
+| *impugn*|指责，质疑 |
+| mete|给予 |
+| ordain|授予神职，任命；命令 |
+| percolate|渗透 |
+| perpetrate|犯罪 |
 
 
 ### Adjective & Adverb
@@ -818,6 +889,74 @@ category: IELTSPosts
 | endemic|地方性的，（某地或某集体中）特有的  |
 | epic|史诗般的，宏大的 |
 | exhaustive|全面彻底的 |
+| hazardous|有危害的，有危险的 |
+| heroic|英勇的 |
+| hybrid|混合的，杂种的 |
+| implacable|无法平息的，不能安抚的 |
+| impromptu|即兴的，无事先准备的|
+| *insipid*|枯燥无味的 |
+|  laconic|言简意赅的，寡言的|
+|  lucrative|赚钱的，获利的 |
+| lunar|月亮的 |
+| malleable |（材料）易塑的，（人）易受影响的 |
+| minimal|最小的，极小的 |
+|  optic|眼的；视觉的|
+| orthodox|正统的，传统的  |
+| ostensible|表面的，声称的（实际并非如此的） |
+| planktonic|浮游的，浮游生物的 |
+|  preeminent|卓越的，杰出的|
+|  prodigious|巨大的，惊人的|
+|  prone|有...倾向的，易于...的|
+|  restive|烦躁不安的，难驾驭的 |
+| scrupulous|小心谨慎的，一丝不苟的 |
+|  seminal|创新的，影响深远的 |
+| *sterling*|出色的，优异的 |
+| tranquil|宁静的，平静的 |
+| trenchant|（批评或评论）犀利的，尖刻的 |
+| ultraviolet|紫外线的 |
+| vapid|空洞乏味的，枯燥的  |
+| wanting| 缺少的；未达到标准的，不合格的| 
+| wayward|任性的，难以捉摸的 |
+| wearisome|令人疲倦的，诗人厌倦的 |
+| whimsical|异想天开的 |
+| acerbic|尖刻的 |
+| affable|和蔼可亲的 |
+|*apocryphal* |可疑的，虚假的 |
+| ascetic|清苦的，苦行的 |
+| *assiduous*|刻苦的，坚持不懈的 |
+| averse|反对的，不愿意的 |
+| bitter|痛苦的；猛烈的|
+| brisk|活泼的，轻快的 |
+| cantankerous|脾气差的，难相处的 |
+|  *chilling*| 令人恐惧的 |
+| competent|有能力的，能胜任的  |
+| contingent|依情况而定的 |
+| cursory|仓促的，草率的 |
+| decorous| 端庄得体的，符合礼仪的|
+| ethereal|优雅的，飘逸的；超凡的，非世俗的 |
+|  extraneous|无关的；外来的| 
+|   **facetious**|爱开玩笑的 |
+|fallacious |谬误的 |
+| feckless|无能的，软弱的 |
+| garrulous|喋喋不休的 |
+| giddy|眩晕的；轻浮的 |
+| globular|球状的 |
+| haughty|傲慢的，自大的 |
+| histrionic| 做作的，夸张的|
+| inexplicable|无法解释的，令人费解的 | 
+| intrepid|勇敢的，无畏的 |
+|irrefutable |不可辩驳的，不容否认的 |
+| judicious|审慎而明智的，有判断力的 |
+|lunatic |精神错乱的，疯狂而愚蠢的 |
+| mesoscale| 中尺度的，中等规模的|
+| minuscule|非常小的  |
+| mute|缄默的；使缓和，使减弱|
+| nebulous|模糊的；星云的 |
+| nucleic|核的 |
+| oblivious| 未察觉的，未注意的|
+|obstinate |固执的；棘手的，难对付的|
+| *outmoded*|过时的 |
+| parochial|狭隘的  |
 
 
 ### Phrase
