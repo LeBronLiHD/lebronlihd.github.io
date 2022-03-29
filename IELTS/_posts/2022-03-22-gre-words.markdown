@@ -288,6 +288,55 @@ category: IELTSPosts
 | mosaic|马赛克，镶嵌图案 |
 | penchant|爱好，嗜好 |
 | phantom| 幽灵，幻影|
+| phylum| （动植物分类的）门| 
+|plight |困境 |
+|plutocracy |富豪统治 |
+| predilection|偏爱，爱好 |
+|probity |正直，诚实 |
+| pupa|蛹 |
+| reliability|可靠性 |
+|sole |鞋底，脚掌；仅有的，唯一的 |
+| soprano|最高音部，女高音 |
+| spoof|戏弄，嘲讽 |
+|  strand|一股线；搁浅 |
+|sycophant |阿谀奉承的人，马屁精 |
+| syntax|句式，语法 |
+| testimony|证词，证言 |
+| torpor| 懒散，迟钝|
+| trio| 三重奏，三件套|
+| *turmoil*|混乱，动荡 |
+| venom|怨恨，恶意；毒液 |
+| verisimilitude|逼真 |
+| weasel|黄鼠狼 |
+| *anthology*|选集 |
+| appendix|阑尾；附录 |
+|archive|档案馆；把...存档|
+| bay|海湾 |
+| bishop|主教 |
+| chronicle|编年史；（按时间顺序）记述 |
+| dilettante|肤浅涉猎者，半吊子 |
+| dipole| 偶极子|
+| epitome|典型，典范 |
+| euphemism|委婉的说法 |
+| exemplar|模范，榜样 |
+|gall| 厚颜无耻，粗鲁无礼；激怒，使恼怒|
+| hallucination|幻觉，幻想 |
+| heterocyst| 异形细胞|
+| hubris|傲慢，自大 |
+| import|重要性；进口；进口的产品 |
+| millimeter|毫米 |
+| neutron|中子 |
+| novice|新手，初学者 |
+| *panache*|派头，神气十足 |
+| *panoply*|大批，整套|
+| patriot| 爱国者|
+| placebo|安慰剂 |
+|*propensity* |倾向，习性 |
+| prowess|高超的技艺，深厚的造诣；英勇无畏 |
+|  pulley|滑轮|
+| rebound|弹回；反弹 |
+| reef|暗礁|
+| reptile|爬行动物 |
 
 
 ### Verb
@@ -562,6 +611,45 @@ category: IELTSPosts
 | ordain|授予神职，任命；命令 |
 | percolate|渗透 |
 | perpetrate|犯罪 |
+| ponder|仔细考虑，思索 |
+| preempt|预先占有；预先阻止，制止 |
+| profess|声称；信奉 |
+|  *reap*|收获，得到| 
+| respire|呼吸 |
+| squander|挥霍，浪费 |
+|  stir|激起，激发；搅动|
+| subsidize| 资助，支持|
+| *sway*| 影响，左右；摇摆|
+| traverse|穿过 |
+| welter|混乱，杂乱 |
+| accede|同意；就任 |
+| *arouse*|唤醒；引起，激起|
+| *balk*|畏缩，回避 |
+| blur| 使模糊，使不清晰|
+|  contemplate|沉思，深入考虑|
+| dampen|抑制，削弱；弄湿 |
+| dazzle|使目眩，使眼花 |
+| *decimate*|大量毁灭 |
+| deviate|偏离 |
+| divulge|泄露，透露 |
+| emancipate|解放，使不受（法律，政治或社会的）束缚 |
+| enamor| 使迷恋|
+| escalate|加剧，升级 |
+| falter| 衰退，衰落；犹豫，畏缩|
+| germinate|发芽，生长 |
+| *hearten*|使振作，鼓舞 |
+| implicate|牵涉，使卷入 |
+|  *invigorate*|鼓舞，使振奋|
+| *liken*|把...比作 |
+|lionize |崇拜，将...奉为名人 |
+| mollify|平息，安抚，缓解 |
+| *negate*|使无效，抵消；否定，否认 |
+| nullify|使无效，废除 |
+| persevere|坚持不懈 |
+| pulsate| 有节奏地运动，搏动|
+|  rail|猛烈抨击，责骂|
+| rebuke|指责，严厉批评 |
+| retard|妨碍，减缓 |
 
 
 ### Adjective & Adverb
@@ -957,6 +1045,68 @@ category: IELTSPosts
 |obstinate |固执的；棘手的，难对付的|
 | *outmoded*|过时的 |
 | parochial|狭隘的  |
+| polemical|争论的 |
+| *precipitous*|仓促的，急剧的；陡峭的 |
+| presumptuous|放肆的，冒昧的| 
+| prophetic|预示的，预言的 |
+|protoplanetary |原始行星的 |
+| raucous|刺耳的 |
+| resourceful|机智的，足智多谋的 |
+| restorative|恢复健康的，恢复活力的 | 
+| shrewd|精明的 |
+| solicitous|挂念的，担心的 |
+| sterile|贫瘠的，不育的；无菌的，消毒的 |
+| tantamount|等同的 | 
+| truculent| 残暴的，好争斗的|
+| unassailable|坚不可摧的，无懈可击的 |
+| unfathomable|难以理解的 |
+| *wretched*|不幸的，可怜的；痛苦的，哀伤的|
+| adamant|坚决的 |
+| adept|熟练的 |
+| anonymous|匿名的；不知名的，平淡无奇的 |
+| bucolic|乡村的 |
+|  captious|吹毛求疵的 |
+| civic|城市的，市民的 |
+| comical|滑稽的 |
+| congenial|友善的，宜人的，令人愉快的；意气相投的 |
+| copious|大量的，充足的 |
+| counterproductive|适得其反的，事与愿违的 |
+| *delinquent*|失职的，有违法倾向的，拖欠债务的；违法者 |
+| detached|客观公正的，不带感情的 |
+| dilatory|拖拉的，延误的 |
+| diplomatic|外交的；有手腕的，讲究策略的；圆滑的|
+| divisive|引起分歧的，造成不和的 |
+| evasive|回避的，逃避的；含糊其辞的 |
+| evenhanded|公平的 |
+| extravagant| 过分的，无节制的；挥霍的，浪费的|
+|  fleeting|短暂的  |
+| fractious|易怒的，难以驾驭的 |
+| germane|密切相关的 |
+| *hackneyed*|陈腐的 |
+|*hidebound* |迂腐守旧的 |
+| idle|（机器等）闲置的，（人）懒惰的，无所事事的 |
+| impending|即将发生的，迫近的 |
+|  imperious|专横的；紧迫的 |
+| inadvertent|非故意的，疏忽的，偶然的 |
+| incisive|深刻的，敏锐的 |
+| *indolent*|懒惰的 |
+| intimate|亲密的，密切的；暗示 |
+|invasive|入侵的，侵袭的|
+| jejune|枯燥乏味的；幼稚的 |
+| mercenary|唯利是图的 |
+| momentous|重大的 |
+| monotonous|单调的，乏味的 |
+| obedient|顺从的 |
+| oblique|倾斜的；间接的|
+| paramount|最重要的，首要的 |
+|  *provisional*| 临时的，暂时性的|
+| *pugnacious*| 好争吵的，好斗的|
+|  *punctilious*|一丝不苟的|
+| *rampant*|猖獗的，泛滥的 |
+| relentless|坚持不懈的，不间断的 |
+| reminiscent|怀旧的，使人想起的 |
+| restless|焦躁不安的 |
+| retinal|视网膜的 |
 
 
 ### Phrase
