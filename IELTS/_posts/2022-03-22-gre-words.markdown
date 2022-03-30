@@ -337,6 +337,33 @@ category: IELTSPosts
 | rebound|弹回；反弹 |
 | reef|暗礁|
 | reptile|爬行动物 |
+| **revolt**|反叛 |
+|roost |栖息处，鸟巢；栖息 |
+| serum|血清 |
+| **siege**|围困，围攻 |
+| symmetry|对称，相称 |
+|  *tribute*|颂词，献礼|
+| tyrant|暴君 |
+| *veracity*|真实，诚实 |
+| acrimony|（言辞、态度等）尖刻 |
+| attorney|律师，代理人 |
+| camaraderie|情谊，友情 |
+| cascade|大簇的下垂物，大量；倾泻 |
+| *clutch*|一窝蛋；离合器 |
+| *conundrum*|复杂难解的问题 |
+| *disciple*|信徒 |
+| *doom* |厄运，劫数|
+| elk|麋鹿 |
+| equilibrium|平衡，均衡 |
+| *flair*|天赋，才华 |
+| foreground|突出的地位；强调，突出 |
+| hatred|憎恨，敌意 |
+| herd|牲畜群；兽群 |
+| indignation|愤慨 |
+|  lust|欲望；贪求，极想得到 |
+| mane|鬃毛 |
+| maverick|特立独行的人，标新立异的人；特立独行的 |
+| melancholy|忧郁 |
 
 
 ### Verb
@@ -650,6 +677,35 @@ category: IELTSPosts
 |  rail|猛烈抨击，责骂|
 | rebuke|指责，严厉批评 |
 | retard|妨碍，减缓 |
+| revert|恢复，重回（以前的状态或时期等） |
+| *revile*|憎恨，谩骂 |
+| *squelch*|压制，平息 |
+| **tarnish**|玷污 |
+| teem| 充满 |
+| antagonize|引起敌意 |
+| assuage| 减轻，缓解 |
+| *avert*|转移；防止，避免 |
+| bolster|支持，鼓舞 |
+| bypass|避开，回避 |
+| *captivate*|使入迷，迷住 |
+|  cleave|坚持，粘住；劈开|
+| compliment|恭维，称赞 |
+|*concur* |同意，意见一致；同时发生 | 
+| conflate|合并，混合 |
+| cow|威胁，恐吓 |
+|decode|破译，解读 |
+| devolve|下放（权利，责任），移交；衰退，退化 |
+| dwindle|逐渐减小，逐渐变小 |
+|  eclipse|使黯然失色，使相形见绌，胜过；消逝，黯然失色|
+| embed|嵌入 |
+| **exonerate**|免除责任，宣布无罪 |
+| *imbue*|使渗透，使充满 |
+|  irritate|激怒，使恼怒|
+| languish|衰弱，衰败，受折磨；被忽视 |
+| largesse| 慷慨捐赠，捐款|
+| loquacious|话多的，喋喋不休的 |
+| modulate|调整，改变 |
+| mold| 塑造|
 
 
 ### Adjective & Adverb
@@ -1107,6 +1163,50 @@ category: IELTSPosts
 | reminiscent|怀旧的，使人想起的 |
 | restless|焦躁不安的 |
 | retinal|视网膜的 |
+| sagacious|精明的，睿智的 |
+| scathing|尖锐的，刻薄的 |
+| soluble|可溶解的；可解决的，可解释的 |
+| succinct| 简明扼要的 |
+| tacit|缄默的，默认的，心照不宣的 |
+| taxing| 费力的|
+| tortuous|弯曲的，曲折的，冗长复杂的 |
+| trite|陈腐的，老套的 |
+| *uncanny*|奇异的，费解的 |
+| *unpretentious*|朴素低调的，不做作的 |
+| afloat|漂浮的 |
+| angular|角的，有角的 |
+| barring|除...之外 |
+| *belligerent*|好斗的，寻衅的 |
+| *blithe*|无忧无虑的；漫不经心的 |
+| categorical|绝对的，明确的 |
+| *cavalier*|轻慢的，漫不经心的 |
+|  circumstantial|依情况而定的；间接的，佐证的；详细的|
+| colloquial|口语的 |
+| commensurate|相称的 |
+| complacent|自满的 |
+| condescending|盛气凌人的 |
+| *contiguous*|毗邻的，相连的 |
+| cryptic|神秘的，隐晦难懂的 |
+| discursive|离题的，不着边际的 |
+| downright| 完全的，彻底的，十足的|
+|  *drab*|单调乏味的|
+| *egregious*|极坏的 |
+| eminent|杰出的，非凡的 |
+| facile|肤浅的，轻率的；容易达成的 |
+|flaccid |软弱的，松弛的，无力的|
+| fragmentary|碎片的，不完整的 |
+| halcyon|平静的，幸福的 |
+| *imperturbable*| 沉着的，冷静的|
+| *imprudent*|轻率的，不谨慎的 |
+| inimitable|无法效仿的 |
+| *inquisitive*|好奇的，爱打听的 |
+|inveterate|根深蒂固的，积习难改的 |
+| keen|敏锐的；热切的，渴望的 |
+| *lackluster*|乏善可陈的，平凡的 |
+| *malign*| 恶意的，有害的；诽谤|
+| managerial|管理的 |
+| momentary|短暂的，片刻的 |
+|  monolithic|单一的，整体的；巨大的|
 
 
 ### Phrase
