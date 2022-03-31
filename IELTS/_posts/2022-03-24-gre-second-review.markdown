@@ -31,6 +31,15 @@ category: IELTSPosts
 | ethos|气质，理念 |
 | countenance|面容；支持，赞同，容忍 |
 | conjecture|推测，猜测 |
+| bout|一阵，一场 |
+| satire|讽刺 |
+| paucity|不足，缺乏 |
+| antipathy| 反感，憎恶|
+| premise| 前提|
+|  adulation|过度吹捧，谄媚 |
+| resort|度假胜地；诉诸，求助于 |
+| yarn|纱，线 |
+| creed|信条，原则 |
 
 
 ### Verb
@@ -71,6 +80,28 @@ category: IELTSPosts
 | stifle|使窒息；遏制，压制 |
 | flout|藐视，轻视 |
 | dispel|驱散，消除 |
+| camouflage|伪装，保护色；伪装，掩饰 |
+| succumb|屈服，死亡 |
+| galvanize|激励，刺激 |
+| entail|使...成为必需，势必造成 | 
+| hoard|贮藏 |
+|instigate|煽动，促成 |
+| abate|减弱，减轻，减少；废除 |
+|deflect |转移，改变方向 |
+|assail | 强烈抨击，指责|
+| edify| 启发，熏陶|
+| collide|碰撞；（意见，目标等）冲突 |
+| vitiate|损害，削弱 |
+| vex| 烦扰，使恼火|
+| intervene| 介入，调解|
+| denounce|谴责 |
+| incur| 引起，招致|
+| mediate|调解，斡旋；影响...的发生 |
+| intimidate|恐吓 |
+| dread|恐惧，忧虑不安；令人害怕的事物 |
+| admonish| 警告，责备；忠告，劝告|
+| tout| 兜售；吹嘘，极力赞扬|
+| tilt| 倾斜|
 
 
 ### Adjective & Adverb
@@ -99,6 +130,43 @@ category: IELTSPosts
 | imperative|至关重要的，迫切的；强制的，命令行的；紧要事务 |
 |  incontrovertible|不可辩驳的，不容置疑的|
 | treacherous|背信弃义的 |
+|  tangent|不相关的，离题的；相切的|
+| resilient|有韧性的；恢复快的，适应力强的 |
+| recalcitrant|桀骜不驯的 |
+| radiant|光芒四射的；神采奕奕的 |
+| pretentious|炫耀的，做作的 |
+| expedient|权宜的；权宜之计 |
+| haphazard|任意的，杂乱无章的 |
+| erudite|博学的 |
+| intractable|倔强的，棘手的，难处理的 |
+| insular|岛屿的；思想狭隘的 |
+| compassionate| 同情的|
+| efficacious|有效的 |
+| prosaic|平淡的，乏味的 |
+| candid|坦诚的，真挚的 |
+|  onerous|繁重的，艰巨的 |
+| clandestine| 秘密的，私下的|
+| pertinent|相关的 |
+| upbeat| 乐观的|
+| telling|显著的，强有力的 |
+| fickle|善变的，反复无常的 |
+| diffuse| 冗长的，啰嗦的；分散的，弥漫的；散布，扩散|
+| dissipate|驱散，消失；浪费，挥霍 |
+| ludicrous|荒谬的，荒唐可笑的 |
+| pedestrian|平庸的，乏味的 |
+| lethal|致命的，危害极大的 |
+| fastidious|挑剔的，过分讲究的 |
+| obsolete|过时的，淘汰的 |
+|prolific| 多产的，丰富的|
+|erratic |不稳定的，难以预测的；古怪的  |
+| pronounced|显著的 |
+| prolix|啰嗦的，冗长的 |
+| evanescent|稍纵即逝的，短暂的 |
+| august|威严的 |
+| demotic|通俗的，大众的 |
+| theatrical| 戏剧的；夸张的，做作的|
+| akin|类似的 |
+| reverent|恭敬的，虔诚的 |
 
 
 ### Phrase
