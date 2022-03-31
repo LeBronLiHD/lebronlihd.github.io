@@ -364,6 +364,40 @@ category: IELTSPosts
 | mane|鬃毛 |
 | maverick|特立独行的人，标新立异的人；特立独行的 |
 | melancholy|忧郁 |
+| mucus|粘液，鼻涕 |
+| *polymer*|聚合体 |
+|  proclivity| （尤指不好的）倾向，偏好 |
+| progenitor|先驱 |
+|  provenance|起源，来源|
+| rancor|怨恨，敌意 |
+| remorse|懊悔，悔恨 |
+|reverie |幻想 |
+| rivalry|竞争，敌对 |
+| *scenario*| 设想，可能发生的情况|
+| smallpox|天花 |
+| sodium|钠 |
+| surfeit|过量，过多 |
+| trope|比喻 |
+| twig|小树枝 |
+| amalgam| 混合物|
+| bombast|夸夸其谈 |
+|cliche| 陈词滥调 |
+| combustion|燃烧；骚动 |
+| conjunction|结合，联合 |
+| cowardice|怯懦 |
+| **deluge**|大量，泛滥；使充斥 |
+| demise|死亡，终止 |
+| demography|人口统计，人口统计学 |
+|descent | 下降，衰落；血统，出身|
+| discretion|自由决定权；谨慎，考虑周全 |
+|*facade* |正面；假象 |
+| feat|功绩 |
+| fern|蕨类植物 |
+| fission|裂变 |
+| *glutton*|贪吃的人 |
+| gravel| 碎石，砂石|
+|guile |奸诈，欺诈 |
+| hamster|仓鼠 |
 
 
 ### Verb
@@ -706,6 +740,53 @@ category: IELTSPosts
 | loquacious|话多的，喋喋不休的 |
 | modulate|调整，改变 |
 | mold| 塑造|
+| obtrude|闯入，打扰 |
+| onset|开始；进攻 |
+| overlap|重叠 |
+| override|比...重要，凌驾于；推翻，否决 |
+|  perish|毁灭，死亡|
+| poise|使平衡；准备好做某事 |
+| purport|声称；主旨 |
+|  prune|削减，删除|
+| *reciprocate*|回报；交互，互给 |
+| recollect|想起，回忆起 |
+| rehabilitate|康复，恢复 |
+| *relish*|享受，喜爱 |
+| renounce|宣布放弃，抛弃 |
+| respite|暂停，暂缓 |
+| retract|撤回，收回 |
+| sabotage|蓄意破坏 |
+| spurt| 激增，冲刺|
+|thrill|使激动，使兴奋；刺激，激动 |
+| vanquish|击败，战胜 |
+| wane|减少，降低，衰弱；月亏|
+| abjure|正式放弃，拒绝；避免 |
+| berate|怒斥，严责 |
+| bestow|使用；授予，给予 |
+|bewilder|使...迷惑 |
+| boycott| 抵制|
+| burgeon|迅速增强 |
+|  *cater*|满足，提供 |
+| commence|开始 |
+| consign|交付，委托 |
+|  covet|贪求，渴望|
+| debase|贬低 |
+| demote|使降级 |
+|**demur**|反对，提出异议 |
+| deprecate|批评，反对；贬低，轻视 |
+| disabuse|使醒悟，使纠正错误 |
+| disavow|否认，拒绝 |
+| dissemble|掩盖，伪装 |
+| ebb|衰退，减弱；退潮 |
+| enchant|使着迷 |
+| **encroach**|侵占，蚕食 |
+| **entice**|引诱，诱惑 |
+| entrance|使着迷；进入许可；入口 |
+| *entrench*|巩固，确立 |
+| *extrapolate*|推断 |
+| fade|褪色，变暗；衰退 |
+| *flag*|减弱 |
+| **forsake**|抛弃 |
 
 
 ### Adjective & Adverb
@@ -1207,6 +1288,75 @@ category: IELTSPosts
 | managerial|管理的 |
 | momentary|短暂的，片刻的 |
 |  monolithic|单一的，整体的；巨大的|
+| obtuse|迟钝的，愚蠢的 |
+| ostentatious|炫耀的 |
+| outright|完全的，彻底的 |
+|overarching |主导的，涵盖所有的|
+| pedantic|迂腐的，学究气的 |
+| pejorative| 贬低的；轻蔑的|
+| *pellucid* |清晰的，透明的；容易理解的|
+|  petulant|暴躁的，任性的 |
+| *phlegmatic*| 沉着的，冷静的，不动感情的；|
+| *pithy*|简明扼要的 |
+| placid|宁静的 |
+| ponderous|沉重的，笨拙的；乏味呆板的 |
+| porous|多孔的，可渗透的 |
+| primeval| 原始的，远古的|
+| proprietary|私有的，专有的 |
+|  rambling|冗长含糊的|
+| recondite|晦涩难懂的 |
+| replete|充满的 |
+| resurrect|恢复，使重现 |
+|  sacrosanct| 神圣的，不容侵犯的 |
+| *savvy*|有见识的，精明的；见识，悟性 |
+| sluggish|缓慢的，迟缓的 |
+| stern|严厉的，苛刻的 |
+| subservient| 恭顺的，卑躬屈膝的|
+| *synoptic*|概要的 |
+| tepid|温吞的，不热的；冷淡的，不热情的 |
+| titanic|巨大的 |
+| totalitarian|极权主义的 |
+| urbane|温文尔雅的，彬彬有礼的 |
+| **venal**|唯利是图的，贪污腐败的 |
+| *vitriolic*|尖刻的 |
+| voluble| 健谈的，滔滔不绝的|
+| voracious|贪婪的 |
+| wont| 习惯于的，惯常的|
+| abject|凄惨的，卑躬屈膝的 |
+|  *adroit*| 熟练的，精明的，灵巧的 |
+| affluent|丰富的，富裕的 |
+| anthropogenic| 人为的|
+| audacious|大胆的，放肆的 |
+|axiomatic |公理的，不证自明的 |
+| barren|贫瘠的；无效的，无结果的 |
+| brazen|厚颜无耻的，肆无忌惮的 |
+| *chivalrous*|彬彬有礼的 |
+| congruent|全等的；一致的，相称的 |
+| convivial|欢乐友好的 |
+| cordial|热诚友好的 |
+|  courteous|礼貌的，客气的 |
+| *credulous*|轻信的，易受骗的 |
+| cumbersome|笨重的 |
+| cunning|灵巧的，精明的；狡猾的 |
+| **decadent**| 堕落的，衰败的|
+| *derelict*|被遗弃的；玩忽职守的 |
+| diminutive|极小的，微小的 |
+| dire|可怕的；迫切的|
+| discreet|谨慎的，考虑周全的 |
+| draconian| 严厉的，残酷的|
+| dull| 枯燥无味的|
+| **elliptical**|隐晦的，晦涩难懂的；椭圆的 |
+| endogenous|内源的 |
+| evocative|唤起的，引发感情的 |
+| *exogenous*|外源的，外界产生的 |
+| extraterrestrial|地球外的 |
+| fertile|肥沃的，多产的 |
+| florid| 花哨的，过分装饰的|
+| *furtive*|鬼鬼祟祟的，偷偷摸摸的 |
+| *glamorous*|有魅力的，迷人的 |
+| gullible| 轻信的，容易上当的|
+| hasty|仓促的，匆忙草率的 |
+| *heretical*|异端的 |
 
 
 ### Phrase
