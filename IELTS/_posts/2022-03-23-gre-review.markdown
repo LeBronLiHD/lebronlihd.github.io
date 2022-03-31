@@ -32,6 +32,19 @@ category: IELTSPosts
 | diesel|柴油 |
 | resort|度假胜地；诉诸，求助于 |
 | debris|碎片，残骸 |
+| synopsis|梗概，纲要|
+| recipient|接收者 |
+| trailblazer|先驱 |
+| lapse|小错误，走神；行为失检；间隔时间，延时；终止 |
+| founder|创始人；失败 |
+| chronicle|编年史；（按时间顺序）记述 |
+| probity|正直，诚实 |
+| appendix|阑尾；附录 |
+|  plight|困境| 
+| venom|怨恨，恶意；毒液 |
+| plutocracy|富豪统治 |
+| weasel|黄鼠狼 |
+| turmoil|混乱，动荡 |
 
 
 ### Verb
@@ -95,6 +108,28 @@ category: IELTSPosts
 | feign|假装 |
 | resent|怨恨，憎恶 |
 | incur|引起，招致 |
+| perpetrate|犯罪 |
+| deride|嘲笑，侮辱 |
+| alleviate|减轻，缓解 |
+| bereave|使...丧失，剥夺 |
+| baffle|使困惑 |
+| undercut|削弱 |
+| shun|可以避开，回避 |
+| recapitulate|概括，重述要点 |
+| relegate|使降级；授权，委托 |
+| placate|安抚，平息 |
+|  subdue|征服，制服；抑制，减轻|
+| inure|使习惯，使适应（令人不悦的事物） |
+| pulsate|有节奏地运动，搏动 |
+| retard|妨碍，减轻 |
+| lionize|崇拜，将...奉为名人 |
+| divulge|泄露，透露 |
+| falter|衰退，衰落；犹豫，畏缩 |
+| squander|挥霍，浪费 |
+| subsidize|资助，支持 |
+| balk|畏缩，回避 |
+| preempt|预先占有；预先阻止，制止 |
+| stir| 激起，激发；搅动|
 
 
 ### Adjective & Adverb
@@ -155,6 +190,37 @@ category: IELTSPosts
 |  epic|史诗般的，宏大的| 
 | quotidian|日常的，寻常的 |
 | profligate|肆意挥霍的 |
+| minuscule|非常小的 |
+| feckless|无能的，软弱的 |
+| histrionic|做作的，夸张的 |
+| brisk|活泼的，轻快的 |
+| affable|和蔼可亲的 |
+| cantankerous|脾气差的，难相处的 |
+| apocryphal|可疑的，虚假的 |
+| optic|眼的，视觉的 |
+| ostensible|表面的，声称的（实际并非如此的） |
+| incisive|深刻的，敏锐的 |
+| fleeting|短暂的 |
+| imperious|专横的；紧迫的 |
+| fractious|易怒的，难以驾驭的 |
+|  inadvertent|非故意的，疏忽的，偶然的|
+|  congenial|友善的，宜人的，令人愉快的；意气相投的|
+| counterproductive|适得其反的，事与愿违的 |
+|  detached|客观公正的，不带感情的|
+|  shrewd|精明的|
+| prophetic|预示的，预言的 |
+| sterile|贫瘠的，不育的；无菌的，消毒的 |
+|solicitous|挂念的，担心的 |
+|  precipitous|仓促的，急剧的；陡峭的|
+| anonymous|匿名的；不知名的，平淡无奇的 |
+| raucous|刺耳的 |
+| adamant|坚决的 |
+|truculent |残暴的，好斗争的 |
+|  resourceful|机智的，足智多谋的 |
+| tantamount|等同的 |
+| adept|熟练的 |
+|  wretched|不幸的，可怜的；痛苦的，哀伤的 |
+| unassailable| 坚不可摧的，无懈可击的|
 
 
 ### Phrase
