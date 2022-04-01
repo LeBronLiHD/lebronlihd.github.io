@@ -398,6 +398,52 @@ category: IELTSPosts
 | gravel| 碎石，砂石|
 |guile |奸诈，欺诈 |
 | hamster|仓鼠 |
+| *incense*|香味；激怒 |
+| *lethargy*|无精打采，倦怠，慵懒 |
+| **levity**| 轻浮，轻率|
+|magnetosphere | 磁层|
+| malfeasance|渎职，违法行为 |
+| mockery| 嘲笑，讥讽|
+| monogamy|一夫一妻制 |
+| muddle|混乱；搞乱，弄糊涂 |
+| munition| 军火，军需品 |
+| neutrino|中微子 |
+|*ordeal*|磨难，使折磨 |
+|*oversight*| 疏忽，失察；监督，照顾|
+|panegyric | 颂词  |
+| *parody*| 拙劣的模仿|
+| philanthropy|慈善，捐助 |
+| plasma| 等离子体|
+| plateau| 高原|
+| playwright|剧作家 |
+| potency|能力，权力，影响力 |
+| prerogative|特权 |
+| protagonist| 主要人物，主角|
+| quip| 妙语，讽刺|
+| *reparation*|赔偿，弥补 |
+| schism|分离，分裂 |
+| *sham*| 虚假，虚伪；虚假的|
+| silicon|硅 |
+| spate| 大批，许多|
+| spotlight|（公众关注的）焦点 |
+| stemma|家谱，文本谱系 |
+| stitch| 针脚，缝线；缝合|
+| *surmise*|猜测，推测 |
+| tenure|任职，任期 |
+| trajectory|轨迹 |
+| tumult| 混乱，骚乱|
+|tyro| 初学者，菜鸟|
+| umbrage|生气，愤懑 |
+| *valediction*| 告别，告别辞|
+| *vault*| 拱棚，储藏室；跳跃|
+|abeyance |搁置，中止 |
+| accession|增加；就任，登基；正式加入 |
+|aerobes | 需气生物，需氧菌|
+|**agility** | 敏捷|
+|*alacrity* |乐意；敏捷 |
+|*anathema* |令人厌恶的人或者事物 |
+|anecdote |趣闻轶事 |
+|antidote |解毒药；对抗手段 |
 
 
 ### Verb
@@ -787,6 +833,37 @@ category: IELTSPosts
 | fade|褪色，变暗；衰退 |
 | *flag*|减弱 |
 | **forsake**|抛弃 |
+| impoverish|使贫穷；使枯竭 |
+| infuriate|使大怒 |
+| intermingle|混合 |
+|*lament* |感到悲痛，哀叹 |
+| leak| 泄露|
+| ***loom***| 隐约可见；迫近，逼近 |
+| *obsess*|（使）着迷 |
+| peddle|兜售，贩卖；宣传，散布 |
+| perturb|扰乱，使不安 |
+| polarize| 使两极分化，使对立|
+| *predispose*|使有倾向 |
+| *promulgate*| 传播，散布|
+| proscribe| 禁止|
+| protract|延长，拖长 |
+| *ratify* |批准，认可 |
+| recant|公开放弃 |
+| *recast*|重塑，重新呈现 |
+| rehash|（无实质修改地）重提，重复 |
+| reiterate| 重述 |
+| satiate|使满足，使厌腻 |
+| subside| 下沉，减弱，平息|
+|*tantalize*  |挑逗，逗引 |
+| tease| 嘲弄，取笑|
+| usher|引领 |
+| *abhor*|憎恨 |
+| absolve| 免除责任，赦免罪行|
+| adduce|印证，举出 | 
+| adore|崇敬，爱慕 |
+| aggravate|使恶化，加剧；激怒，使恼火 |
+|annihilate | 使消失，使毁灭|
+|agitate |煽动，鼓动；使焦虑 |
 
 
 ### Adjective & Adverb
@@ -1357,6 +1434,79 @@ category: IELTSPosts
 | gullible| 轻信的，容易上当的|
 | hasty|仓促的，匆忙草率的 |
 | *heretical*|异端的 |
+| heterodox|异端的，非正统的 |
+| humanitarian|人道主义的，博爱的 |
+|*imperial*|恢宏的，令人惊叹的 | 
+| *indebted*|蒙恩的，感激的|
+| inept|无能的，笨拙的 |
+|infamous |臭名昭著的 |
+|inscrutable |难以理解的 |
+| intangible|难以感知的，难以确定的 |
+| interminable|无休止的，冗长的 |
+| latent|潜在的 |
+|laudatory |赞美的 |
+| mammoth| 巨大的；猛犸象|
+| mawkish| 多愁善感的|
+| meretricious|花哨的，俗丽的 |
+| metallic|金属的 |
+| moralistic|说教的 |
+| moribund| 垂死的|
+| myriad|极多的，各种各样的；大量 |
+| nascent|新兴的|
+| notorious|（常指坏事）众所周知的，臭名昭著的 |
+| noxious|有毒的，有害的；令人厌恶的 |
+| obdurate|顽固的 |
+| opprobrium|谴责，抨击；耻辱 |
+| opulent|富裕的；大量的，富足的 |
+| oratorical|演说的，雄辩的 |
+|  overwrought| 极度不安的，过于激动的；（文章、艺术作品等）过度修饰的|
+| pensive|沉思的，忧思的 |
+| pernicious| 有害的|
+| petty| 不重要的，微不足道的|
+| poignant|心酸的，令人痛苦的 |
+| *precocious*|早熟的 |
+| preternatural| 超自然的，异乎寻常的|
+| proficient| 精通的，熟练的|
+| profuse|大量的，丰富的 |
+| *propitious*|吉利的，有利的 |
+| querulous|发牢骚的，爱抱怨的 |
+| ramshackle|破败不堪的，摇摇欲坠的 |
+| rapacious|贪婪的 |
+| *repetitious*|重复乏味的 |
+| reprehensible|应受谴责的 |
+| resolute| 坚决的，果敢的|
+| retroactive| 有追溯力的|
+| rife| （常指坏事）充斥的，盛行的 |
+| *rote*|机械式的  |
+| row|一排，街道；争吵 |
+| savage|残暴的；猛烈抨击，凶猛攻击 |
+| seditious| 煽动性的|
+| sedulous|勤奋的 |
+| sentimental| 情感的；多愁善感的|
+| sketchy| 粗略的，大概的，不完全的|
+| smug| 自鸣得意的，沾沾自喜的|
+| sober| 朴素的；严肃的，冷静的|
+|*sordid* |肮脏的，污秽的；卑劣的，可耻的 |
+| stoic|坚忍的 |
+| stubborn | 倔强的，固执的；难对付的|
+| synonymous|同义的，与...等同的 |
+|taciturn |沉默寡言的 |
+| *tame*| 驯服的；控制，驾驭|
+| terse|简短的，短促无礼的 |
+|  *trifling*|微不足道的，不重要的 |
+| unfettered|自由的，无拘无束的 |
+| vacant|空缺的，未被占用的 |
+|vacuous |空洞无知的 |
+| vindictive|怀恨在心的，想报复的 |
+|*wistful* | （因求不得而）伤感的，失意的|
+| worldly|尘世的，世俗的；老于世故的 |
+|**abstemious** | 有节制的|
+| acidic|酸性的 |
+| acquisitive|贪婪的 |
+| *adversarial*| 敌对的，对立的|
+|aghast |惊恐的，惊骇的 |
+| aloof| 远离的，冷漠的 |
+| ancillary| 附属的；辅助的|
 
 
 ### Phrase
