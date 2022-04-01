@@ -40,6 +40,11 @@ category: IELTSPosts
 | resort|度假胜地；诉诸，求助于 |
 | yarn|纱，线 |
 | creed|信条，原则 |
+| founder|创始人；失败|
+| plethora|过多，大量 |
+| trepidation|惊恐，焦虑不安 |
+| acumen|敏锐，精明 |
+| inhabitant|居民，栖息动物 |
 
 
 ### Verb
@@ -102,6 +107,14 @@ category: IELTSPosts
 | admonish| 警告，责备；忠告，劝告|
 | tout| 兜售；吹嘘，极力赞扬|
 | tilt| 倾斜|
+| recapitulate|概括，重述要点 |
+| shun|刻意避开，回避 |
+|vacillate | 摇摆；犹豫|
+| baffle|使困惑 |
+| deride|嘲笑，侮蔑 |
+| percolate|渗透 |
+| alleviate|减轻，缓解  |
+| hone|磨砺，提升 |
 
 
 ### Adjective & Adverb
@@ -167,6 +180,18 @@ category: IELTSPosts
 | theatrical| 戏剧的；夸张的，做作的|
 | akin|类似的 |
 | reverent|恭敬的，虔诚的 |
+|glamorous |有魅力的，迷人的 |
+| vapid|空洞乏味的，枯燥的 |
+| scrupulous|小心谨慎的，一丝不苟的 |
+| contingent|依情况而定的 |
+| apocryphal|可疑的，虚假的 |
+| intrepid|勇敢的，无畏的 |
+| giddy|眩晕的；轻浮的 |
+| garrulous|喋喋不休的 |
+| fallacious|谬误的 |
+| assiduous|刻苦的，坚持不懈的 |
+| obstinate|固执的；棘手的，难对付的 |
+| bitter|痛苦的；猛烈的 |
 
 
 ### Phrase

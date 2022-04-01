@@ -45,6 +45,10 @@ category: IELTSPosts
 | plutocracy|富豪统治 |
 | weasel|黄鼠狼 |
 | turmoil|混乱，动荡 |
+| lust|欲望；贪求，极想得到 |
+| revolt|反叛 |
+| symmetry|对称，相称 |
+| siege|围困，围攻 |
 
 
 ### Verb
@@ -130,6 +134,12 @@ category: IELTSPosts
 | balk|畏缩，回避 |
 | preempt|预先占有；预先阻止，制止 |
 | stir| 激起，激发；搅动|
+| imbue| 使渗透，使充满|
+| cow|威胁，恐吓 |
+| cleave|坚持，粘住；劈开 |
+| revile|憎恨，谩骂 |
+| antagonize|引起敌意 |
+| avert|转移；防止，避免 |
 
 
 ### Adjective & Adverb
@@ -221,6 +231,14 @@ category: IELTSPosts
 | adept|熟练的 |
 |  wretched|不幸的，可怜的；痛苦的，哀伤的 |
 | unassailable| 坚不可摧的，无懈可击的|
+| imprudent|轻率的，不谨慎的 |
+| inimitable|无法效仿的 |
+| keen| 敏锐的；热切的，渴望的|
+| complacent|自满的 |
+| facile|肤浅的，轻率的；容易达成的 |
+| commensurate|相称的 |
+| blithe|无忧无虑的；漫不经心的 |
+| sagacious|精明的，睿智的 |
 
 
 ### Phrase
