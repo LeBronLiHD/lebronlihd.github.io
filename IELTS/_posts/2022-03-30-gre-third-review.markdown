@@ -22,6 +22,14 @@ category: IELTSPosts
 | practitioner|one who pracitces; especially one who practices a profession | 
 | sanction|explicit or official approval, permission, or ratification; an official order that limits trade, contact |
 | catastrophe|a momentous targic event ranging from extreme misfortune to utter overthrow or ruin |
+| propriety|the quality of being proper; conformity to prevailing customs and usages |
+| countenance| appearance, especially the expression of the face; to extend approval or toleration to |
+| foliage| the aggregate of leaves of one or more plants|
+| dichotomy|a division into two especially mutually exclusive or contradictory groups or entities |
+| echos| the guiding beliefs of a person, group, or organization|
+|obviate |to anticipate and prevent (as a situation) or make unnecessary (as an action)|
+| hyperbole| extravagant exaggeration |
+| cue|a feature indicating the nature of something perceived |
 
 
 ### Verb
@@ -51,6 +59,11 @@ category: IELTSPosts
 | discharge|to let or put off; to perform and complete a particular duty; to dismiss from employment |
 | qualify|to modify, limit, or restrict, as by giving exceptions; to make competent or eligible for an office, position, or task |
 | dictate| to issue orders or commands; to control or influence how something happens|
+| conjure| imagine, contrive; to bring to mind; to affect or effect by or as if by magic|
+|topple | to push or throw over; overturn or overthrow|
+| foreshadow| to repersent, indicate, or typify beforehand|
+| flout|to treat with contemptuous disregard |
+| confer| to give (something, such as a degree, award, title, right, etc.) to someone or something; to discuss something important in order to make a decision|
 
 
 ### Adjective & Adverb
@@ -73,6 +86,17 @@ category: IELTSPosts
 | derivative|not new or orginal |
 | opaque|blocking the passage of radiant energy and especially light; hard to understand or explain |
 | astute|having or showing shrewdness and perspicacity |
+| reticent|inclined to be slient ot uncommunicative in speech: reserved |
+| bourgeois| of, relating to, or characteristic of the townsman or of the social middle class|
+| tenuous|having little substance or strength |
+| tenacious| persistent in maintaining, adhering to, or seeking something valued or desired|
+|exuberant |joyously unrestrained and enthusiastic; extreme or excessive in degree, size, or extent; (of plant) strong and healthy; growing quickly and well |
+| arid| excessively dry; specifically: having insufficient rein fall to support agriculture; lacking in interest and life|
+| apt| having a tendency; suited to a purpose; keenly intelligent and responsive|
+| deleterious| harmful often in a subtle or unexpected way|
+|  arcane| secret or mysterious|
+| banal|lacking originality, freshness, or novelty |
+|hospitable |offering a pleasant or sustaining environment; generous and friendly to guests or visitors |
 
 
 ### Phrase

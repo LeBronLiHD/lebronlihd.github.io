@@ -45,6 +45,10 @@ category: IELTSPosts
 | trepidation|惊恐，焦虑不安 |
 | acumen|敏锐，精明 |
 | inhabitant|居民，栖息动物 |
+| plight|困境 |
+| propensity|倾向，习性 |
+| gall| 厚颜无耻，粗鲁无礼；激怒，使恼怒|
+| euphemism| 委婉的说法|
 
 
 ### Verb
@@ -115,6 +119,17 @@ category: IELTSPosts
 | percolate|渗透 |
 | alleviate|减轻，缓解  |
 | hone|磨砺，提升 |
+| ponder|仔细考虑，思索 |
+| balk| 畏缩，回避|
+| subsidize|资助，支持 |
+| traverse|穿过 |
+| falter| 衰退，衰落；犹豫，畏缩|
+| divulge|泄露，透露 |
+|accede |同意；就任| 
+| enamor| 使迷恋|
+| intimate| 亲密的，密切的；暗示|
+| negate|使无效，抵消；否定，否认 |
+| mollify|平息，安抚，缓解|
 
 
 ### Adjective & Adverb
@@ -192,6 +207,24 @@ category: IELTSPosts
 | assiduous|刻苦的，坚持不懈的 |
 | obstinate|固执的；棘手的，难对付的 |
 | bitter|痛苦的；猛烈的 |
+| prophetic| 预示的，预言的|
+| solicitous| 挂念的，担心的|
+|anonymous|匿名的；不知名的，平淡无奇的 |
+|shrewd |精明的 |
+| truculent| 残暴的，好斗的|
+| rampant|猖獗的，泛滥的 |
+|congenial | 友善的，宜人的，令人愉快的；意气相投的|
+| counterproductive|适得其反的，事与愿违的 |
+| paramount| 最重要的，首要的|
+| jejune|枯燥乏味的，幼稚的  |
+| imperious|专横的；紧迫的 |
+|evasive |回避的，逃避的；含糊其辞的 |
+| extravagant|过分的，无节制的；挥霍的，浪费的 |
+|fractious |易怒的，难以驾驭的 |
+| delinquent|失职的，有违法倾向的，拖欠债务的；违法者 |
+|captious |吹毛求疵的 |
+| incisive| 深刻的，敏锐的|
+| wretched|不幸的，可怜的；痛苦的，哀伤的 |
 
 
 ### Phrase

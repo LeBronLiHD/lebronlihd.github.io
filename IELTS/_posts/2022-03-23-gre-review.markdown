@@ -49,6 +49,15 @@ category: IELTSPosts
 | revolt|反叛 |
 | symmetry|对称，相称 |
 | siege|围困，围攻 |
+| glutton|贪吃的人 |
+| cowardice|怯懦 |
+| conjunction| 结合，联合|
+| bombast|夸夸其谈的  |
+| surfeit| 过量，过多|
+| reverie|幻想 |
+| scenario| 设想，可能发生的情况|
+| respite| 暂停，缓慢|
+| provenance|起源，来源 |
 
 
 ### Verb
@@ -140,6 +149,14 @@ category: IELTSPosts
 | revile|憎恨，谩骂 |
 | antagonize|引起敌意 |
 | avert|转移；防止，避免 |
+| enchant|使着迷 |
+| entrench|巩固，确立 |
+|  deprecate| 批评，反对；贬低，轻视|
+| disabuse|使醒悟，使纠正错误 |
+| covet|贪求，渴望 |
+|  bestow| 使用；授予，给予|
+| vanquish|击败，战胜 |
+| perish| 毁灭，死亡|
 
 
 ### Adjective & Adverb
@@ -239,6 +256,28 @@ category: IELTSPosts
 | commensurate|相称的 |
 | blithe|无忧无虑的；漫不经心的 |
 | sagacious|精明的，睿智的 |
+| elliptical|隐晦的，晦涩难懂的；椭圆的 |
+| gullible|轻信的，同意上当的 |
+| furtive|鬼鬼祟祟的，偷偷摸摸的 |
+|courteous |客气的，礼貌的 |
+| dire| 可怕的，迫切的|
+| credulous| 轻信的，易受骗的|
+| cordial| 热诚友好的|
+| congruent|全等的；一致的，相称的 |
+| draconian| 严厉的，残酷的|
+| wont|习惯于的，惯常的 |
+| adroit|熟练的，精明的，灵巧的 |
+| sluggish|缓慢的，迟缓的 |
+|synoptic | 概要的|
+| tepid|温吞的，不热的；冷淡的，不热情的 |
+| pellucid| 清晰的，透明的；容易理解的|
+| rambling|冗长含糊的 |
+| petulant|暴躁的，任性的 |
+| porous|多孔的，可渗透的 |
+| obtuse| 迟钝的，愚蠢的|
+| placid|宁静的 |
+| ponderous|沉重的，笨拙的；乏味呆板的 |
+| pedantic| 迂腐的，呆板的|
 
 
 ### Phrase
