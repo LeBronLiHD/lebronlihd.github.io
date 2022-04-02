@@ -444,6 +444,24 @@ category: IELTSPosts
 |*anathema* |令人厌恶的人或者事物 |
 |anecdote |趣闻轶事 |
 |antidote |解毒药；对抗手段 |
+| apology|道歉；辩护 |
+| bane|祸端，苦恼之源 |
+|*benefactor* |恩人，赞助人 ，捐助者 |
+| brevity| 短暂；简洁|
+| calamity|灾难 |
+| canopy|树冠，森林顶层 |
+| caricature| 讽刺性（或夸张性）秒速和，漫画，讽刺画|
+| centaur| （希腊神话中）半人半马兽|
+| cetacean|鲸类动物 |
+| chagrin| （因受辱、沮丧、失败等）失望，懊恼；使恼怒不安|
+|*charlatan* |骗子 |
+| *chimera*| 妄想，幻想|
+|  collage|拼贴画 |
+| confederacy|联盟，联邦 |
+| consternation|恐慌，不安，忧虑 |
+| corollary|推论，结果 |
+| criminality| 犯罪|
+| culprit|罪犯；问题的根源 |
 
 
 ### Verb
@@ -864,6 +882,21 @@ category: IELTSPosts
 | aggravate|使恶化，加剧；激怒，使恼火 |
 |annihilate | 使消失，使毁灭|
 |agitate |煽动，鼓动；使焦虑 |
+| badger| 纠缠，烦扰；獾|
+| befuddle|迷惑 |
+| *beget*|引起，导致 |
+| bemuse|使迷惑 |
+| bequeath| 遗赠|
+| beset| 困扰，烦扰|
+|blunder |犯愚蠢错误；愚蠢的错误，失误 |
+| bungle|笨手笨脚地做，搞砸 |
+| *catalyze*|促进，催化 |
+| *cede*|放弃，割让 |
+| cloak| 掩盖；斗篷，遮盖物|
+| coax|劝诱，哄骗 |
+| conspire| 密谋，合谋|
+| counterfeit|伪造，仿冒；伪造的 |
+| crab| 抱怨|
 
 
 ### Adjective & Adverb
@@ -1507,6 +1540,23 @@ category: IELTSPosts
 |aghast |惊恐的，惊骇的 |
 | aloof| 远离的，冷漠的 |
 | ancillary| 附属的；辅助的|
+| audible|能听到的 |
+| authoritarian|专制的，独裁的 |
+| avid|渴望的，贪婪的；热衷的，酷爱的 |
+|  bent|有决心的；倾向|
+| blunt|钝的，直率的，直言不讳的 |
+| **bogus**|假的，伪造的 |
+| canned| 预先录制的（尤指标准化，程式化的），无新意的|
+| caustic|尖刻的，挖苦的 |
+| chronic|慢性的，积习难改的 |
+|clinical |临床的；冷静客观的，不带感情的 |
+| cloying| （因过多而）令人厌腻的|
+| confessional|自白的，忏悔的 |
+| *contagious*| 接触传染的，有感染力的 |
+| *conversant*|熟练的，精通的 |
+| corrosive| 腐蚀性的；讽刺的|
+| covert|隐蔽的，暗中的 |
+| *deft*| 熟练的，灵巧的|
 
 
 ### Phrase
