@@ -21,7 +21,7 @@ category: Vision2022Posts
 
 |                     Image #1                     |                    Image #2                    |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="{{ site.url }}/images/Vision2022/4/output_25_2.png" width="500" /> | <img src="{{ site.url }}/images/Vision2022/4/output_26_2.png" width="500" /> |
+| <img src="{{ site.url }}/images/Vision2022/wu.jpg" width="500" /> | <img src="{{ site.url }}/images/Vision2022/wu_2.jpeg" width="500" /> |
 
 ### 提交
 
