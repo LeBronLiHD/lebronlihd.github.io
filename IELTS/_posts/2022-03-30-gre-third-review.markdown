@@ -30,6 +30,7 @@ category: IELTSPosts
 |obviate |to anticipate and prevent (as a situation) or make unnecessary (as an action)|
 | hyperbole| extravagant exaggeration |
 | cue|a feature indicating the nature of something perceived |
+| camouflage| a way of hiding that looks like surroundings; to conceal or disguise by camouflage|
 
 
 ### Verb
@@ -64,6 +65,10 @@ category: IELTSPosts
 | foreshadow| to repersent, indicate, or typify beforehand|
 | flout|to treat with contemptuous disregard |
 | confer| to give (something, such as a degree, award, title, right, etc.) to someone or something; to discuss something important in order to make a decision|
+| pump| to strike or knock with force or violence; a relatively abrupt convexity or protuberance on a surface|
+| delineate| to describe, draw or explain something in detail|
+| scorn| to consider ot treat as contemptible or unworthy|
+| consolidate| to join together into one whole; to make firm or secure|
 
 
 ### Adjective & Adverb
@@ -97,6 +102,15 @@ category: IELTSPosts
 |  arcane| secret or mysterious|
 | banal|lacking originality, freshness, or novelty |
 |hospitable |offering a pleasant or sustaining environment; generous and friendly to guests or visitors |
+|pertinent |relating to the thing that is being thought about or discussed |
+|obsequious | marked by or exhibiting a fawning attentiveness|
+| compassionate| having or showing compassion|
+|intransigent |characterized by refusal to compromise or to abandon an extreme position or attitude |
+| grandiose| impressive because of uncommon largeness, scope, effect, or grandeur; characterized by affectation or grandeur or splendor or by absurd exaggreation |
+| resilient| capable of returning to an original shape or position, as after having been compressed; tending to recover from or adjust easily to misfortune of change |
+| pretentious |expressive of affected, unwarranted, or exaggerated importance, worth, or stature  |
+| radiant| vividly bright and shining; marked by or expressive of love, confidence, or happiness|
+| perfunctory| lacking in interest or emthusiasm |
 
 
 ### Phrase

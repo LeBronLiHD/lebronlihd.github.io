@@ -49,6 +49,13 @@ category: IELTSPosts
 | propensity|倾向，习性 |
 | gall| 厚颜无耻，粗鲁无礼；激怒，使恼怒|
 | euphemism| 委婉的说法|
+| cascade|大簇的下垂物，大量；倾斜 |
+| conundrum|复杂难解的问题 |
+| doom|厄运，劫数；注定，使在劫难逃 |
+| disciple|信徒 |
+|provenance | 起源，来源|
+| reverie|幻想 |
+|respite |暂停，缓解 |
 
 
 ### Verb
@@ -130,6 +137,10 @@ category: IELTSPosts
 | intimate| 亲密的，密切的；暗示|
 | negate|使无效，抵消；否定，否认 |
 | mollify|平息，安抚，缓解|
+| captivate|使入迷，迷住 |
+| languish| 衰弱，衰败，受折磨；被忽视|
+| reciprocate| 回报；交互，互给|
+|recollect |想起，回忆起 |
 
 
 ### Adjective & Adverb
@@ -225,6 +236,21 @@ category: IELTSPosts
 |captious |吹毛求疵的 |
 | incisive| 深刻的，敏锐的|
 | wretched|不幸的，可怜的；痛苦的，哀伤的 |
+| condescending| 盛气凌人的|
+| colloquial| 口语的|
+|blithe |无忧无虑的； |
+|cryptic |神秘的，隐晦难懂的 |
+| imperturbable| 沉着的，冷静的|
+|monolithic |单一的，整体的；巨大的 |
+|  malign| 恶意的，有害的；诽谤|
+|inveterate |根深蒂固的，积习难改的 |
+| inimitable| 无法效仿的|
+| phlegmatic|沉着的，冷静的，不动感情的 |
+| obtuse| 迟钝的，愚蠢的|
+| rambling|冗长含糊的 |
+|pejorative | 贬低的，轻蔑的|
+| stern|严厉的，苛刻的 |
+| recondite| 晦涩难懂的|
 
 
 ### Phrase

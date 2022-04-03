@@ -58,6 +58,16 @@ category: IELTSPosts
 | scenario| 设想，可能发生的情况|
 | respite| 暂停，缓慢|
 | provenance|起源，来源 |
+|vault | 拱棚，储藏室；跳跃|
+| prerogative|特权 |
+|oversight |疏忽，失察；监督，照顾 |
+| incense|香味；激怒 |
+| parody| 拙劣的模仿|
+| malfeasance|渎职，违法行为 |
+| bane| 祸端，苦恼之源|
+| consternation| 恐慌，不安，忧虑|
+|chagrin |（因受辱、沮丧、失败等）失望，懊恼；使恼怒不安 |
+| charlatan| 骗子|
 
 
 ### Verb
@@ -157,6 +167,16 @@ category: IELTSPosts
 |  bestow| 使用；授予，给予|
 | vanquish|击败，战胜 |
 | perish| 毁灭，死亡|
+| annihilate|使消灭，使毁灭 |
+| surmise|猜测，推测 |
+| promulgate| 传播，散布|
+| ratify| 批准，认可|
+|rehash |（无实质修改地）重提，重复 |
+| infuriate| 使大怒|
+| obsess| （使）着迷|
+| lament|感到悲痛，哀叹 |
+| blunder| 犯愚蠢错误；愚蠢的错误，失误| 
+| bemuse|使迷惑 |
 
 
 ### Adjective & Adverb
@@ -278,6 +298,26 @@ category: IELTSPosts
 | placid|宁静的 |
 | ponderous|沉重的，笨拙的；乏味呆板的 |
 | pedantic| 迂腐的，呆板的|
+| adversarial| 敌对的，对立的|
+| vacuous|空洞无知的 |
+| abstemious|有节制的 |
+|sordid | 肮脏的，污秽的；卑劣的，可耻的|
+| sober| 朴素的；严肃的，冷静的|
+| sham|虚假，虚伪；虚假的 |
+| reprehensible|应受谴责的 |
+| profuse|大量的，丰富的 |
+| poignant|心酸的，令人痛苦的 |
+| moralistic|说教的 |
+| overwrought|极度不安的，过于激动的；（文章、艺术作品等）过度修饰的 |
+| notorious| （常指坏事）众所周知的，臭名昭著的|
+| opulent| 富裕的；大量的，富足的|
+| pernicious|有害的 |
+| covert|隐蔽的，暗中的 |
+|deft |熟练的，灵巧的 |
+| avid| 渴望的，贪婪的；热衷的，酷爱的|
+|  contagious| 接触传染的；有感染力的 |
+| caustic| 尖刻的，挖苦的 |
+| chronic| 慢性的，积习难改的|
 
 
 ### Phrase
