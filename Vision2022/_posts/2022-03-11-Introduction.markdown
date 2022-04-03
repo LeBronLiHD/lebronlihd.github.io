@@ -19,7 +19,7 @@ category: Vision2022Posts
 - Smart Factory Innovation Club of Zhejiang University
 - Class locations: 月牙楼301
 - Class time: Sunday 9:30 to 11:30
-- Number of students enrolled: 40
+- Number of students enrolled: 42
 
 ## Course Outline
 

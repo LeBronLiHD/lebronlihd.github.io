@@ -19,9 +19,9 @@ category: Vision2022Posts
 
 - 使用和本课程**不一样**的方法解决匹配问题，图片如下（也可以自己找别的图片代替）
 
-|                     Image #1                     |                    Image #2                    |
+|                           Image #1                           |                           Image #2                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="{{ site.url }}/images/Vision2022/wu.jpg" width="500" /> | <img src="{{ site.url }}/images/Vision2022/wu_2.jpeg" width="500" /> |
+| <img src="{{ site.url }}/images/Vision2022/wu_4.jpg" width="500" /> | <img src="{{ site.url }}/images/Vision2022/wu_2.jpeg" width="500" /> |
 
 ### 提交
 
