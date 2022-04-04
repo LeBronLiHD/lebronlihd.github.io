@@ -56,6 +56,7 @@ category: IELTSPosts
 |provenance | 起源，来源|
 | reverie|幻想 |
 |respite |暂停，缓解 |
+|deluge |大量，泛滥；使充斥 |
 
 
 ### Verb
@@ -141,6 +142,8 @@ category: IELTSPosts
 | languish| 衰弱，衰败，受折磨；被忽视|
 | reciprocate| 回报；交互，互给|
 |recollect |想起，回忆起 |
+| abjure| 正式放弃，拒绝；避免|
+|entrance |使着迷；进入许可 |
 
 
 ### Adjective & Adverb
@@ -251,6 +254,9 @@ category: IELTSPosts
 |pejorative | 贬低的，轻蔑的|
 | stern|严厉的，苛刻的 |
 | recondite| 晦涩难懂的|
+|abject | 凄惨的，卑躬屈膝的|
+|venal |唯利是图的，贪污腐败的 |
+|derelict |被遗弃的；玩忽职守的 |
 
 
 ### Phrase

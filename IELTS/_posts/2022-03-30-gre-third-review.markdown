@@ -31,6 +31,9 @@ category: IELTSPosts
 | hyperbole| extravagant exaggeration |
 | cue|a feature indicating the nature of something perceived |
 | camouflage| a way of hiding that looks like surroundings; to conceal or disguise by camouflage|
+|creed | a set of fundamental beliefs; also: a guiding principle|
+| vagary| an erratic, unpredictable, or extravagant manifestation, action, or notion|
+| motify| a dominant theme or central idea; a design or a pattern used as a decoration|
 
 
 ### Verb
@@ -69,6 +72,12 @@ category: IELTSPosts
 | delineate| to describe, draw or explain something in detail|
 | scorn| to consider ot treat as contemptible or unworthy|
 | consolidate| to join together into one whole; to make firm or secure|
+|enervate |to make somebody feel weak and tired |
+|admonish  |to express warning or disapproval to especially in a gentle, earnest, or solicitous manner; to give friendly earnest advice or encouragement to|
+|decipher | to find the meaning of (something that is difficult to read or understand)|
+| denigrate| to attack the reputation of |
+| jeopardize|to expose to danger or risk |
+| mandate| to administer or assign (as a territory) under a mandate; the authority to do something; an official order given to somebody|
 
 
 ### Adjective & Adverb
@@ -111,6 +120,11 @@ category: IELTSPosts
 | pretentious |expressive of affected, unwarranted, or exaggerated importance, worth, or stature  |
 | radiant| vividly bright and shining; marked by or expressive of love, confidence, or happiness|
 | perfunctory| lacking in interest or emthusiasm |
+|auspicious | showing or suggesting tat future success is likely|
+|anionic |of or relating to a negatively charged ion |
+| altruistic| unselfish regard for or devotion to the welfare of others|
+| obsolete| no longer in use or no longer useful|
+| pious| marked by or showing reverence for deity and devotion to divine worship; marked by self-conscious virtue |
 
 
 ### Phrase
