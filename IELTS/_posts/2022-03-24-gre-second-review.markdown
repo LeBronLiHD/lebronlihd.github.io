@@ -57,6 +57,18 @@ category: IELTSPosts
 | reverie|幻想 |
 |respite |暂停，缓解 |
 |deluge |大量，泛滥；使充斥 |
+| incense| 香味；激怒|
+| levity|轻浮，轻率 |
+| ordeal|磨难，折磨 |
+| mockery| 嘲笑，讥讽|
+| schism| 分离，分裂|
+| prerogative| 特权|
+|spate |大批，许多 |
+| sham| 虚假，虚伪；虚假的|
+| aerobes|需氧生物，需氧菌 |
+| alacrity|乐意；敏捷 |
+| surmise|猜测，推测 |
+|accession |增加；就任，登基；正式加入 |
 
 
 ### Verb
@@ -144,6 +156,9 @@ category: IELTSPosts
 |recollect |想起，回忆起 |
 | abjure| 正式放弃，拒绝；避免|
 |entrance |使着迷；进入许可 |
+| loom| 隐约可见；迫近，逼近|
+| recast|重塑，重新呈现 |
+| annihilate|使消失，使毁灭 |
 
 
 ### Adjective & Adverb
@@ -257,6 +272,14 @@ category: IELTSPosts
 |abject | 凄惨的，卑躬屈膝的|
 |venal |唯利是图的，贪污腐败的 |
 |derelict |被遗弃的；玩忽职守的 |
+| inscrutable|难以理解的 |
+| obdurate|顽固的 |
+| meretricious| 花哨的，俗丽的|
+| reprehensible|应受谴责的 |
+| terse|简短的，短促无礼的 |
+| sober|朴素的；严肃的，冷静的 |
+| smug| 自鸣得意的，沾沾自喜的|
+| abstemious| 有节制的|
 
 
 ### Phrase

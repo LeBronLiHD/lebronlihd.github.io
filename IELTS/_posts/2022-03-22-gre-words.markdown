@@ -450,7 +450,7 @@ category: IELTSPosts
 | brevity| 短暂；简洁|
 | calamity|灾难 |
 | canopy|树冠，森林顶层 |
-| caricature| 讽刺性（或夸张性）秒速和，漫画，讽刺画|
+| *caricature*| 讽刺性（或夸张性）秒速和，漫画，讽刺画|
 | centaur| （希腊神话中）半人半马兽|
 | cetacean|鲸类动物 |
 | chagrin| （因受辱、沮丧、失败等）失望，懊恼；使恼怒不安|
@@ -462,6 +462,23 @@ category: IELTSPosts
 | corollary|推论，结果 |
 | criminality| 犯罪|
 | culprit|罪犯；问题的根源 |
+| disarray| 混乱|
+|dissident |异议者 |
+| ennui| 倦怠，厌倦|
+|equanimity |镇定，平静 |
+| ethanol|乙醇，酒精 |
+|extrovert |性格外向者 |
+|foible |小缺点 |
+| gauge|测量仪器；估计，衡量 |
+|glut |（供应）过剩 |
+| growl|咆哮声；咆哮 |
+| imposter|骗子 |
+| impunity|免受惩罚 |
+| insouciance|漫不经心，漠不关心 |
+|introspection |内省，反省 |
+| **lull**| 平静时期，间歇；哄骗，使放松警惕|
+| machination|阴谋，诡计 |
+|millennium |一千年 |
 
 
 ### Verb
@@ -888,15 +905,47 @@ category: IELTSPosts
 | bemuse|使迷惑 |
 | bequeath| 遗赠|
 | beset| 困扰，烦扰|
-|blunder |犯愚蠢错误；愚蠢的错误，失误 |
-| bungle|笨手笨脚地做，搞砸 |
+|*blunder* |犯愚蠢错误；愚蠢的错误，失误 |
+| *bungle*|笨手笨脚地做，搞砸 |
 | *catalyze*|促进，催化 |
 | *cede*|放弃，割让 |
 | cloak| 掩盖；斗篷，遮盖物|
-| coax|劝诱，哄骗 |
+| *coax*|劝诱，哄骗 |
 | conspire| 密谋，合谋|
-| counterfeit|伪造，仿冒；伪造的 |
+| *counterfeit*|伪造，仿冒；伪造的 |
 | crab| 抱怨|
+|delude |欺骗 |
+|deplore |悲悼，哀叹；谴责 |
+|*deprave* |使堕落 |
+| desiccate| 使干燥；使耗尽精力|
+|*detain* | 扣押 ；耽搁，阻止|
+|discomfit |使窘迫，使不安 |
+| disgruntle| 使不高兴|
+|disjunction |分离 |
+| dismantle| 拆除，废除|
+| distill| 蒸馏，提取|
+| drain| 排水；消耗|
+|encumber |妨碍，阻碍 |
+| enliven| 使生动有趣，使有活力|
+| estrange| 使疏远|
+|evince |表明，表现 |
+|exasperate |激怒 |
+| excavate| 挖掘|
+|excoriate |痛斥 |
+|*exile* |流放，死亡 |
+|expedite |加速，加快 |
+|exude |流露，显露 |
+|forfeit| 被没收，沮丧|
+| frown| 皱眉；反对，不同意|
+|furnish|  提供|
+| glean| 收集，获取（信息，知识等）|
+|hew |遵守 |
+| impart| 传授，给予|
+| intrude| 侵入，打扰|
+| invalidate|使无效；证明...错误 |
+|*meander* |蜿蜒而行 |
+| meld| 融合|
+| metamorphose|彻底改变，变形 |
 
 
 ### Adjective & Adverb
@@ -1543,20 +1592,71 @@ category: IELTSPosts
 | audible|能听到的 |
 | authoritarian|专制的，独裁的 |
 | avid|渴望的，贪婪的；热衷的，酷爱的 |
-|  bent|有决心的；倾向|
+|  *bent*|有决心的；倾向|
 | blunt|钝的，直率的，直言不讳的 |
-| **bogus**|假的，伪造的 |
+| ***bogus***|假的，伪造的 |
 | canned| 预先录制的（尤指标准化，程式化的），无新意的|
 | caustic|尖刻的，挖苦的 |
 | chronic|慢性的，积习难改的 |
 |clinical |临床的；冷静客观的，不带感情的 |
-| cloying| （因过多而）令人厌腻的|
+| *cloying*| （因过多而）令人厌腻的|
 | confessional|自白的，忏悔的 |
 | *contagious*| 接触传染的，有感染力的 |
 | *conversant*|熟练的，精通的 |
 | corrosive| 腐蚀性的；讽刺的|
 | covert|隐蔽的，暗中的 |
-| *deft*| 熟练的，灵巧的|
+| **deft**| 熟练的，灵巧的|
+|despondent |沮丧的 |
+|devious |曲折的，迂回的；狡诈的 |
+|discrepant |不一致的，有差异的 |
+|dour |严厉的，阴郁的 |
+| ebullient| 热情洋溢的|
+| effusive| 热情洋溢的|
+|errant | 行为不端的，错误的；不定的|
+|erstwhile |之前的，过去的 |
+| eternal|永恒的，永久的 |
+|exorbitant |过度的，过分的 |
+|*exquisite* |精美的 |
+|felicitous | 恰当的，令人愉悦的，幸福的 |
+| figurative| 比喻的，象征的 |
+| finicky|过分讲究的 |
+| flamboyant| 炫耀的，艳丽的|
+| flippant| 轻率无礼的，不严肃的|
+| formulaic | 公式化的，俗套的 |
+| forthwith| 立即地|
+|  fragile|脆弱的，易碎的 |
+| fraudulent| 欺诈的|
+|*frugal* | 节俭的|
+| fulsome| 过分恭维的|
+|gargantuan | 巨大的 |
+| generic| 普通的，通用的|
+| genteel|有教养的，文雅的 |
+| glib| 油嘴滑舌的|
+| gloomy| 沮丧的，忧郁的|
+| hectic|紧张忙碌的 |
+| humble|谦逊的 |
+| illicit|非法的 |
+| illustrious| 杰出的，著名的|
+| *impassioned*| 热情的，热烈的|
+| impeccable| 无瑕疵的，无缺陷的|
+| impertinent| 粗鲁无礼的；无关紧要的|
+| impetuous| 急躁冲动的|
+| impolitic| 不明智的|
+| impudent|放肆无礼的 |
+| incendiary| 煽动的|
+| incessant|持续不断的 |
+| infectious|传染的；富有感染力的 |
+|informative |增长见闻的；提供有用信息的 |
+| iniquitous|不公正的，邪恶的 |
+| insolent|傲慢无礼的 |
+| intermittent|间歇的，断断续续的 |
+| **irascible**|易怒的，性情暴躁的 |
+| irreparable| 不可弥补的|
+| jarring| 刺耳的，不和谐的，震惊的|
+|liable | 易于...的，有倾向...的；有义务的|
+|majestic |庄严的，雄伟的 |
+|malicious |恶意的，怀恨的 |
+|metropolitan |大城市的 |
 
 
 ### Phrase

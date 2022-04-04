@@ -34,6 +34,13 @@ category: IELTSPosts
 |creed | a set of fundamental beliefs; also: a guiding principle|
 | vagary| an erratic, unpredictable, or extravagant manifestation, action, or notion|
 | motify| a dominant theme or central idea; a design or a pattern used as a decoration|
+|lapse |a slight error typically due to forgetfulness or inattention; an occurence in which someone behaves badly or usually a short period of time; an interval or passage of time; to stop for susally a brief time |
+| trepidation| great worry or fear about something unpleasant that may happen |
+|iconoclast |a person who attacks settled beliefs or institutions |
+|hypocrisy | a feigning to be what one is not or to believe what one does not|
+| constituent|a member of a constituency; serving to form, compose, or make up a unit or whole |
+| humility| the quality or state of being humble|
+| penchant| a strong and continued inclination|
 
 
 ### Verb
@@ -78,6 +85,11 @@ category: IELTSPosts
 | denigrate| to attack the reputation of |
 | jeopardize|to expose to danger or risk |
 | mandate| to administer or assign (as a territory) under a mandate; the authority to do something; an official order given to somebody|
+| rupture| to part by violence: break, brust; a breaking apart or the state of being broken apart|
+|detest | to feel intense and often violent antipathy toward|
+| impugn| to assail by words or arguments|
+| ordain|to invest officially (as by the laying on of the hands) with ministerial or priestly authority; to establish or order by appointment, decree, or law: enact |
+| baffle | to confuse completely|
 
 
 ### Adjective & Adverb
@@ -125,6 +137,15 @@ category: IELTSPosts
 | altruistic| unselfish regard for or devotion to the welfare of others|
 | obsolete| no longer in use or no longer useful|
 | pious| marked by or showing reverence for deity and devotion to divine worship; marked by self-conscious virtue |
+|  ostensible| seeming or said to be true or real but very possibly not true or real|
+|prodigious |extraordinary in bulk, quantity, or degree; exciting amazement or wonder |
+|insipid | lacking in qualities that interest, stimulate, or challenge|
+| scrupulous| conscientious and exact|
+| facetious| meant to be humorous or funny|
+| fallacious| tending to deceive or mislead|
+| ethereal|marked by unusual delicacy or refinement; of or relating to the regions beyond the earth |
+| oblivious|lacking active conscious knowledge or awareness |
+|parochial | confined or restricted as if within the borders of a parish: limited in range or scope (as to a narrow area or region)|
 
 
 ### Phrase
