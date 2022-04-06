@@ -69,6 +69,7 @@ category: IELTSPosts
 | alacrity|乐意；敏捷 |
 | surmise|猜测，推测 |
 |accession |增加；就任，登基；正式加入 |
+| calamity| 灾难|
 
 
 ### Verb
@@ -159,6 +160,8 @@ category: IELTSPosts
 | loom| 隐约可见；迫近，逼近|
 | recast|重塑，重新呈现 |
 | annihilate|使消失，使毁灭 |
+| beset| 困扰，烦扰|
+| crab |抱怨 |
 
 
 ### Adjective & Adverb
@@ -280,6 +283,10 @@ category: IELTSPosts
 | sober|朴素的；严肃的，冷静的 |
 | smug| 自鸣得意的，沾沾自喜的|
 | abstemious| 有节制的|
+| blunt| 钝的；直率的，直言不讳的|
+| caustic|尖刻的，挖苦的 |
+| conversant|熟悉的，精通的 | 
+| clinical|临床的；冷静客观的 |
 
 
 ### Phrase

@@ -68,6 +68,7 @@ category: IELTSPosts
 | consternation| 恐慌，不安，忧虑|
 |chagrin |（因受辱、沮丧、失败等）失望，懊恼；使恼怒不安 |
 | charlatan| 骗子|
+| equanimity| 镇定，平静|
 
 
 ### Verb
@@ -177,6 +178,11 @@ category: IELTSPosts
 | lament|感到悲痛，哀叹 |
 | blunder| 犯愚蠢错误；愚蠢的错误，失误| 
 | bemuse|使迷惑 |
+| deplore|悲悼，哀叹；谴责 |
+| exasperate| 激怒|
+| drain|排水；消耗 |
+| dismantle|拆除，废除 |
+| desiccate| 使干燥；使耗尽精力|
 
 
 ### Adjective & Adverb
@@ -318,6 +324,16 @@ category: IELTSPosts
 |  contagious| 接触传染的；有感染力的 |
 | caustic| 尖刻的，挖苦的 |
 | chronic| 慢性的，积习难改的|
+| iniquitous|不公正的，邪恶的 |
+| malicious|恶意的，怀恨的 |
+| irascible| 易怒的，性情暴躁的|
+|impertinent |粗鲁无礼的；无关紧要的 |
+|majestic |庄严的，雄伟的 |
+| fraudulent| 欺诈的|
+| hectic|紧张忙碌的 |
+| forthwith|立即地 |
+|exorbitant |过度的，过分的 |
+| despondent | 沮丧的|
 
 
 ### Phrase

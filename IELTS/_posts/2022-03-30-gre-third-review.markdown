@@ -41,6 +41,11 @@ category: IELTSPosts
 | constituent|a member of a constituency; serving to form, compose, or make up a unit or whole |
 | humility| the quality or state of being humble|
 | penchant| a strong and continued inclination|
+| epitome| a perfect example of something |
+| pulley| a wheel or set of wheels over which a rope or chain is pulled in order to lift or lower heavy objects|
+| turmoil| a state or condition of extreme confusion, agitation, or commotion|
+| plight|an unfortunate, difficult, or precarious situation |
+| probity| adherence to the highest principles and ideals|
 
 
 ### Verb
@@ -90,6 +95,13 @@ category: IELTSPosts
 | impugn| to assail by words or arguments|
 | ordain|to invest officially (as by the laying on of the hands) with ministerial or priestly authority; to establish or order by appointment, decree, or law: enact |
 | baffle | to confuse completely|
+| contemplate|to think deeply or carefully about |
+|  dampen | to check or diminish the activity or vigor of; to make damp | 
+| falter| to begin to fail or weaken; to hesitate in purpose or action|
+| persevere | to persist in or remain constant to a purpose, idea, or task in the face of obstacles or discouragement|
+| rail|ro revile or scold in harsh, insolent, or abusive language |
+| sway| to exert a guiding or controlling influence on; to move slowly from side to side|
+| balk|to stop short and refuse to proceed |
 
 
 ### Adjective & Adverb
@@ -146,6 +158,19 @@ category: IELTSPosts
 | ethereal|marked by unusual delicacy or refinement; of or relating to the regions beyond the earth |
 | oblivious|lacking active conscious knowledge or awareness |
 |parochial | confined or restricted as if within the borders of a parish: limited in range or scope (as to a narrow area or region)|
+| congenial| of a pleasant disporition; friendly and sociable; aggreeably suited to one's nature, tastes, or outlook; having the same nature, disposition, or tastes|
+|evasive |inclined or intended to evade; intentionally vague or ambiguous; equivocal |
+| wretched| in a deplorable state of distress or misfortune; characterized by or attended with misery or woe|
+| fleeting| lasting only a short time|
+| adamant|unshakable or insistent especially in maintaining a position or opinion |
+| imperious| arrogantly domineering or overbearing; intensely compelling|
+| reminiscent|tending to recall or suggest something in the past |
+| oblique|neither perpendicular nor parallel; not straightforward |
+| jejure| devoid of significance or interest: dull; too simple|
+| rampant|marked by a menacing wildness, extravagance, or absence of restraint |
+| precipitous| extremely repid, hasty or abrupt; precipitate; very steep, perpendicular, or overhanging in rise of fall|
+| sterile| producing little or no vegetation; not producing or incapable of producing offspring; free from live bacteria or other microorganisms|
+| anonymous| not named or identified; lacking individuality, distinction, or recognizability|
 
 
 ### Phrase
