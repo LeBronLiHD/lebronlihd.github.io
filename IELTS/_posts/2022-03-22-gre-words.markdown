@@ -479,6 +479,31 @@ category: IELTSPosts
 | **lull**| 平静时期，间歇；哄骗，使放松警惕|
 | machination|阴谋，诡计 |
 |millennium |一千年 |
+| monk| 僧侣，修道士|
+| monopoly| 垄断|
+| monsoon| 季风|
+|*pagan* |异教徒 |
+| *perquisite*|特权；额外补贴 |
+| pier |桥墩；码头 |
+|  premium|珍贵  |
+| prerequisite|先决条件，前提 |
+| pretense|借口；虚假，虚伪 |
+| pundit|权威，专家 |
+| quarantine|隔离，检疫 |
+|quirk |怪癖 |
+| recourse|依赖 |
+| rectitude| 正直，公正|
+|renunciation |声明放弃  |
+| **sacrilege**| 亵渎，不敬|
+| serendipity|机缘凑巧 |
+| solace| 安慰，抚慰|
+| stratum| 层，地层，岩层|
+| subterfuge| 诡计|
+|superintendent |主管人，监督人 |
+|  vandalism| 恶意破坏|
+| verdict|裁决，裁定 |
+| vernacular|方言，地方话 |
+| vogue|时尚，流行 |
 
 
 ### Verb
@@ -946,6 +971,37 @@ category: IELTSPosts
 |*meander* |蜿蜒而行 |
 | meld| 融合|
 | metamorphose|彻底改变，变形 |
+| molder|腐烂 |
+| ossify|使僵化，使一成不变 |
+| overhaul|全面修订，彻底革新 |
+| peruse|仔细研读，精读 |
+| prefigure|预示，预兆 |
+| *prosecute*|起诉，控告 |
+| pseudoscience|伪科学 |
+| quell|镇压；减轻，缓解 |
+| rally| 聚集，团结|
+| regiment|严格管制；军团 |
+| rejuvenate| 恢复青春，回复活力|
+| reproach|斥责 |
+| *resonate*|（声音）回响；引发共鸣 |
+| *resuscitate*| 使复活；使复兴|
+| retaliate|报复，还击 |
+| rip|撕裂|
+| rouse| 唤醒；煽动，鼓动|
+| rue| 后悔，悔恨|
+| ruminate| 反刍；沉思，琢磨|
+| slay|杀害 |
+| slump|急剧下跌，暴跌 |
+| spoil|糟蹋，破坏 |
+| sprawl|蔓延，扩展 |
+| stanch|止血，平息 |
+| stomach| 忍耐，忍受|
+|strew| 散播，布满|
+| subjugate|征服，制伏 |
+| transgress|违反 |
+| **usurp**|篡夺，夺取 |
+| vilify|诽谤，污蔑 |
+| whet| 刺激，激发；磨快，磨光|
 
 
 ### Adjective & Adverb
@@ -975,7 +1031,7 @@ category: IELTSPosts
 |obscure |晦涩难懂的；鲜为人知的，不出名的；使晦涩难懂 |
 |involved |复杂难懂的；参与的，涉及的 |
 |profound |深刻的；深奥难懂的； |
-|rhetoric |浮夸之词，虚华词藻；修辞学，修辞技巧 |
+|rhetoric |浮夸之词，虚华词藻辞学，修辞技巧 |
 |metabolic |新陈代谢的 |
 | spiral|螺旋的，旋转的 |
 |genetic |遗传的，起源的 |
@@ -1657,6 +1713,50 @@ category: IELTSPosts
 |majestic |庄严的，雄伟的 |
 |malicious |恶意的，怀恨的 |
 |metropolitan |大城市的 |
+| morbid|病态的，不正常的 |
+| munificent| 慷慨的，大方的|
+|  murky| 昏暗的，浑浊的|
+|myopic | 目光短浅的 |
+|  nominal|名义上的；微不足道的 |
+|*objectionable* |令人反感的，讨厌的 |
+| obligatory| 强制性的，义务性的；习惯性的|
+| odious|令人厌恶的，可憎的 |
+| oppressive|压迫的，残酷的；令人窒息的 |
+| outlandish|稀奇古怪的，异乎寻常的 |
+| palpable| 可感知的，易察觉的，明显的|
+| *paltry*| 微不足道的，不重要的|
+| piquant|辛辣刺激的；刺激的，引人入胜的 |
+| *pompous*|自大的 |
+| prickly|多刺的；易怒的 |
+| prodigal|挥霍浪费的，奢侈的 |
+| protean|多变的，多样的 |
+| puerile|幼稚的，愚蠢的 |
+|quintessential |典型的，典范的 |
+| rarefied|稀薄的；深奥的，常人难以理解的 |
+| reckless| 轻率鲁莽的，不计后果的|
+| regal|富丽堂皇的，豪华的 |
+| repugnant|令人厌恶的 |
+|retrograde |倒退的，退化的 |
+|ruthless |残忍的，冷酷无情的 |
+| salubrious| 有益健康的|
+| staid|严肃的，古板的 |
+| *strenuous*|繁重的，艰苦的 |
+| *sumptuous*|奢华的，豪华的 |
+| supercilious| 傲慢的，自大的|
+| supernatural|超自然的，不可思议的 |
+| supple |柔韧的，灵活的；适应的 |
+| surreptitious|秘密的，鬼鬼祟祟的 |
+| tactful|有分寸的，考虑周全的 |
+| *thorny*|棘手的，复杂难解的|
+| tonic|有补益的 |
+| *trendy*|时髦的 |
+| tumultuous|骚乱的 |
+| untrammeled|没有限制的 |
+| unwieldy|笨重的 |
+| *valiant*|勇敢的 |
+| vivacious|活泼的 |
+| *void*|无效的；空的，没有的 |
+| weary|疲劳的，倦怠的 |
 
 
 ### Phrase
