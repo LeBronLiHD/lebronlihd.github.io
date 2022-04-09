@@ -69,6 +69,12 @@ category: IELTSPosts
 |chagrin |（因受辱、沮丧、失败等）失望，懊恼；使恼怒不安 |
 | charlatan| 骗子|
 | equanimity| 镇定，平静|
+| solace|安慰，抚慰 |
+| perquisite| 特权；额外补贴|
+|quirk |怪癖 |
+| premium|珍贵；额外费用，附加费 |
+| pier| 桥墩；码头|
+|recourse |依赖 |
 
 
 ### Verb
@@ -183,6 +189,13 @@ category: IELTSPosts
 | drain|排水；消耗 |
 | dismantle|拆除，废除 |
 | desiccate| 使干燥；使耗尽精力|
+|spoil |糟蹋，破坏 |
+| retaliate| 报复，还击|
+| prosecute| 起诉，控告|
+|ossify |使僵化，使一成不变 |
+| regiment|严格管理；军团 |
+| quell|镇压；减轻，缓解 |
+|  prefigure| 预示，预兆 |
 
 
 ### Adjective & Adverb
@@ -334,6 +347,15 @@ category: IELTSPosts
 | forthwith|立即地 |
 |exorbitant |过度的，过分的 |
 | despondent | 沮丧的|
+|valiant | 勇敢的|
+| staid| 严肃的，古板的|
+| unwieldy |笨重的 |
+| prodigal| 挥霍浪费的，奢侈的|
+|munificent | 慷慨的，大方的|
+| regal|富丽堂皇的，豪华的 |
+| repugnant| 令人厌恶的|
+|morbid |病态的，不正常的 |
+| obligatory| 强制性的，义务性的；习惯性的|
 
 
 ### Phrase

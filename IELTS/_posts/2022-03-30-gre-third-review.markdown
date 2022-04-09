@@ -102,6 +102,8 @@ category: IELTSPosts
 | rail|ro revile or scold in harsh, insolent, or abusive language |
 | sway| to exert a guiding or controlling influence on; to move slowly from side to side|
 | balk|to stop short and refuse to proceed |
+| imbue| to permeate or influence as if by dyeing|
+| revile| to subject to verbal abuse|
 
 
 ### Adjective & Adverb
@@ -171,6 +173,11 @@ category: IELTSPosts
 | precipitous| extremely repid, hasty or abrupt; precipitate; very steep, perpendicular, or overhanging in rise of fall|
 | sterile| producing little or no vegetation; not producing or incapable of producing offspring; free from live bacteria or other microorganisms|
 | anonymous| not named or identified; lacking individuality, distinction, or recognizability|
+| discursive| moving from topic to topic without order|
+|imperturbable | marked by extreme calm, impassivity, and steadiness|
+|loquacious |very talkative; garrulous |
+|circumstantial |belonging to, consisting in, or dependent on circumstances; pertinent but not essential: incidental; marked by careful attention to detail |
+|unpertentious | free from ostentation, elegance, or affectation|
 
 
 ### Phrase
