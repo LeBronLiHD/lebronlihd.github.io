@@ -48,6 +48,9 @@ category: IELTSPosts
 | probity| adherence to the highest principles and ideals|
 |fission |the act or process of splitting the nucleus of an atom, when a large amount of energy is released |
 | deluge| an overwhleming amount or number; to send or give somebody or something a large number of thing at the same time|
+| remorse| a gnawing distress arising from a sense of guilt for past wrongs|
+| respite | an interval of rest or relief |
+| polymer|a chemical compound or mixture of compounds formed by polymerization and consisting essentially of repeating structural units |
 
 
 ### Verb
@@ -110,6 +113,13 @@ category: IELTSPosts
 | extrapolate|to from an opinion or to make an estimate about something from known facts |
 | deprecate| to express disapproval of; deplore; play down; make little of|
 | congruent| having the same size and shape; matching or in aggreement with something|
+| vanquish| to overcome in battle; subdue completely |
+|  commence|  to begin; start|
+| bewilder| to perplex or confuse especially by a complexity, variety, or multitude of objects or considerations|
+|berate |to scold or condemn vehemently and at length |
+|cater |to supply what is required or desired |
+|poise |to hold (something) in a balanced and steady position; to put into readiness |
+|obtrude | to be involved with something or to become noticeable in an unpleasant or annoying way|
 
 
 ### Adjective & Adverb
@@ -185,6 +195,13 @@ category: IELTSPosts
 |circumstantial |belonging to, consisting in, or dependent on circumstances; pertinent but not essential: incidental; marked by careful attention to detail |
 |unpertentious | free from ostentation, elegance, or affectation|
 | furtive| done by stealth|
+| dire| horrible; desperately urgent |
+| barren| devoid of something specified; not productive|
+| brazen| acing or done in a very open and shocking way without shame or embarrassment|
+| sluggish| displaying little movemenbt or activity; slow; inactive|
+| pejorative| tending to disparage or belittle|
+| pithy|precisely meaningful; forceful and brief |
+| overarching | dominating or embracing all else|
 
 
 ### Phrase

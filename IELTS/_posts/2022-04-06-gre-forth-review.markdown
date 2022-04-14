@@ -25,6 +25,7 @@ category: IELTSPosts
 |relief |removal or lightening of something oppressive painful, or distressing; a work of art with designs that stick out above the surface |
 | forage|food for animals especially when taken by browsing or grazing; to wander in search of forage or food; to make a search |
 |crater | a depression formed by an impact (as of a meteorite); a large hole in the top of a volcano|
+|realm |a field, sphere, or province |
 
 
 ### Verb
@@ -40,6 +41,16 @@ category: IELTSPosts
 | dwarf|cause to appear smaller or to seem inferior; smaller than normal size |
 | mitigate| to make less severe or painful|
 |shed |to drop something; to send light over something; a small building |
+|emulate  |to equal or approach euqlity with; to strive to equal or excel |
+| defer| to submit to another's wishes, opinion, or governance usually through deference or respect; put off, delay|
+|refine |to improve or perfect by pruning or polishing; to reduce to a pure state; purify |
+| prompt| to move or act; a reminder or cue; performed readily or immediately|
+| gratify| to make happy or satisfied|
+| circumvent|to avoid being stopped by |
+| betray| to deliver to an enemy by treachery; show, indicate|
+| ameliorate| to make better or more tolerable|
+ | split|to divide, to separate; a long crack or hole made when something broke  |
+ | qualify| to modify, limit, or restrict, as by giving exceptions; to make competent or eligible for an office, position, or task|
 
 
 ### Adjective & Adverb
@@ -53,6 +64,14 @@ category: IELTSPosts
 |preservative |having the power of preserving; something that preserves or has the power of preserving; especially: an additive used to protect against decay, discoloration, or spoilage |
 | sensational|arousing or tending to arouse (as by lurid details) a quick, intense, and usually supercifial interest, curiosity, or emotional reaction |
 | meager| lacking desirable qualities; deficient in quality or quantity|
+| prestigious|having prestige; esteemed |
+| derivative| nto new or orginal|
+| conceivable| imaginable or possible|
+| ubiquitous|existing or being everywhere at the same time |
+| imminent| likely to happen very soon|
+| esoteric| hard to understand|
+| impenetrable| incapable of being penetrated or pierced; incapable of being comperhended|
+|tedious |tiresome because of length or dullness |
 
 
 ### Phrase
