@@ -1087,12 +1087,12 @@ category: IELTSPosts
 | entangle| 卷入，使纠缠|
 |  entreat|恳求 |
 | exculpate| 开脱罪名|
-| execrate| 憎恶，痛骂|
+| *execrate*| 憎恶，痛骂|
 | *exempt*|免除，使豁免；豁免的，免除的 |
 |exterminate  |消灭，灭绝 |
 | extirpate| 根除，灭绝|
 | fathom|理解，弄清真相 |
-| *fawn*|阿谀奉承，拍马屁 |
+| **fawn**|阿谀奉承，拍马屁 |
 |fluster |使慌张，使混乱 |
 | foment|煽动，挑起，激起 |
 
@@ -1886,7 +1886,7 @@ category: IELTSPosts
 | culpable| 应受谴责的，难辞其咎的|
 | curt|简短而无礼的 |
 | dejected|沮丧的 |
-|  *despotic*|专横的  |
+|  **despotic**|专横的  |
 | dexterous|灵巧的，熟练的 |
 | discretionary|自由决定的，便宜行事的 |
 |dismal | 沮丧的，忧郁的；差劲的|
