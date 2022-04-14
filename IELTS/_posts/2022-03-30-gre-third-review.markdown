@@ -46,6 +46,8 @@ category: IELTSPosts
 | turmoil| a state or condition of extreme confusion, agitation, or commotion|
 | plight|an unfortunate, difficult, or precarious situation |
 | probity| adherence to the highest principles and ideals|
+|fission |the act or process of splitting the nucleus of an atom, when a large amount of energy is released |
+| deluge| an overwhleming amount or number; to send or give somebody or something a large number of thing at the same time|
 
 
 ### Verb
@@ -104,6 +106,10 @@ category: IELTSPosts
 | balk|to stop short and refuse to proceed |
 | imbue| to permeate or influence as if by dyeing|
 | revile| to subject to verbal abuse|
+|ebb |to fall from a higher to a lower level or from a better to a worse state; the period of time when the sea flows away from the land |
+| extrapolate|to from an opinion or to make an estimate about something from known facts |
+| deprecate| to express disapproval of; deplore; play down; make little of|
+| congruent| having the same size and shape; matching or in aggreement with something|
 
 
 ### Adjective & Adverb
@@ -178,6 +184,7 @@ category: IELTSPosts
 |loquacious |very talkative; garrulous |
 |circumstantial |belonging to, consisting in, or dependent on circumstances; pertinent but not essential: incidental; marked by careful attention to detail |
 |unpertentious | free from ostentation, elegance, or affectation|
+| furtive| done by stealth|
 
 
 ### Phrase

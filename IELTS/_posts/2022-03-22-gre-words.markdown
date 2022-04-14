@@ -504,6 +504,40 @@ category: IELTSPosts
 | verdict|裁决，裁定 |
 | vernacular|方言，地方话 |
 | vogue|时尚，流行 |
+| zenith|顶点，顶峰 |
+| addict|瘾君子；使上瘾 |
+| adjunct|附属物，附件；助手 |
+| allegiance|忠诚，效忠 |
+| apex| 顶点|
+| *aplomb*|镇定，沉着 |
+| appall|使惊骇 |
+| asperity|严厉，粗暴 |
+| aspersion|诽谤，中伤 |
+| *atrophy*|畏缩，衰退 |
+| augur|预言者；预言 |
+|backwater |停滞或落后的状态（或地方） |
+| bedrock |基石，基础  |
+| braggart| 吹牛者|
+| bumblebee|大黄蜂 |
+|cacophony |刺耳的声音 |
+|census |人口普查；人口统计 |
+|  chicanery|欺骗，诡计  |
+|collegiality |集体掌权 |
+|  *comity*|友好，和谐|
+| compendium| 概要|
+| compunction|悔恨，愧疚 |
+| *connoisseur*|行家，鉴赏家 |
+| consilience|符合，一致 |
+| cronyism|任人唯亲 |
+| cupidity| 贪婪，贪心|
+| *detritus*| 残渣|
+| dictum|格言，宣言 |
+| electorate|全体选民 |
+|  emendation|修订，校正 |
+|enmity |敌意，仇恨 |
+| ensemble |整体，整体效果；乐团，合奏组  |
+| finesse| 策略，手腕，技巧|
+| flattery|谄媚 |
 
 
 ### Verb
@@ -1002,6 +1036,65 @@ category: IELTSPosts
 | **usurp**|篡夺，夺取 |
 | vilify|诽谤，污蔑 |
 | whet| 刺激，激发；磨快，磨光|
+| *abet*| 怂恿（尤指对违法犯罪的协助，教唆等）；支持，鼓励|
+| abridge|缩短，删减 |
+| *abrogate*|废除 | 
+| acolyte|助手，随从 |
+| aggrieve| 使痛苦|
+| annotate|给...作注释 |
+| annul| 废除，取消|
+| apprise|告知 |
+| assent|同意，赞成 |
+| attenuate|削弱，降低 |
+| avenge| 复仇|
+| aver|断言，坚称 |
+| banish| 驱逐；清除，排除|
+| *beguile*|欺骗；使着迷 |
+| belabor| 过分强调，唠叨；痛打，抨击|
+| beleaguer| 使烦扰|
+| bemoan|哀叹，抱怨 |
+| blemish| 玷污；瑕疵，污点|
+| bumble|跌跌撞撞；犯错误，搞砸 |
+| *burlesque*| 嘲弄讽刺性的模仿，恶搞|
+| *calumniate*|诽谤，中伤 |
+|capitulate | 投降，屈服|
+| **castigate**|严厉批评，斥责 |
+|caterwaul |发出刺耳的声音 |
+|chastise |严厉批评 |
+| clot| 凝固|
+| *coddle*| 溺爱|
+|coerce | 迫使，胁迫|
+| comply| 服从，遵守|
+| concoct|混合，调制；编造，杜撰 |
+| congregate|聚集 |
+| consort|结交 |
+| croon| 柔情地唱或说，低声哼唱|
+| curb|限制，抑制 |
+| dabble|涉猎，浅尝 |
+|deflate |使泄气，使挫败 |
+| deify|把神化，崇拜|
+| deign|屈尊，俯就，降低身份 |
+| delve|探究，钻研 |
+| demean | 贬低，侮辱 |
+|detract |贬低 |
+| dilate| 扩张|
+| discompose |使不安 |
+| dishearten|使沮丧，使气馁 |
+|  elate| 使兴奋，使高兴|
+| *embroider*| 渲染（或润饰）|
+|enfeeble |使衰弱 |
+| ensue|即将发生|
+| entangle| 卷入，使纠缠|
+|  entreat|恳求 |
+| exculpate| 开脱罪名|
+| execrate| 憎恶，痛骂|
+| *exempt*|免除，使豁免；豁免的，免除的 |
+|exterminate  |消灭，灭绝 |
+| extirpate| 根除，灭绝|
+| fathom|理解，弄清真相 |
+| *fawn*|阿谀奉承，拍马屁 |
+|fluster |使慌张，使混乱 |
+| foment|煽动，挑起，激起 |
 
 
 ### Adjective & Adverb
@@ -1757,6 +1850,63 @@ category: IELTSPosts
 | vivacious|活泼的 |
 | *void*|无效的；空的，没有的 |
 | weary|疲劳的，倦怠的 |
+| abiotic|非生物的 |
+| aboveboard|光明正大的 |
+| abreast|并排地；跟得上最新发展的 |
+| abysmal|深不可测的；糟透的 |
+| amenable|顺从的 |
+| antediluvian| 古老的，过时的|
+| apposite| 合适的，贴切的|
+|  arable|适合耕种的  |
+| avaricious| 贪婪的|
+| backhanded|间接的（尤指暗讽的） |
+|  bellicose| 好斗的，好争吵的|
+|benighted | 愚昧无知的|
+| blatant| 公然的，明目张胆的|
+| bleak |  阴郁的；贫瘠的，荒凉的|
+| bookish| 书生气的，书呆子气的|
+| boorish|粗鲁的 |
+| bootless|无用的 |
+|  brackish| 微咸的，味道不好的 |
+| bulky|笨重的 |
+|callous | 冷漠无情的|
+| **cardinal**| 最重要的，最主要的|
+|carnivorous | 食肉的|
+|churlish| 粗鲁无礼的，坏脾气的 |
+| circuitous| 间接的，迂回的|
+| clerical|职员的，牧师的 |
+|coeval |同时代的 |
+| cohesive| 有聚合力的|
+| combative|好斗的 |
+|comprehensible |可理解的  |
+| compulsory|强制性的，义务的 |
+| concise|简洁的 |
+| coterminous|毗连的 |
+|*cryogenic* |冷冻的，低温的 |
+| culpable| 应受谴责的，难辞其咎的|
+| curt|简短而无礼的 |
+| dejected|沮丧的 |
+|  *despotic*|专横的  |
+| dexterous|灵巧的，熟练的 |
+| discretionary|自由决定的，便宜行事的 |
+|dismal | 沮丧的，忧郁的；差劲的|
+| duplicitous| 奸诈的|
+| durable|持久的，耐用的 |
+| earnest|严肃的，真诚的 |
+| edible|可以食用的 |
+| eligible|有资格的，合格的；合意的，中意的 |
+| empathetic|有同感的 |
+| encyclopedic| 百科全书的，全面的|
+| epistolary|书信的 |
+|exigent |紧迫的，苛求的 |
+|*exiguous*| 缺乏的|
+| fatuous| 愚蠢的|
+|fecund |多产的，肥沃的；有创造力的 |
+| feeble| 虚弱的|
+| fictitious|虚假的 |
+| fiscal| 财政的|
+| flagrant|骇人听闻的，罪恶昭著的 |
+| flighty|轻浮的，反复无常的 |
 
 
 ### Phrase
@@ -1771,4 +1921,16 @@ category: IELTSPosts
 |English | Chinese|
 |:----:|:----:|
 | | |
+
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|
 

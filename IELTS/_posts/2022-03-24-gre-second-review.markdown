@@ -162,6 +162,12 @@ category: IELTSPosts
 | annihilate|使消失，使毁灭 |
 | beset| 困扰，烦扰|
 | crab |抱怨 |
+| delude| 欺骗|
+| evince|表明，表现 |
+| deprave|使堕落 |
+|estrange | 使疏远|
+| dismantle|拆除；废除 |
+| expedite|加快，加速 |
 
 
 ### Adjective & Adverb
@@ -287,6 +293,14 @@ category: IELTSPosts
 | caustic|尖刻的，挖苦的 |
 | conversant|熟悉的，精通的 | 
 | clinical|临床的；冷静客观的 |
+| devious |曲折的，迂回的；狡诈的 |
+| dour|严厉的，阴郁的 |
+| gloomy|沮丧的，忧郁的 |
+|flippant |轻率无礼的；不严肃的 |
+| malicious|恶意的，怀恨的 |
+| impertinent|粗鲁无礼的；无关紧要的 |
+| impetuous|急躁冲动的，鲁莽的 |
+| irascible|易怒的；性情暴躁的 |
 
 
 ### Phrase
