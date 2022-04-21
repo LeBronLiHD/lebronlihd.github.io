@@ -70,6 +70,8 @@ category: IELTSPosts
 | surmise|猜测，推测 |
 |accession |增加；就任，登基；正式加入 |
 | calamity| 灾难|
+| verdict|裁决，裁定 |
+|subterfuge |诡计 |
 
 
 ### Verb
@@ -168,6 +170,15 @@ category: IELTSPosts
 |estrange | 使疏远|
 | dismantle|拆除；废除 |
 | expedite|加快，加速 |
+|  resonate|（声音）回响；引发共鸣|
+| vilify|诽谤，污蔑 |
+| resuscitate|使复活，使复兴 |
+| whet|刺激，激发；磨快，磨光 |
+| reproach| 斥责|
+|ruminate |反刍；沉思，琢磨 |
+|transgress |违反 |
+|  rally|聚集，团结|
+| stanch| 止血，平息|
 
 
 ### Adjective & Adverb
@@ -301,6 +312,19 @@ category: IELTSPosts
 | impertinent|粗鲁无礼的；无关紧要的 |
 | impetuous|急躁冲动的，鲁莽的 |
 | irascible|易怒的；性情暴躁的 |
+| protean|多变的，多样的 |
+| prickly|多刺的；易怒的 |
+| supple|柔韧的，灵活的；适应的 |
+| paltry|微不足道的，不重要的 |
+| morbid|病态的，不正常的 |
+|myopic |目光短浅的 |
+|  puerile|幼稚的，愚蠢的|
+|ruthless |残忍的，冷酷无情的 |
+| tactful|有分寸的，考虑周全的 |
+|tonic |有补益的 |
+| vivacious|活泼的 |
+| regal|富丽堂皇的，豪华的 |
+|trendy |时髦的 |
 
 
 ### Phrase
@@ -316,3 +340,14 @@ category: IELTSPosts
 |:----:|:----:|
 | | |
 
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|

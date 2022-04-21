@@ -217,3 +217,70 @@ category: IELTSPosts
 |:----:|:----:|
 | | |
 
+
+|English | Chinese|
+|:----:|:----:|
+| quip|a clever usually taunting remark |
+| prerogative|an exclusive or special right, power, or privilege |
+|surmise | a thought or idea baesd on scanty evidence; to guess or suppose something using insufficient evidencee|
+|anathema |someone or something intensely disliked or loathed |
+| stemma| a family tree; a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work|
+| tenure|the act, right, manner, or term of holding a job, office, or title |
+| accession|a process of increasing by addition (as to a collection or group); the act of coming to high office or a position of honor or power; the act of becoming part of an international organization  |
+| abeyance| a state of temporary inactivity|
+| lethargy|the quality or state of being lazy, sluggish, or indifferent |
+| ordeal|a severe trial or experience |
+| opprobrium| very strong disapproval or criticism of a person or thing especially by a large number of people; something that brings disgrace|
+| munition| weapons considered collectively; military supplies|
+| chimera| something that exists only in the imgination and is not possible in reality|
+| consternation|amazement or dismay that hinders or throws into confusion |
+
+
+|English | Chinese|
+|:----:|:----:|
+| agitate|to attempt to arouse public feeling; to excite and often trouble the mind or feelings of |
+| adore|to worship or honor as a deity or as divine; to regard with loving admirationand devotion |
+| abhor| to regard with extreme repugnance|
+| proscribe| to condemn or forbid as harmful or unlawful|
+| lament|to express sorrow, mourning, or regret for often demonstratively |
+| loom|to come into sight in enlarged or distorted and indistinct form often as a result of atmospheric conditions; to take shape as an impending occurrence |
+| crab|to complain about peevishly |
+| beset|to cause problems or difficulties for (someone or something) |
+| bequeath| to give or leave by will|
+| exude| to display conspicuously or abundantly|
+|deprave |to debase, especially morally |
+| evince|to show clearly that you have a feeling or quality |
+| deplore| to feel or express grief for; to consider unfortunate or deserving of deprecation|
+| molder| to crumble into particles|
+
+
+|English | Chinese|
+|:----:|:----:|
+|  smug| exhibiting or feeling great or offensive satisfaction with oneself or with one's situaton; self-righteously complacent|
+|tame | reduced from a state of native wildness especially so as to be tractable and useful to humans: domesticated; to tone down: soften; lacking spirit, zent, interest, or the capacity to excite: insipid|
+| rote |mechanical |
+|  taciturn|temperamentally disinclined to talk|
+| sordid| very dirty and unpleasant; marked by baseness or grossness; immoral or dishonest|
+|trifling | of slight worth or importance|
+| aghast|struck with terror, amazement, or horror |
+| abstemious| marked by restraint, especially in the concumption of food or alcohol|
+| profuse| exhibiting great abundance|
+| propitious|presenting favorable circumstances; auspicious |
+| meretricious|tawdrily and falsely attractive |
+| sedulous|diligent in application or pursuit |
+|resolute |marked by firm determination |
+| aloof|removed or distant either physically or emotionally |
+| rife|in widespread existence, practice, or use: increasingly prevalent |
+|inscrutable | not readily investigated, interpreted, or understood|
+| noxious|physically harmful or destructive ro living beings; disagreeable, obnoxious |
+| myriad| constituting a very large, indefinte number; an extremely large number of something|
+|precocious | exhibiting mature qualities at an unusually early age|
+|bogus | not real or genuine|
+|avid |desirous to the point of greed: urgent eager; characterized by enthusiasm and vigorous pursuit |
+| contagious|communicable by contact; exciting similar emotions or conduct in others |
+| frugal| characterized by or reflecting economy in the use of resources|
+| external| having infinite duration|
+|irascible |marked by hot temper and easily provoked anger |
+| iniquitous|very unfair or evil |
+| finicky|extremely or excessively particular, exacting, or meticulous in taste or standards |
+| flamboyant| marked by or given to strikingly elaborate or colorful display or behavior|

@@ -75,6 +75,10 @@ category: IELTSPosts
 | premium|珍贵；额外费用，附加费 |
 | pier| 桥墩；码头|
 |recourse |依赖 |
+| acolyte|助手，随从 |
+| atrophy|萎缩，衰退 |
+| ensemble|整体，整体效果；乐团，合奏组 |
+| cronyism|任人唯亲 |
 
 
 ### Verb
@@ -196,6 +200,17 @@ category: IELTSPosts
 | regiment|严格管理；军团 |
 | quell|镇压；减轻，缓解 |
 |  prefigure| 预示，预兆 |
+|aggrieve |使痛苦 |
+| abrogate| 废除|
+| fluster| 使慌张，使混乱|
+| execrate|憎恨，痛骂 |
+| deflate|使泄气，使挫败 |
+| delve|探究，钻研 | 
+| croon|柔情的唱或说，低声哼唱  |
+| concoct|混合，调制；编造，杜撰 |
+|caterwaul |发出刺耳的叫声 |
+| castigate| 严厉批评，指责|
+| calumniate|诽谤，中伤 |
 
 
 ### Adjective & Adverb
@@ -356,6 +371,10 @@ category: IELTSPosts
 | repugnant| 令人厌恶的|
 |morbid |病态的，不正常的 |
 | obligatory| 强制性的，义务性的；习惯性的|
+| blatant|公然的，明目张胆的 |
+| fictitious|虚假的 |
+| exiguous|缺乏的 |
+| churlish|粗鲁无礼的，坏脾气的 |
 
 
 ### Phrase
@@ -371,3 +390,14 @@ category: IELTSPosts
 |:----:|:----:|
 | | |
 
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|
