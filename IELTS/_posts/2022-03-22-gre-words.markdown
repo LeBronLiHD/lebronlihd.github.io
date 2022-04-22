@@ -1925,12 +1925,110 @@ category: IELTSPosts
 
 |English | Chinese|
 |:----:|:----:|
+| foray| 首次尝试，涉足；突袭|
+| fringe|边缘，外围；非主流的，次要的 |
+| groove| 沟槽|
+| grudge| 怨恨，不满|
+| *harangue*| 训斥，高谈阔论；抨击|
+|  hedge|篱笆；限制，阻碍；回避|
+| heyday|全盛期 |
+| hodgepodge|大杂烩，混杂物 |
+| hysteria|情绪失控，歇斯底里 |
+| idiosyncrasy| （个人的）癖好，（事物的）特点，特质|
+| inception |开始 |
+| insulin|胰岛素 |
+| ion| 离子|
+|laity |俗人，门外汉 |
+| lampoon|讥讽，嘲讽 |
+| laureate| 获奖者，荣誉获得者|
+| locale| 场所，地点|
+| malady|疾病，弊端 |
+| maze|错综复杂；迷宫 |
+| metalloid|类金属，准金属 |
+|  mirth|欢乐 |
+|morale |士气|
+|moratorium |暂停，中止 |
+| mural|壁画 |
+|neophyte |新手，初学者 |
+|nepotism |任人唯亲 |
+| obeisance|尊敬 |
+| obesity|肥胖 |
 
 
 |English | Chinese|
 |:----:|:----:|
+| forebode|预示 |
+| forswear| 发誓放弃|
+| garnish|装饰 |
+|*gild* |镀金；虚假装饰 |
+|*gloat* |得意洋洋，幸灾乐祸 |
+| *gouge*|欺诈，诈取 |
+| groan|呻吟，抱怨 |
+| hamstring|使无能为力 |
+|*handicap* |妨碍；不利条件 |
+|harrow |使苦恼 |
+|haunt |闹鬼；（不愉快的事）萦绕心头；经常去 |
+| hoax| 哄骗；骗局|
+| husband| 节约使用，节省|
+| *inaugurate* | 使正式就任；开创，开始|
+| inflame|点燃；激怒；加剧，恶化|
+| *ingratiate*| 讨好|
+| intoxicate|使陶醉 |
+|jockey | 不择手段谋取，用各种手段获得|
+|jumble | 使混乱；混杂|
+| kindle|点燃；激发 |
+| lurk|潜藏，潜伏 |
+|lynch |用私刑处死 |
+|meddle |管闲事，干涉 |
+|mourn |哀悼 |
+| nonplus|使困惑 |
+|obliterate| 摧毁，清除 |
 
 
 |English | Chinese|
 |:----:|:----:|
-
+| frail|脆弱的 |
+| fraught|忧虑的；充满的 |
+|frigid |寒冷的；冷漠的 |
+|fungible |可替代的 |
+| garish|炫目的，俗艳的 |
+| genial|和蔼的，友善的 |
+| glancing|间接的，次要的；倾斜的 |
+| grandiloquent| 言辞浮夸的，夸张的|
+|hagiographic |过于奉承的，神圣化的 |
+| herbivorous|食草的 |
+| hortatory|劝告的 |
+| idiomatic| 惯用的，地道的|
+|impervious |不能渗透的；不受影响的，无法伤害的 |
+|  impotent|无能的，无力的|
+|impregnable |坚不可摧的 |
+|impressionable |易受影响的，无主见的 |
+|  inchoate|刚开始的，刚起步的|
+| **incumbent**|在职的；负有责任的 |
+|inferable |能推论出的 |
+| infinitesimal|极微小的 |
+| insidious|暗中为害的，潜在的 |
+| insolvent|无偿债能力的，破产的 |
+| instantaneous |即刻的，瞬间的|
+| insubordinate|不服从的，反抗的 |
+| interdisciplinary|跨学科的 |
+| intermediary| 中间的，中介的，调解的；调解人，中介|
+| invertebrate|无脊椎的；无脊椎动物 |
+| irenic| 和平主义的，调解安抚的|
+|  itinerant|巡回的，流动的 |
+| jovial|欢乐的，愉快的 |
+| lugubrious| 悲伤的|
+| luxuriant|繁茂的；丰富的，华丽的 |
+| magnanimous| 宽宏的，大度的|
+| magnificent|壮观的，宏伟的 |
+| maladroit|笨拙的 |
+|malevolent |恶毒的 | 
+| martinet| 严格遵守纪律的人|
+|  meek|温顺的，顺从的|
+| melodious|悦耳的，优美的 |
+|  meteoric|迅速而短暂的；流星的 |
+| morose|忧郁的 |
+|neolithic | 新石器时代的|
+|nonchalant |漠不关心的 |
+| nondescript |无特性的，不吸引人的 |
+| nugatory|琐碎的，无价值的 |
