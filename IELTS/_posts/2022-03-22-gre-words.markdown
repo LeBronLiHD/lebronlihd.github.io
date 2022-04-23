@@ -538,6 +538,34 @@ category: IELTSPosts
 | ensemble |整体，整体效果；乐团，合奏组  |
 | finesse| 策略，手腕，技巧|
 | flattery|谄媚 |
+| foray| 首次尝试，涉足；突袭|
+| fringe|边缘，外围；非主流的，次要的 |
+| groove| 沟槽|
+| grudge| 怨恨，不满|
+| *harangue*| 训斥，高谈阔论；抨击|
+|  hedge|篱笆；限制，阻碍；回避|
+| heyday|全盛期 |
+| hodgepodge|大杂烩，混杂物 |
+| hysteria|情绪失控，歇斯底里 |
+| idiosyncrasy| （个人的）癖好，（事物的）特点，特质|
+| inception |开始 |
+| insulin|胰岛素 |
+| ion| 离子|
+|laity |俗人，门外汉 |
+| lampoon|讥讽，嘲讽 |
+| laureate| 获奖者，荣誉获得者|
+| locale| 场所，地点|
+| malady|疾病，弊端 |
+| maze|错综复杂；迷宫 |
+| metalloid|类金属，准金属 |
+|  mirth|欢乐 |
+|morale |士气|
+|moratorium |暂停，中止 |
+| mural|壁画 |
+|neophyte |新手，初学者 |
+|nepotism |任人唯亲 |
+| obeisance|尊敬 |
+| obesity|肥胖 |
 
 
 ### Verb
@@ -1095,6 +1123,32 @@ category: IELTSPosts
 | **fawn**|阿谀奉承，拍马屁 |
 |fluster |使慌张，使混乱 |
 | foment|煽动，挑起，激起 |
+| forebode|预示 |
+| forswear| 发誓放弃|
+| garnish|装饰 |
+|*gild* |镀金；虚假装饰 |
+|*gloat* |得意洋洋，幸灾乐祸 |
+| *gouge*|欺诈，诈取 |
+| groan|呻吟，抱怨 |
+| hamstring|使无能为力 |
+|*handicap* |妨碍；不利条件 |
+|harrow |使苦恼 |
+|haunt |闹鬼；（不愉快的事）萦绕心头；经常去 |
+| hoax| 哄骗；骗局|
+| husband| 节约使用，节省|
+| *inaugurate* | 使正式就任；开创，开始|
+| inflame|点燃；激怒；加剧，恶化|
+| *ingratiate*| 讨好|
+| intoxicate|使陶醉 |
+|jockey | 不择手段谋取，用各种手段获得|
+|jumble | 使混乱；混杂|
+| kindle|点燃；激发 |
+| lurk|潜藏，潜伏 |
+|lynch |用私刑处死 |
+|meddle |管闲事，干涉 |
+|mourn |哀悼 |
+| nonplus|使困惑 |
+|obliterate| 摧毁，清除 |
 
 
 ### Adjective & Adverb
@@ -1907,86 +1961,6 @@ category: IELTSPosts
 | fiscal| 财政的|
 | flagrant|骇人听闻的，罪恶昭著的 |
 | flighty|轻浮的，反复无常的 |
-
-
-### Phrase
-
-|English | Chinese|
-|:----:|:----:|
-| | |
-
-
-### Sentence
-
-|English | Chinese|
-|:----:|:----:|
-| | |
-
-
-|English | Chinese|
-|:----:|:----:|
-| foray| 首次尝试，涉足；突袭|
-| fringe|边缘，外围；非主流的，次要的 |
-| groove| 沟槽|
-| grudge| 怨恨，不满|
-| *harangue*| 训斥，高谈阔论；抨击|
-|  hedge|篱笆；限制，阻碍；回避|
-| heyday|全盛期 |
-| hodgepodge|大杂烩，混杂物 |
-| hysteria|情绪失控，歇斯底里 |
-| idiosyncrasy| （个人的）癖好，（事物的）特点，特质|
-| inception |开始 |
-| insulin|胰岛素 |
-| ion| 离子|
-|laity |俗人，门外汉 |
-| lampoon|讥讽，嘲讽 |
-| laureate| 获奖者，荣誉获得者|
-| locale| 场所，地点|
-| malady|疾病，弊端 |
-| maze|错综复杂；迷宫 |
-| metalloid|类金属，准金属 |
-|  mirth|欢乐 |
-|morale |士气|
-|moratorium |暂停，中止 |
-| mural|壁画 |
-|neophyte |新手，初学者 |
-|nepotism |任人唯亲 |
-| obeisance|尊敬 |
-| obesity|肥胖 |
-
-
-|English | Chinese|
-|:----:|:----:|
-| forebode|预示 |
-| forswear| 发誓放弃|
-| garnish|装饰 |
-|*gild* |镀金；虚假装饰 |
-|*gloat* |得意洋洋，幸灾乐祸 |
-| *gouge*|欺诈，诈取 |
-| groan|呻吟，抱怨 |
-| hamstring|使无能为力 |
-|*handicap* |妨碍；不利条件 |
-|harrow |使苦恼 |
-|haunt |闹鬼；（不愉快的事）萦绕心头；经常去 |
-| hoax| 哄骗；骗局|
-| husband| 节约使用，节省|
-| *inaugurate* | 使正式就任；开创，开始|
-| inflame|点燃；激怒；加剧，恶化|
-| *ingratiate*| 讨好|
-| intoxicate|使陶醉 |
-|jockey | 不择手段谋取，用各种手段获得|
-|jumble | 使混乱；混杂|
-| kindle|点燃；激发 |
-| lurk|潜藏，潜伏 |
-|lynch |用私刑处死 |
-|meddle |管闲事，干涉 |
-|mourn |哀悼 |
-| nonplus|使困惑 |
-|obliterate| 摧毁，清除 |
-
-
-|English | Chinese|
-|:----:|:----:|
 | frail|脆弱的 |
 | fraught|忧虑的；充满的 |
 |frigid |寒冷的；冷漠的 |
@@ -2032,3 +2006,29 @@ category: IELTSPosts
 |nonchalant |漠不关心的 |
 | nondescript |无特性的，不吸引人的 |
 | nugatory|琐碎的，无价值的 |
+
+
+### Phrase
+
+|English | Chinese|
+|:----:|:----:|
+| | |
+
+
+### Sentence
+
+|English | Chinese|
+|:----:|:----:|
+| | |
+
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|
