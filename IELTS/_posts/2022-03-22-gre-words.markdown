@@ -566,6 +566,39 @@ category: IELTSPosts
 |nepotism |任人唯亲 |
 | obeisance|尊敬 |
 | obesity|肥胖 |
+|outfit |全套服装 |
+|paleontology |古生物学 |
+| pancreas|胰腺 |
+| pandemic|流行病；大范围流行的 |
+| paternity|父权，父系 |
+| pathos|感伤|
+|pedagogue |教师（尤指好为人师者） |
+|peninsula |半岛 |
+| philistine| 俗气的人，文化修养低的人|
+|pilgrim | 朝圣者|
+| pitcher| 投球手；水罐|
+| platitude|陈词滥调 |
+| plumage|全身羽毛 |
+| polymath|博学家 |
+|porcelain | 瓷器|
+| precambrian|前寒武纪 |
+| predicament| 困境，窘境|
+| proxy|代理，代替者 |
+| pseudonym|假名，笔名 |
+| quack|庸医，江湖郎中 |
+| quandary| 窘境，困境|
+| **rapport**|和睦，友善 |
+|*reconnaissance* |侦查 |
+| regimen|规则，方法 |
+| *rhapsody*|狂想曲 |
+| *sanctuary*| 避难所，庇护所|
+| sermon|布道，说教 |
+| skink|石龙子，小蜥蜴 |
+| slant|观点，偏见；倾斜 |
+| sloth|懒惰，懈怠；树懒 |
+| sonata|奏鸣曲 |
+| spike|骤升，飙升 |
+| stigma|耻辱 |
 
 
 ### Verb
@@ -1149,6 +1182,36 @@ category: IELTSPosts
 |mourn |哀悼 |
 | nonplus|使困惑 |
 |obliterate| 摧毁，清除 |
+| oust|驱逐，罢黜 |
+| palliate| 减轻，缓解，平息|
+|  pan|严厉批评 |
+| perforate|刺穿，穿透 |
+|**persecute** |迫害；烦扰 |
+|pillory |嘲弄，羞辱 |
+| pledge|保证，许诺 |
+| plod|沉重缓慢地走；辛勤工作 |
+| plunder| 掠夺，窃取| 
+| proffer| 提供|
+| prognosis|预期，预判 |
+| puncture|刺穿；削弱，使无效；小孔，破洞 |
+| query|质疑 |
+| rant|咆哮；斥责 |
+| redeem|弥补，挽回 |
+| rejoice|欣喜，高兴 |
+| remunerate|提供报酬，给予补偿 |
+| repeal|废除，撤销 |
+| reverberate|反射，回声；产生巨大反响，影响深远 |
+| revoke|撤销，废除 |
+| roil|搅乱，使混乱 |
+|  sap|消耗，削弱；健康，精力 |
+| scintillate|闪烁 |
+| shirk|逃避，规避 |
+|shriek |尖叫 |
+| simulate|模拟，模仿 |
+| slumber|睡眠，蛰伏 |
+| smother|使窒息；抑制 |
+| spew|喷出，涌出 |
+|spurn |（轻蔑地）拒绝 |
 
 
 ### Adjective & Adverb
@@ -2006,6 +2069,43 @@ category: IELTSPosts
 |nonchalant |漠不关心的 |
 | nondescript |无特性的，不吸引人的 |
 | nugatory|琐碎的，无价值的 |
+| officious| 爱管闲事的|
+| omnipresent|无处不在的 |
+| omniscient| 无所不知的|
+| opportune|适当的，合适的 |
+| overbearing|傲慢的，专横跋扈的 |
+| *overblown*|夸张的 |
+| perforce|必定，势必 |
+| permeable| 可渗透的|
+| perspicacious| 有洞察力的|
+| perverse|不正当的，不合常理的 |
+| photochemical|光化学的 |
+| piecemeal|零散的 |
+| pivotal|关键的 |
+| portentous|预兆的；自命不凡的 |
+|prepossessing |给人好感的，有吸引力的 |
+| pungent|辛辣刺激的；讽刺的，尖刻的 |
+|  puny|弱小的，微弱的 |
+| redolent|芬芳的 |
+| resplendent|华丽的，灿烂的 |
+| revisionist|修正主义的 |
+| riveting|吸引人的 |
+| rosy| 乐观的，充满希望的|
+| salacious|淫秽的，猥亵的 |
+| sapient|智慧的，聪明的 |
+| *sardonic*|讥讽的，嘲笑的 |
+| sartorial|裁缝的，衣着的 |
+| sectarian|宗派的，狭隘的 |
+| sensuous|给人快感的，愉悦感官的 |
+| sententious|爱说教的；简洁精炼的 |
+| solemn|严肃的，庄严的 |
+| somber|灰暗的，单调的；忧伤的，忧郁的 |
+| somnolent|瞌睡的，困倦的 |
+| soporific|催眠的 |
+| spartan|简朴的，清苦的 |
+| staunch|坚定的，忠诚的 |
+| stratified|分阶层的，等级分化的 |
+|strident|刺耳的，尖锐的|
 
 
 ### Phrase
