@@ -72,6 +72,9 @@ category: IELTSPosts
 | calamity| 灾难|
 | verdict|裁决，裁定 |
 |subterfuge |诡计 |
+| compendium|概要 |
+| detritus|残渣 |
+| cacophony|刺耳的声音 |
 
 
 ### Verb
@@ -179,6 +182,18 @@ category: IELTSPosts
 |transgress |违反 |
 |  rally|聚集，团结|
 | stanch| 止血，平息|
+| castigate|严厉批评，斥责 |
+|capitulate |投降，屈服 |
+| clot|凝固 |
+|detract|贬低 |
+| exempt|免除，使豁免；豁免的，免除的 |
+| consort|结交 |
+|chastise |严厉批评 |
+| execrate|憎恨，痛骂 |
+| coddle| 溺爱|
+| embroider|渲染（或润饰） |
+| humble|跌跌撞撞；犯错误，搞砸 |
+|foment |煽动，挑起，激起 |
 
 
 ### Adjective & Adverb
@@ -325,6 +340,18 @@ category: IELTSPosts
 | vivacious|活泼的 |
 | regal|富丽堂皇的，豪华的 |
 |trendy |时髦的 |
+| cryogenic| 冷冻的，低温的|
+| fatuous|愚蠢的 |
+| cardinal|最重要的，最主要的|
+|exigent |紧迫的；苛求的 |
+| dismal| 沮丧的，忧郁的；差劲的|
+|coterminous |毗连的 |
+| fecund|多产的，肥沃的；有创造力的 |
+| clerical|职员的，牧师的 |
+| callous| 冷漠无情的|
+| exiguous|缺乏的 |
+| fictitious|虚假的 |
+| despotic|专横的 |
 
 
 ### Phrase

@@ -51,6 +51,25 @@ category: IELTSPosts
 | remorse| a gnawing distress arising from a sense of guilt for past wrongs|
 | respite | an interval of rest or relief |
 | polymer|a chemical compound or mixture of compounds formed by polymerization and consisting essentially of repeating structural units |
+| quip|a clever usually taunting remark |
+| prerogative|an exclusive or special right, power, or privilege |
+|surmise | a thought or idea baesd on scanty evidence; to guess or suppose something using insufficient evidencee|
+|anathema |someone or something intensely disliked or loathed |
+| stemma| a family tree; a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work|
+| tenure|the act, right, manner, or term of holding a job, office, or title |
+| accession|a process of increasing by addition (as to a collection or group); the act of coming to high office or a position of honor or power; the act of becoming part of an international organization  |
+| abeyance| a state of temporary inactivity|
+| lethargy|the quality or state of being lazy, sluggish, or indifferent |
+| ordeal|a severe trial or experience |
+| opprobrium| very strong disapproval or criticism of a person or thing especially by a large number of people; something that brings disgrace|
+| munition| weapons considered collectively; military supplies|
+| chimera| something that exists only in the imgination and is not possible in reality|
+| consternation|amazement or dismay that hinders or throws into confusion |
+| zenith|the highest point |
+| aplomb| complete and confident composure or self-assurance|
+| atrophy|decrease in size or wasting away of a body part or tissue |
+| augur|an official diviner of ancient Rome; to foretell especially from omens |
+| cupidity| a strong desire for money or possessions|
 
 
 ### Verb
@@ -120,6 +139,29 @@ category: IELTSPosts
 |cater |to supply what is required or desired |
 |poise |to hold (something) in a balanced and steady position; to put into readiness |
 |obtrude | to be involved with something or to become noticeable in an unpleasant or annoying way|
+| agitate|to attempt to arouse public feeling; to excite and often trouble the mind or feelings of |
+| adore|to worship or honor as a deity or as divine; to regard with loving admirationand devotion |
+| abhor| to regard with extreme repugnance|
+| proscribe| to condemn or forbid as harmful or unlawful|
+| lament|to express sorrow, mourning, or regret for often demonstratively |
+| loom|to come into sight in enlarged or distorted and indistinct form often as a result of atmospheric conditions; to take shape as an impending occurrence |
+| crab|to complain about peevishly |
+| beset|to cause problems or difficulties for (someone or something) |
+| bequeath| to give or leave by will|
+| exude| to display conspicuously or abundantly|
+|deprave |to debase, especially morally |
+| evince|to show clearly that you have a feeling or quality |
+| deplore| to feel or express grief for; to consider unfortunate or deserving of deprecation|
+| molder| to crumble into particles|
+| aggrieve| to give pain or trouble to|
+| abet|to assist ot support in the achievement of purpose; especially: to assist, encourage, instigate, or support with criminal intent in attempting or carrying out a crime; to actively second and encourage (as an activity or plan) |
+| beleaguer|to cause constant or repeated trouble for |
+| attenuate|to lessen the amount, force, magnitude, or value of |
+| deflate| to make (someone) lose confidence or pride|
+| concoct|to make by mixing different things together; to invent or develop |
+| curb|to check, restrain, or control as if with a curb; rein in |
+| calumniate|to utter maliciously false statements, charges, or imputations about |
+| comply| to conform, submit, or adapt (as to a regulation or to another's wishes) as required or requested|
 
 
 ### Adjective & Adverb
@@ -202,60 +244,6 @@ category: IELTSPosts
 | pejorative| tending to disparage or belittle|
 | pithy|precisely meaningful; forceful and brief |
 | overarching | dominating or embracing all else|
-
-
-### Phrase
-
-|English | Paraphrase|
-|:----:|:----:|
-| | |
-
-
-### Sentence
-
-|English | Paraphrase|
-|:----:|:----:|
-| | |
-
-
-|English | Chinese|
-|:----:|:----:|
-| quip|a clever usually taunting remark |
-| prerogative|an exclusive or special right, power, or privilege |
-|surmise | a thought or idea baesd on scanty evidence; to guess or suppose something using insufficient evidencee|
-|anathema |someone or something intensely disliked or loathed |
-| stemma| a family tree; a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work|
-| tenure|the act, right, manner, or term of holding a job, office, or title |
-| accession|a process of increasing by addition (as to a collection or group); the act of coming to high office or a position of honor or power; the act of becoming part of an international organization  |
-| abeyance| a state of temporary inactivity|
-| lethargy|the quality or state of being lazy, sluggish, or indifferent |
-| ordeal|a severe trial or experience |
-| opprobrium| very strong disapproval or criticism of a person or thing especially by a large number of people; something that brings disgrace|
-| munition| weapons considered collectively; military supplies|
-| chimera| something that exists only in the imgination and is not possible in reality|
-| consternation|amazement or dismay that hinders or throws into confusion |
-
-
-|English | Chinese|
-|:----:|:----:|
-| agitate|to attempt to arouse public feeling; to excite and often trouble the mind or feelings of |
-| adore|to worship or honor as a deity or as divine; to regard with loving admirationand devotion |
-| abhor| to regard with extreme repugnance|
-| proscribe| to condemn or forbid as harmful or unlawful|
-| lament|to express sorrow, mourning, or regret for often demonstratively |
-| loom|to come into sight in enlarged or distorted and indistinct form often as a result of atmospheric conditions; to take shape as an impending occurrence |
-| crab|to complain about peevishly |
-| beset|to cause problems or difficulties for (someone or something) |
-| bequeath| to give or leave by will|
-| exude| to display conspicuously or abundantly|
-|deprave |to debase, especially morally |
-| evince|to show clearly that you have a feeling or quality |
-| deplore| to feel or express grief for; to consider unfortunate or deserving of deprecation|
-| molder| to crumble into particles|
-
-
-|English | Chinese|
-|:----:|:----:|
 |  smug| exhibiting or feeling great or offensive satisfaction with oneself or with one's situaton; self-righteously complacent|
 |tame | reduced from a state of native wildness especially so as to be tractable and useful to humans: domesticated; to tone down: soften; lacking spirit, zent, interest, or the capacity to excite: insipid|
 | rote |mechanical |
@@ -284,3 +272,34 @@ category: IELTSPosts
 | iniquitous|very unfair or evil |
 | finicky|extremely or excessively particular, exacting, or meticulous in taste or standards |
 | flamboyant| marked by or given to strikingly elaborate or colorful display or behavior|
+| bleak|gloomy and somber; unsheltered and barren |
+| brackish| somewhat salty; not appealling to the taste|
+| apposite|highly pertinent or appropriate |
+| abiotic| not involoving biology or living things|
+| flagrant|conspicuously offensive |
+
+
+### Phrase
+
+|English | Paraphrase|
+|:----:|:----:|
+| | |
+
+
+### Sentence
+
+|English | Paraphrase|
+|:----:|:----:|
+| | |
+
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|
+
+
+|English | Chinese|
+|:----:|:----:|

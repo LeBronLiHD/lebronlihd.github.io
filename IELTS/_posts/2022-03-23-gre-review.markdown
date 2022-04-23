@@ -79,6 +79,7 @@ category: IELTSPosts
 | atrophy|萎缩，衰退 |
 | ensemble|整体，整体效果；乐团，合奏组 |
 | cronyism|任人唯亲 |
+|grudge  |怨恨，不满|
 
 
 ### Verb
@@ -211,6 +212,7 @@ category: IELTSPosts
 |caterwaul |发出刺耳的叫声 |
 | castigate| 严厉批评，指责|
 | calumniate|诽谤，中伤 |
+| ingratiate |讨好 |
 
 
 ### Adjective & Adverb
@@ -375,6 +377,12 @@ category: IELTSPosts
 | fictitious|虚假的 |
 | exiguous|缺乏的 |
 | churlish|粗鲁无礼的，坏脾气的 |
+|invertebrate |无脊椎的；无脊椎动物 |
+| melodious|悦耳的，优美的 |
+| maladroit|笨拙的 |
+| incumbent|在职的；负有责任的 |
+| genial|和蔼的，友善的 |
+| fraught|忧虑的；充满的 |
 
 
 ### Phrase
