@@ -195,7 +195,9 @@ $$
 y=f(u), u=g(x) \quad \frac{\partial y}{\partial x}=\frac{\partial y}{\partial u} \frac{\partial u}{\partial x}
 $$
 #### 举例
-![image.png](attachment:image.png)
+
+![image.png]({{ site.url }}/images/Vision2022/6/1.png)
+
 - 误差
 $$
 E=\frac{1}{2}(y-t)^{2}
@@ -279,7 +281,9 @@ x.grad,x.grad == 4 * x
 
 
 ## Softmax激活函数
-![image.png](attachment:image.png)
+
+![image.png]({{ site.url }}/images/Vision2022/6/2.png)
+
 - 现在我们将优化参数以最大化观测数据的概率。
 - 为了得到预测结果，我们将设置一个阈值，如选择具有最大概率的标签。
 - 我们希望模型的输出$\hat{y}_j$可以视为属于类$j$的概率，然后选择具有最大输出值的类别$\operatorname*{argmax}_j y_j$作为我们的预测。
