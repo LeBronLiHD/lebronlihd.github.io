@@ -633,9 +633,9 @@ def train_model(model, train_loader, test_loader, loss_func, optimizer, device, 
         for step,data in enumerate(train_loader):
             model.train() 
             x,y = data[0].to(device), data[1].to(device)    
-            {{ site.url }}/images/Vision2022/6/output = model(x) ## 模型在 X 上的输出: N * num_class
-            pre_lab = torch.argmax({{ site.url }}/images/Vision2022/6/output, 1) ## 获得预测结果
-            loss = loss_func({{ site.url }}/images/Vision2022/6/output, y) ## 损失
+            output = model(x) ## 模型在 X 上的输出: N * num_class
+            pre_lab = torch.argmax(output, 1) ## 获得预测结果
+            loss = loss_func(output, y) ## 损失
             optimizer.zero_grad() ## 每次迭代将梯度初始化为0
             loss.backward() ## 损失的后向传播， 计算梯度
             optimizer.step() ## 使用梯度进行优化
@@ -656,9 +656,9 @@ def train_model(model, train_loader, test_loader, loss_func, optimizer, device, 
             X_test, y_test = data[0].to(device), data[1].to(device)     
             X_test.requires_grad=True
             with torch.no_grad():
-                {{ site.url }}/images/Vision2022/6/output = model(X_test)
-            test_loss = loss_func({{ site.url }}/images/Vision2022/6/output, y_test )
-            _, pred = torch.max({{ site.url }}/images/Vision2022/6/output.data, 1)
+                output = model(X_test)
+            test_loss = loss_func(output, y_test )
+            _, pred = torch.max(output.data, 1)
             val_corrects += torch.sum(pred == y_test.data)
             val_loss += test_loss.item()*X_test.size(0)
             val_num += X_test.size(0)
@@ -811,10 +811,10 @@ plt.imshow(x[0].squeeze().numpy(),'gray')
 
 
 ```python
-{{ site.url }}/images/Vision2022/6/output = net.conv1(x[0].unsqueeze(dim=0).to(device))
+output = net.conv1(x[0].unsqueeze(dim=0).to(device))
 for i in range(6):
     plt.subplot(2,3,i+1)
-    plt.imshow({{ site.url }}/images/Vision2022/6/output[0][i].squeeze().detach().cpu().numpy(),'gray')
+    plt.imshow(output[0][i].squeeze().detach().cpu().numpy(),'gray')
 ```
 
 

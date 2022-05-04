@@ -439,8 +439,8 @@ len(train_loader),60000/256
 ```python
 for X, y in train_loader:
     break
-{{ site.url }}/images/Vision2022/5/output = net.forward(X)
-X.shape,{{ site.url }}/images/Vision2022/5/output.shape
+output = net.forward(X)
+X.shape, output.shape
 ```
 
 
@@ -470,9 +470,9 @@ for epoch in range(num_epochs):
     
     for X, y in train_loader:
         net.train() ## 表明模型在训练
-        {{ site.url }}/images/Vision2022/5/output = net.forward(X) ## 模型在 X 上的输出: N * num_class
-        train_loss = loss_func({{ site.url }}/images/Vision2022/5/output, y ) ## 交叉熵误差
-        _, pred = torch.max({{ site.url }}/images/Vision2022/5/output.data, 1) ## 获得预测结果
+        output = net.forward(X) ## 模型在 X 上的输出: N * num_class
+        train_loss = loss_func(output, y ) ## 交叉熵误差
+        _, pred = torch.max(output.data, 1) ## 获得预测结果
         optimizer.zero_grad() ## 每次迭代将梯度初始化为0
         train_loss.backward() ## 损失的后向传播， 计算梯度
         optimizer.step() ## 使用梯度进行优化
@@ -483,9 +483,9 @@ for epoch in range(num_epochs):
     val_loss = 0
     for data in test_loader:
         X_test, y_test = data        
-        {{ site.url }}/images/Vision2022/5/output = net(X_test)
-        test_loss = loss_func({{ site.url }}/images/Vision2022/5/output, y_test )
-        _, pred = torch.max({{ site.url }}/images/Vision2022/5/output.data, 1)
+        output = net(X_test)
+        test_loss = loss_func(output, y_test )
+        _, pred = torch.max(output.data, 1)
         test_correct += torch.sum(pred == y_test.data)
         val_loss += test_loss.item()
     print("Loss is:{:.4f}, Train_accuracy is {:.4f}%, Test_accuracy is {:.4f}%"
